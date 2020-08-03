@@ -17,7 +17,7 @@ title: amphibioscope
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   your daily amphibian-infused horoscopes
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/amphibioscope" # the subpath of your site, e.g. /blog
 url: "http://tarvinlab.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: amphibioscope
 github_username:  TarvinLab
