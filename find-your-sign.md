@@ -8,7 +8,6 @@ permalink: /find-your-sign/
 ![Scutum](constellations/Scutum.png){: width="350px" height="350px" style="float:right; padding:10px"}
 &nbsp; **Dates**: April 25 - June 4
 
-
 **Description**: Scuta are known as the protectors. Despite a tough exterior, the loyalty and strength of a Scutum makes it well worth the effort to get to know one. Scuta are often warm and welcoming once you get past their external barriers. Given their stubbornness, Scuta are driven to scheme for their success, often coming up with surprising solutions to difficult problems. Scutum individuals have the most difficulty relating to Eridanus and Volans, though they get along well with Hercules and Lepus. 
   
 **General Amphibian Characteristics**: Bumpy toads, rough skinned newts, and terrestrial caecilians.<br />
@@ -28,9 +27,10 @@ Mary Jackson, NASA mathematician and engineer
 ---
 <br/>
 # &nbsp; Eridanus ![ERidanus_sign](constellations/Eridanus_sign.png){: width="80px" height="80px" style="float:left; padding:10px; text-align:center"}  
-&nbsp; **Dates**: June 5 - July 20  
 
 ![Eridanus](constellations/Eridanus.png){: width="350px" height="350px" style="float:right; padding:10px"}
+&nbsp; **Dates**: June 5 - July 20  
+
 **Description**: Known for their out-going and extroverted nature, Eridani are bright-eyed with a strong sense of adventure. They follow the beat of their own drum, which can be their greatest strength but also make it hard for some to relate to them. Eridani love to talk but can sometimes come off as a little overbearing. They usually hit it off with Volans, are inspired by Phoenix, and clash with Hercules and Scutum.  
 
 **General Amphibian Characteristics**: Highly aquatic frogs, salamanders, and caecilians.<br />
