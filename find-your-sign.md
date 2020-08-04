@@ -2,9 +2,11 @@
 title: Find Your Sign
 permalink: /find-your-sign/
 ---
-![Scutum](constellations/Scutum.png){: width="350px" height="350px" style="float:right; padding:10px"}
 
-# &nbsp; Scutum ![Scutum_sign](constellations/Scutum_sign.png){: width="80px" height="80px" style="float:left; padding:10px; text-align:center"}    
+# &nbsp; Scutum ![Scutum_sign](constellations/Scutum_sign.png){: width="80px" height="80px" style="float:left; padding:10px; text-align:center"}  
+
+![Scutum](constellations/Scutum.png){: width="350px" height="350px" style="float:right; padding:10px"}
+  
 &nbsp; **Dates**: April 25 - June 4
 
 
