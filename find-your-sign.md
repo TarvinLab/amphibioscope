@@ -2,7 +2,7 @@
 title: Find Your Sign
 permalink: /find-your-sign/
 ---
-
+<div markdown="1">
 <h1><p> Scutum <img align="left" width="100" valign="middle" halign="middle" height="100" src="constellations/Scutum_sign.png"> </p></h1><br />
 <p width="300" height="300"> <img align="right" width="400" height="400" src="constellations/Scutum.png"/> 
   <b>Dates</b>: April 25 - June 4  <br /> <br /> 
@@ -22,9 +22,10 @@ permalink: /find-your-sign/
   <i>Caecilia thompsoni</i>, the largest caecilians<br /> 
   Mary Jackson, NASA mathematician and engineer  </p> 
   <p><br /> <br />
+</div>
+  
 
-  
-  
+<div markdown="1">
 <h1><p align="left" width="100" height="100"> Eridanus <img align="left" valign="middle" width="100" height="100" src="constellations/Eridanus_sign.png"> </p></h1><br />
 <p width="300" height="300"> <img align="right" width="400" height="400" src="constellations/Eridanus.png"/> 
   <b>Dates</b>: June 5 - July 20  <br /> <br /> 
@@ -33,7 +34,7 @@ permalink: /find-your-sign/
 
 <p><b>Amphibian Spiritual Guides</b>:
    <a href="https://amphibiaweb.org/lists/Leiopelmatidae.shtml">Leiopelmatidae</a>, <a href="https://amphibiaweb.org/lists/Pipidae.shtml">Pipidae</a>, <a href="https://amphibiaweb.org/lists/Bombinatoridae.shtml">Bombinatoridae</a>, <a href="https://amphibiaweb.org/lists/Telmatobiidae.shtml">Telmatobiidae</a>, <a href="https://amphibiaweb.org/lists/Amphiumidae.shtml">Amphiumidae</a>, <a href="https://amphibiaweb.org/lists/Sirenidae.shtml">Sirenidae</a>, <a href="https://amphibiaweb.org/lists/Proteidae.shtml">Proteidae</a>, <a href="https://amphibiaweb.org/lists/Nyctibatrachidae.shtml">Nyctibatrachidae</a>,<a href="https://amphibiaweb.org/lists/Typhlonectidae.shtml">Typhlonectidae</a>, <a href="https://amphibiaweb.org/lists/Heleophrynidae.shtml">Heleophrynidae</a>, <a href="https://amphibiaweb.org/lists/Rhinodermatidae.shtml">Rhinodermatidae</a>, <a href="https://amphibiaweb.org/lists/Cycloramphidae.shtml">Cycloramphidae</a>, <a href="https://amphibiaweb.org/lists/Hylodidae.shtml">Hylodidae</a>, <a href="https://amphibiaweb.org/lists/Alsodidae.shtml">Alsodidae</a>, <a href="https://amphibiaweb.org/lists/Batrachylidae.shtml">Batrachylidae</a>, <a href="https://amphibiaweb.org/lists/Petropedetidae.shtml">Petropedetidae</a>, <a href="https://amphibiaweb.org/lists/Ascaphidae.shtml">Ascaphidae</a>, <a href="https://amphibiaweb.org/lists/Rhyacotritonidae.shtml">Rhyacotritonidae</a>, <a href="https://amphibiaweb.org/lists/Ranidae.shtml">Ranidae</a>
-</p>  
+</p>  </div>
 **Celebrities**  
  - *Ascaphus truei*, a stream- or torrent-dwelling frog with tadpoles that have a suction mouth that allows them to cling to rocks  
  - David Wake, salamander biologist and founder of AmphibiaWeb  
