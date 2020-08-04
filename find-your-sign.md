@@ -6,25 +6,24 @@ permalink: /find-your-sign/
 # &nbsp; Scutum ![Scutum_sign](constellations/Scutum_sign.png){: width=100 height=100 style="float:left; padding:10px; text-align:center"}    
 &nbsp; **Dates**: April 25 - June 4
 
-<br/><br/>
+<br/>
 ![Scutum](constellations/Scutum.png){: width="400px" height="400px" style="float:right; padding:10px"}
 
 **Description**: Scuta are known as the protectors. Despite a tough exterior, the loyalty and strength of a Scutum makes it well worth the effort to get to know one. Scuta are often warm and welcoming once you get past their external barriers. Given their stubbornness, Scuta are driven to scheme for their success, often coming up with surprising solutions to difficult problems. Scutum individuals have the most difficulty relating to Eridanus and Volans, though they get along well with Hercules and Lepus. 
   
 **General Amphibian Characteristics**: Bumpy toads, rough skinned newts, and terrestrial caecilians.<br />
 
+**Amphibian Spiritual Guides**: [Bufonidae](https://amphibiaweb.org/lists/Bufonidae.shtml), [Megophryidae](https://amphibiaweb.org/lists/Megophryidae.shtml), [Brachycephalidae](https://amphibiaweb.org/lists/Brachycephalidae.shtml), [Alytidae](https://amphibiaweb.org/lists/Alytidae.shtml), [Salamandridae](https://amphibiaweb.org/lists/Salamandridae.shtml), [Caeciliidae](https://amphibiaweb.org/lists/Caeciliidae.shtml)
 
-**Amphibian Spiritual Guides**: [Bufonidae](https://amphibiaweb.org/lists/Bufonidae.shtml), <a href="https://amphibiaweb.org/lists/Megophryidae.shtml">Megophryidae</a>, <a href="https://amphibiaweb.org/lists/Brachycephalidae.shtml">Brachycephalidae</a>, <a href="https://amphibiaweb.org/lists/Alytidae.shtml">Alytidae</a>, <a href="https://amphibiaweb.org/lists/Salamandridae.shtml">Salamandridae</a>, <a href="https://amphibiaweb.org/lists/Caeciliidae.shtml">Caeciliidae</a>
-</p> 
-  <b>Celebrities</b><br />
-  <i>Bufo bufo</i>, a common toad with bulky poison glands<br /> 
-  <i>Megophrys nasuta</i>, a large-bodied frog that mimics dead leaves <br /> 
-  David Attenborough, a British film-maker fond of amphibians<br /> 
-  <i>Taricha torosa</i>, toxic salamander that shows off bright orange belly in unken reflex<br /> 
-  Rachel Carson, author of Silent Spring<br />
-  <i>Caecilia thompsoni</i>, the largest caecilians<br /> 
-  Mary Jackson, NASA mathematician and engineer  </p> 
-  <p><br /> <br />
+**Celebrities**
+ - *Bufo bufo*, a common toad with bulky poison glands
+ - *Megophrys nasuta*, a large-bodied frog that mimics dead leaves
+ - David Attenborough, a British film-maker fond of amphibians
+ - *Taricha torosa*, toxic salamander that shows off bright orange belly in unken reflex
+ - Rachel Carson, author of Silent Spring
+ - *Caecilia thompsoni*, the largest caecilian
+ - Mary Jackson, NASA mathematician and engineer 
+<br />
 
   
 
