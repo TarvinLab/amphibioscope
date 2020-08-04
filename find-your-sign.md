@@ -37,7 +37,7 @@ Mary Jackson, NASA mathematician and engineer
 
 **Amphibian Spiritual Guides**: [Leiopelmatidae](https://amphibiaweb.org/lists/Leiopelmatidae.shtml), [Pipidae](https://amphibiaweb.org/lists/Pipidae.shtml), [Bombinatoridae](https://amphibiaweb.org/lists/Bombinatoridae.shtml), [Telmatobiidae](https://amphibiaweb.org/lists/Telmatobiidae.shtml), [Amphiumidae](https://amphibiaweb.org/lists/Amphiumidae.shtml), [Sirenidae](https://amphibiaweb.org/lists/Sirenidae.shtml), [Proteidae](https://amphibiaweb.org/lists/Proteidae.shtml), [Nyctibatrachidae](https://amphibiaweb.org/lists/Nyctibatrachidae.shtml), [Typhlonectidae](https://amphibiaweb.org/lists/Typhlonectidae.shtml), [Heleophrynidae](https://amphibiaweb.org/lists/Heleophrynidae.shtml), [Rhinodermatidae](https://amphibiaweb.org/lists/Rhinodermatidae.shtml), [Cycloramphidae](https://amphibiaweb.org/lists/Cycloramphidae.shtml), [Hylodidae](https://amphibiaweb.org/lists/Hylodidae.shtml), [Alsodidae](https://amphibiaweb.org/lists/Alsodidae.shtml), [Batrachylidae](https://amphibiaweb.org/lists/Batrachylidae.shtml), [Petropedetidae](https://amphibiaweb.org/lists/Petropedetidae.shtml), [Ascaphidae](https://amphibiaweb.org/lists/Ascaphidae.shtml), [Rhyacotritonidae](https://amphibiaweb.org/lists/Rhyacotritonidae.shtml), [Ranidae](https://amphibiaweb.org/lists/Ranidae.shtml)
 
-**Celebrities**
+**Celebrities**  
 [*Ascaphus truei*](https://amphibiaweb.org/species/2049): a stream- or torrent-dwelling frog with tadpoles that have a suction mouth that allows them to cling to rocks  
 David Wake: salamander biologist and founder of AmphibiaWeb  
 *Typhlonectes natans*: an aquatic-burrowing caecilian  
