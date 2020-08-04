@@ -23,21 +23,21 @@ permalink: /find-your-sign/
  - Rachel Carson, author of Silent Spring
  - *Caecilia thompsoni*, the largest caecilian
  - Mary Jackson, NASA mathematician and engineer 
-<br />
+<br /><br /><br />
 
   
 
+# &nbsp; Eridanus ![ERidanus_sign](constellations/Eridanus_sign.png){: width=100 height=100 style="float:left; padding:10px; text-align:center"}  
+&nbsp; **Dates**: June 5 - July 20  
 
-<h1><p align="left" width="100" height="100"> Eridanus <img align="left" valign="middle" width="100" height="100" src="constellations/Eridanus_sign.png"> </p></h1><br />
-<p width="300" height="300"> <img align="right" width="400" height="400" src="constellations/Eridanus.png"/> 
-  <b>Dates</b>: June 5 - July 20  <br /> <br /> 
-  <b>Description</b>: Known for their out-going and extroverted nature, Eridani are bright-eyed with a strong sense of adventure. They follow the beat of their own drum, which can be their greatest strength but also make it hard for some to relate to them. Eridani love to talk but can sometimes come off as a little overbearing. They usually hit it off with Volans, are inspired by Phoenix, and clash with Hercules and Scutum.  <br /><br /> 
-  <b>General Amphibian Characteristics</b>:  Highly aquatic frogs, salamanders, and caecilians.<br />
+<br/>![Eridanus](constellations/Eridanus.png){: width="400px" height="400px" style="float:right; padding:10px"}
+**Description**: Known for their out-going and extroverted nature, Eridani are bright-eyed with a strong sense of adventure. They follow the beat of their own drum, which can be their greatest strength but also make it hard for some to relate to them. Eridani love to talk but can sometimes come off as a little overbearing. They usually hit it off with Volans, are inspired by Phoenix, and clash with Hercules and Scutum.  
 
-<p><b>Amphibian Spiritual Guides</b>:
-   <a href="https://amphibiaweb.org/lists/Leiopelmatidae.shtml">Leiopelmatidae</a>, <a href="https://amphibiaweb.org/lists/Pipidae.shtml">Pipidae</a>, <a href="https://amphibiaweb.org/lists/Bombinatoridae.shtml">Bombinatoridae</a>, <a href="https://amphibiaweb.org/lists/Telmatobiidae.shtml">Telmatobiidae</a>, <a href="https://amphibiaweb.org/lists/Amphiumidae.shtml">Amphiumidae</a>, <a href="https://amphibiaweb.org/lists/Sirenidae.shtml">Sirenidae</a>, <a href="https://amphibiaweb.org/lists/Proteidae.shtml">Proteidae</a>, <a href="https://amphibiaweb.org/lists/Nyctibatrachidae.shtml">Nyctibatrachidae</a>,<a href="https://amphibiaweb.org/lists/Typhlonectidae.shtml">Typhlonectidae</a>, <a href="https://amphibiaweb.org/lists/Heleophrynidae.shtml">Heleophrynidae</a>, <a href="https://amphibiaweb.org/lists/Rhinodermatidae.shtml">Rhinodermatidae</a>, <a href="https://amphibiaweb.org/lists/Cycloramphidae.shtml">Cycloramphidae</a>, <a href="https://amphibiaweb.org/lists/Hylodidae.shtml">Hylodidae</a>, <a href="https://amphibiaweb.org/lists/Alsodidae.shtml">Alsodidae</a>, <a href="https://amphibiaweb.org/lists/Batrachylidae.shtml">Batrachylidae</a>, <a href="https://amphibiaweb.org/lists/Petropedetidae.shtml">Petropedetidae</a>, <a href="https://amphibiaweb.org/lists/Ascaphidae.shtml">Ascaphidae</a>, <a href="https://amphibiaweb.org/lists/Rhyacotritonidae.shtml">Rhyacotritonidae</a>, <a href="https://amphibiaweb.org/lists/Ranidae.shtml">Ranidae</a>
-</p> 
-**Celebrities**  
+**General Amphibian Characteristics**: Highly aquatic frogs, salamanders, and caecilians.<br />
+
+**Amphibian Spiritual Guides**: [Leiopelmatidae](https://amphibiaweb.org/lists/Leiopelmatidae.shtml), [Pipidae](https://amphibiaweb.org/lists/Pipidae.shtml), [Bombinatoridae](https://amphibiaweb.org/lists/Bombinatoridae.shtml), [Telmatobiidae](https://amphibiaweb.org/lists/Telmatobiidae.shtml), [Amphiumidae](https://amphibiaweb.org/lists/Amphiumidae.shtml), [Sirenidae](https://amphibiaweb.org/lists/Sirenidae.shtml), [Proteidae](https://amphibiaweb.org/lists/Proteidae.shtml), [Nyctibatrachidae](https://amphibiaweb.org/lists/Nyctibatrachidae.shtml), [Typhlonectidae](https://amphibiaweb.org/lists/Typhlonectidae.shtml), [Heleophrynidae](https://amphibiaweb.org/lists/Heleophrynidae.shtml), [Rhinodermatidae](https://amphibiaweb.org/lists/Rhinodermatidae.shtml), [Cycloramphidae](https://amphibiaweb.org/lists/Cycloramphidae.shtml), [Hylodidae](https://amphibiaweb.org/lists/Hylodidae.shtml), [Alsodidae](https://amphibiaweb.org/lists/Alsodidae.shtml), [Batrachylidae](https://amphibiaweb.org/lists/Batrachylidae.shtml), [Petropedetidae](https://amphibiaweb.org/lists/Petropedetidae.shtml), [Ascaphidae](https://amphibiaweb.org/lists/Ascaphidae.shtml), [Rhyacotritonidae](https://amphibiaweb.org/lists/Rhyacotritonidae.shtml), [Ranidae](https://amphibiaweb.org/lists/Ranidae.shtml)
+
+**Celebrities**: 
  - *Ascaphus truei*, a stream- or torrent-dwelling frog with tadpoles that have a suction mouth that allows them to cling to rocks  
  - David Wake, salamander biologist and founder of AmphibiaWeb  
  - *Typhlonectes natans*, an aquatic-burrowing caecilian  
