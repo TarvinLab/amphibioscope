@@ -16,7 +16,7 @@ permalink: /find-your-sign/
 **Amphibian Spiritual Guides**: [Bufonidae](https://amphibiaweb.org/lists/Bufonidae.shtml), [Megophryidae](https://amphibiaweb.org/lists/Megophryidae.shtml), [Brachycephalidae](https://amphibiaweb.org/lists/Brachycephalidae.shtml), [Alytidae](https://amphibiaweb.org/lists/Alytidae.shtml), [Salamandridae](https://amphibiaweb.org/lists/Salamandridae.shtml), [Caeciliidae](https://amphibiaweb.org/lists/Caeciliidae.shtml)
 
 **Celebrities**  
-    - *Bufo bufo*, a common toad with bulky poison glands
+ - *Bufo bufo*, a common toad with bulky poison glands
  - *Megophrys nasuta*, a large-bodied frog that mimics dead leaves
  - David Attenborough, a British film-maker fond of amphibians
  - *Taricha torosa*, toxic salamander that shows off bright orange belly in unken reflex
