@@ -8,8 +8,14 @@
 <p><b>Amphibian Spiritual Guides</b>:
    <a href="https://amphibiaweb.org/lists/Bufonidae.shtml">Bufonidae</a>, <a href="https://amphibiaweb.org/lists/Megophryidae.shtml">Megophryidae</a>,<a href="https://amphibiaweb.org/lists/Brachycephalidae.shtml">Brachycephalidae</a>, <a href="https://amphibiaweb.org/lists/Alytidae.shtml">Alytidae</a>, <a href="https://amphibiaweb.org/lists/Salamandridae.shtml">Salamandridae</a>, <a href="https://amphibiaweb.org/lists/Caeciliidae.shtml">Caeciliidae</a>
 </p> 
-  <b>Celebrities</b>: <i>Bufo bufo</i>,a common toad with bulky poison glands<br /> <i>Megophrys nasuta</i>, a large-bodied frog that mimics dead leaves <br /> David Attenborough, a British film-maker fond of amphibians<br /> 
-  <i>Taricha torosa</i>, toxic salamander that shows off bright orange belly in unken reflex<br /> Rachel Carson, author of Silent Spring<br />, <i>Caecilia thompsoni</i>, the largest caecilians<br /> Mary Jackson, NASA mathematician and engineer  </p> 
+  <b>Celebrities</b><br />
+  <i>Bufo bufo</i>, a common toad with bulky poison glands<br /> 
+  <i>Megophrys nasuta</i>, a large-bodied frog that mimics dead leaves <br /> 
+  David Attenborough, a British film-maker fond of amphibians<br /> 
+  <i>Taricha torosa</i>, toxic salamander that shows off bright orange belly in unken reflex<br /> 
+  Rachel Carson, author of Silent Spring<br />
+  <i>Caecilia thompsoni</i>, the largest caecilians<br /> 
+  Mary Jackson, NASA mathematician and engineer  </p> 
   <p><br /> <br />
 
   
@@ -21,7 +27,7 @@
   <b>General Amphibian Characteristics</b>:  Highly aquatic frogs, salamanders, and caecilians.<br />
 
 <p><b>Amphibian Spiritual Guides</b>:
-   <a href="https://amphibiaweb.org/lists/Leiopelmatidae.shtml">Leiopelmatidae</a>, <a href="https://amphibiaweb.org/lists/Pipidae.shtml">Pipidae</a>,<a href="https://amphibiaweb.org/lists/Bombinatoridae.shtml">Bombinatoridae</a>, <a href="https://amphibiaweb.org/lists/Telmatobiidae.shtml">Telmatobiidae</a>, <a href="https://amphibiaweb.org/lists/Amphiumidae.shtml">Amphiumidae</a>, <a href="https://amphibiaweb.org/lists/Sirenidae.shtml">Sirenidae</a>, <a href="https://amphibiaweb.org/lists/Proteidae.shtml">Proteidae</a>, <a href="https://amphibiaweb.org/lists/Nyctibatrachidae.shtml">Nyctibatrachidae</a>,<a href="https://amphibiaweb.org/lists/Typhlonectidae.shtml">Typhlonectidae</a>, <a href="https://amphibiaweb.org/lists/Heleophrynidae.shtml">Heleophrynidae</a>, <a href="https://amphibiaweb.org/lists/Rhinodermatidae.shtml">Rhinodermatidae</a>, <a href="https://amphibiaweb.org/lists/Cycloramphidae.shtml">Cycloramphidae</a>, <a href="https://amphibiaweb.org/lists/Hylodidae.shtml">Hylodidae</a>, <a href="https://amphibiaweb.org/lists/Alsodidae.shtml">Alsodidae</a>,<a href="https://amphibiaweb.org/lists/Batrachylidae.shtml">Batrachylidae</a>, <a href="https://amphibiaweb.org/lists/Petropedetidae.shtml">Petropedetidae</a>, <a href="https://amphibiaweb.org/lists/Ascaphidae.shtml">Ascaphidae</a>, <a href="https://amphibiaweb.org/lists/Rhyacotritonidae.shtml">Rhyacotritonidae</a>, <a href="https://amphibiaweb.org/lists/Ranidae.shtml">Ranidae</a>
+   <a href="https://amphibiaweb.org/lists/Leiopelmatidae.shtml">Leiopelmatidae</a>, <a href="https://amphibiaweb.org/lists/Pipidae.shtml">Pipidae</a>, <a href="https://amphibiaweb.org/lists/Bombinatoridae.shtml">Bombinatoridae</a>, <a href="https://amphibiaweb.org/lists/Telmatobiidae.shtml">Telmatobiidae</a>, <a href="https://amphibiaweb.org/lists/Amphiumidae.shtml">Amphiumidae</a>, <a href="https://amphibiaweb.org/lists/Sirenidae.shtml">Sirenidae</a>, <a href="https://amphibiaweb.org/lists/Proteidae.shtml">Proteidae</a>, <a href="https://amphibiaweb.org/lists/Nyctibatrachidae.shtml">Nyctibatrachidae</a>,<a href="https://amphibiaweb.org/lists/Typhlonectidae.shtml">Typhlonectidae</a>, <a href="https://amphibiaweb.org/lists/Heleophrynidae.shtml">Heleophrynidae</a>, <a href="https://amphibiaweb.org/lists/Rhinodermatidae.shtml">Rhinodermatidae</a>, <a href="https://amphibiaweb.org/lists/Cycloramphidae.shtml">Cycloramphidae</a>, <a href="https://amphibiaweb.org/lists/Hylodidae.shtml">Hylodidae</a>, <a href="https://amphibiaweb.org/lists/Alsodidae.shtml">Alsodidae</a>, <a href="https://amphibiaweb.org/lists/Batrachylidae.shtml">Batrachylidae</a>, <a href="https://amphibiaweb.org/lists/Petropedetidae.shtml">Petropedetidae</a>, <a href="https://amphibiaweb.org/lists/Ascaphidae.shtml">Ascaphidae</a>, <a href="https://amphibiaweb.org/lists/Rhyacotritonidae.shtml">Rhyacotritonidae</a>, <a href="https://amphibiaweb.org/lists/Ranidae.shtml">Ranidae</a>
 </p> 
   <b>Celebrities</b>: <i>Ascaphus truei, Typhlonectes natans, Proteus anguinus, Pipa pipa, Xenopus laevis </i> </p> <br />
 
