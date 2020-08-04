@@ -3,7 +3,7 @@ title: Find Your Sign
 permalink: /find-your-sign/
 ---
 
-# &nbsp; Scutum ![Scutum_sign](constellations/Scutum_sign.png){: width=100 height=100 style="float:left; padding:10px; text-align:center"}    
+# &nbsp; Scutum ![Scutum_sign](constellations/Scutum_sign.png){: width="80px" height="80px" style="float:left; padding:10px; text-align:center"}    
 &nbsp; **Dates**: April 25 - June 4
 
 <br/>
@@ -27,7 +27,7 @@ permalink: /find-your-sign/
 
   
 
-# &nbsp; Eridanus ![ERidanus_sign](constellations/Eridanus_sign.png){: width=100 height=100 style="float:left; padding:10px; text-align:center"}  
+# &nbsp; Eridanus ![ERidanus_sign](constellations/Eridanus_sign.png){: width="80px" height="80px" style="float:left; padding:10px; text-align:center"}  
 &nbsp; **Dates**: June 5 - July 20  
 
 <br/>![Eridanus](constellations/Eridanus.png){: width="400px" height="400px" style="float:right; padding:10px"}
