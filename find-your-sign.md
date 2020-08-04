@@ -1,3 +1,7 @@
+---
+title: Find Your Sign
+permalink: /find-your-sign/
+---
 <h1><p> Scutum <img align="left" width="100" valign="middle" halign="middle" height="100" src="constellations/Scutum_sign.png"> </p></h1><br />
 <p width="300" height="300"> <img align="right" width="400" height="400" src="constellations/Scutum.png"/> 
   <b>Dates</b>: April 25 - June 4  <br /> <br /> 
