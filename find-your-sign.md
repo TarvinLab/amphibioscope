@@ -4,15 +4,17 @@ permalink: /find-your-sign/
 ---
 
 # &nbsp; Scutum ![Scutum_sign](constellations/Scutum_sign.png){: width=100 height=100 style="float:left; padding:10px; text-align:center"}    
-<br/><br/><br/><br/>
-![Scutum](constellations/Scutum.png){: width="400px" height="400px" style="float:right; padding:10px"}  **Dates**: April 25 - June 4  
-  
+<br/>
+**Dates**: April 25 - June 4  
+<br/><br/><br/>
+![Scutum](constellations/Scutum.png){: width="400px" height="400px" style="float:right; padding:10px"}
+
 **Description**: Scuta are known as the protectors. Despite a tough exterior, the loyalty and strength of a Scutum makes it well worth the effort to get to know one. Scuta are often warm and welcoming once you get past their external barriers. Given their stubbornness, Scuta are driven to scheme for their success, often coming up with surprising solutions to difficult problems. Scutum individuals have the most difficulty relating to Eridanus and Volans, though they get along well with Hercules and Lepus. 
   
 **General Amphibian Characteristics**: Bumpy toads, rough skinned newts, and terrestrial caecilians.<br />
 
 
-**Amphibian Spiritual Guides**: [Bufonidae] (https://amphibiaweb.org/lists/Bufonidae.shtml), <a href="https://amphibiaweb.org/lists/Megophryidae.shtml">Megophryidae</a>, <a href="https://amphibiaweb.org/lists/Brachycephalidae.shtml">Brachycephalidae</a>, <a href="https://amphibiaweb.org/lists/Alytidae.shtml">Alytidae</a>, <a href="https://amphibiaweb.org/lists/Salamandridae.shtml">Salamandridae</a>, <a href="https://amphibiaweb.org/lists/Caeciliidae.shtml">Caeciliidae</a>
+**Amphibian Spiritual Guides**: [Bufonidae](https://amphibiaweb.org/lists/Bufonidae.shtml), <a href="https://amphibiaweb.org/lists/Megophryidae.shtml">Megophryidae</a>, <a href="https://amphibiaweb.org/lists/Brachycephalidae.shtml">Brachycephalidae</a>, <a href="https://amphibiaweb.org/lists/Alytidae.shtml">Alytidae</a>, <a href="https://amphibiaweb.org/lists/Salamandridae.shtml">Salamandridae</a>, <a href="https://amphibiaweb.org/lists/Caeciliidae.shtml">Caeciliidae</a>
 </p> 
   <b>Celebrities</b><br />
   <i>Bufo bufo</i>, a common toad with bulky poison glands<br /> 
