@@ -29,15 +29,15 @@
 <p><b>Amphibian Spiritual Guides</b>:
    <a href="https://amphibiaweb.org/lists/Leiopelmatidae.shtml">Leiopelmatidae</a>, <a href="https://amphibiaweb.org/lists/Pipidae.shtml">Pipidae</a>, <a href="https://amphibiaweb.org/lists/Bombinatoridae.shtml">Bombinatoridae</a>, <a href="https://amphibiaweb.org/lists/Telmatobiidae.shtml">Telmatobiidae</a>, <a href="https://amphibiaweb.org/lists/Amphiumidae.shtml">Amphiumidae</a>, <a href="https://amphibiaweb.org/lists/Sirenidae.shtml">Sirenidae</a>, <a href="https://amphibiaweb.org/lists/Proteidae.shtml">Proteidae</a>, <a href="https://amphibiaweb.org/lists/Nyctibatrachidae.shtml">Nyctibatrachidae</a>,<a href="https://amphibiaweb.org/lists/Typhlonectidae.shtml">Typhlonectidae</a>, <a href="https://amphibiaweb.org/lists/Heleophrynidae.shtml">Heleophrynidae</a>, <a href="https://amphibiaweb.org/lists/Rhinodermatidae.shtml">Rhinodermatidae</a>, <a href="https://amphibiaweb.org/lists/Cycloramphidae.shtml">Cycloramphidae</a>, <a href="https://amphibiaweb.org/lists/Hylodidae.shtml">Hylodidae</a>, <a href="https://amphibiaweb.org/lists/Alsodidae.shtml">Alsodidae</a>, <a href="https://amphibiaweb.org/lists/Batrachylidae.shtml">Batrachylidae</a>, <a href="https://amphibiaweb.org/lists/Petropedetidae.shtml">Petropedetidae</a>, <a href="https://amphibiaweb.org/lists/Ascaphidae.shtml">Ascaphidae</a>, <a href="https://amphibiaweb.org/lists/Rhyacotritonidae.shtml">Rhyacotritonidae</a>, <a href="https://amphibiaweb.org/lists/Ranidae.shtml">Ranidae</a>
 </p> 
-  <b>Celebrities</b><br />
-  <i>Ascaphus truei</i>, a stream- or torrent-dwelling frog with tadpoles that have a suction mouth that allows them to cling to rocks <br />
-  David Wake, salamander biologist and founder of AmphibiaWeb<br />
-  <i>Typhlonectes natans</i>, an aquatic-burrowing caecilian <br />
-  John William Daly, biochemist who helped make poison frogs famous <br />
-  <i>Proteus anguinus</i>, also known as the olm, an underwater cave-dwelling salamander that has been known to stay in one spot for years on end <br />
-   Helen Rodríguez Trías, doctor, educator, and women's rights activist
-  <i>Pipa pipa</i>, flat, extreme aquatic frog that hatches its eggs out of the female’s back <br />
-  Meryl Streep, American actress <br />
-  <i>Xenopus laevis</i>, aquatic clawed frog that was introduced to the U.S. as a pregnancy test </p> <br />
+**Celebrities**  
+ - *Ascaphus truei*, a stream- or torrent-dwelling frog with tadpoles that have a suction mouth that allows them to cling to rocks  
+ - David Wake, salamander biologist and founder of AmphibiaWeb  
+ - *Typhlonectes natans*, an aquatic-burrowing caecilian  
+ - John William Daly, biochemist who helped make poison frogs famous  
+ - *Proteus anguinus*, also known as the olm, an underwater cave-dwelling salamander that has been known to stay in one spot for years on end  
+ - Helen Rodríguez Trías, doctor, educator, and women's rights activist  
+ - *Pipa pipa**, flat, extreme aquatic frog that hatches its eggs out of the female’s back  
+ - Meryl Streep, American actress  
+ - *Xenopus laevis*, aquatic clawed frog that was introduced to the U.S. as a pregnancy test  
 
 
