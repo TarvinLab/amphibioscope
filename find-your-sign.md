@@ -42,7 +42,7 @@ permalink: /find-your-sign/
  - John William Daly, biochemist who helped make poison frogs famous  
  - *Proteus anguinus*, also known as the olm, an underwater cave-dwelling salamander that has been known to stay in one spot for years on end  
  - Helen Rodríguez Trías, doctor, educator, and women's rights activist  
- - *Pipa pipa**, flat, extreme aquatic frog that hatches its eggs out of the female’s back  
+ - *Pipa pipa*, flat, extreme aquatic frog that hatches its eggs out of the female’s back  
  - Meryl Streep, American actress  
  - *Xenopus laevis*, aquatic clawed frog that was introduced to the U.S. as a pregnancy test  
 
