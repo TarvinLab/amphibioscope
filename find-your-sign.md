@@ -17,8 +17,8 @@ permalink: /find-your-sign/
 
 <br/>
 **Celebrities**
- - *Bufo bufo*, a common toad with bulky poison glands
- - *Megophrys nasuta*, a large-bodied frog that mimics dead leaves
+    - *Bufo bufo*, a common toad with bulky poison glands
+    - *Megophrys nasuta*, a large-bodied frog that mimics dead leaves
  - David Attenborough, a British film-maker fond of amphibians
  - *Taricha torosa*, toxic salamander that shows off bright orange belly in unken reflex
  - Rachel Carson, author of Silent Spring
