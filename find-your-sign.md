@@ -3,10 +3,11 @@
   <b>Dates</b>: April 25 - June 4  <br /> <br /> 
   <b>Description</b>: Scuta are known as the protectors. Despite a tough exterior, the loyalty and strength of a Scutum makes it well worth the effort to get to know one. Scuta are often warm and welcoming once you get past their external barriers. Given their stubbornness, Scuta are driven to scheme for their success, often coming up with surprising solutions to difficult problems. Scutum individuals have the most difficulty relating to Eridanus and Volans, though they get along well with Hercules and Lepus. <br /><br /> 
   <b>General Amphibian Characteristics</b>: Bumpy toads, rough skinned newts, and terrestrial caecilians.<br />
-<details> 
-  <summary><b>Amphibian Spiritual Guides</b></summary>
+
+
+<p><b>Amphibian Spiritual Guides</b>:
    <a href="https://amphibiaweb.org/lists/Bufonidae.shtml">Bufonidae</a>, <a href="https://amphibiaweb.org/lists/Megophryidae.shtml">Megophryidae</a>,<a href="https://amphibiaweb.org/lists/Brachycephalidae.shtml">Brachycephalidae</a>, <a href="https://amphibiaweb.org/lists/Alytidae.shtml">Alytidae</a>, <a href="https://amphibiaweb.org/lists/Salamandridae.shtml">Salamandridae</a>, <a href="https://amphibiaweb.org/lists/Caeciliidae.shtml">Caeciliidae</a>
-</details> <br />
+</p> <br />
   <b>Celebrities</b>: <i>Bufo bufo, Megophrys nasuta, Taricha torosa, Caecilia thompsoni</i> </p> <br /> <br />
 
   
