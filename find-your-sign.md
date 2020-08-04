@@ -3,7 +3,7 @@ title: Find Your Sign
 permalink: /find-your-sign/
 ---
 
-# Scutum ![Scutum](constellations/Scutum_sign.png){: width=100 height=100 style="float:left; padding:16px"}
+# Scutum ![Scutum](constellations/Scutum_sign.png){: width=100 height=100 style="float:left; padding:16px"}    
 
 <p width="300" height="300"> <img align="right" width="400" height="400" src="constellations/Scutum.png"/> 
   <b>Dates</b>: April 25 - June 4  <br /> <br /> 
