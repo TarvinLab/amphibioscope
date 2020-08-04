@@ -25,6 +25,8 @@ github_username:  TarvinLab
 # Build settings
 markdown: kramdown
 theme: jekyll-theme-architect
+kramdown: 
+  parse_block_html: true
 plugins:
   - jekyll-feed
 
