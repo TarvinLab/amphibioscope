@@ -13,7 +13,7 @@ permalink: /find-your-sign/
 
 
 <p><b>Amphibian Spiritual Guides</b>:
-   <a href="https://amphibiaweb.org/lists/Bufonidae.shtml">Bufonidae</a>, <a href="https://amphibiaweb.org/lists/Megophryidae.shtml">Megophryidae</a>,<a href="https://amphibiaweb.org/lists/Brachycephalidae.shtml">Brachycephalidae</a>, <a href="https://amphibiaweb.org/lists/Alytidae.shtml">Alytidae</a>, <a href="https://amphibiaweb.org/lists/Salamandridae.shtml">Salamandridae</a>, <a href="https://amphibiaweb.org/lists/Caeciliidae.shtml">Caeciliidae</a>
+   <a href="https://amphibiaweb.org/lists/Bufonidae.shtml">Bufonidae</a>, <a href="https://amphibiaweb.org/lists/Megophryidae.shtml">Megophryidae</a>, <a href="https://amphibiaweb.org/lists/Brachycephalidae.shtml">Brachycephalidae</a>, <a href="https://amphibiaweb.org/lists/Alytidae.shtml">Alytidae</a>, <a href="https://amphibiaweb.org/lists/Salamandridae.shtml">Salamandridae</a>, <a href="https://amphibiaweb.org/lists/Caeciliidae.shtml">Caeciliidae</a>
 </p> 
   <b>Celebrities</b><br />
   <i>Bufo bufo</i>, a common toad with bulky poison glands<br /> 
