@@ -3,9 +3,10 @@ title: Find Your Sign
 permalink: /find-your-sign/
 ---
 
-# Scutum ![Scutum](constellations/Scutum_sign.png){: width=100 height=100 style="float:left; padding:16px"}    
+# Scutum ![Scutum_sign](constellations/Scutum_sign.png){: width=100 height=100 style="float:left; padding:10px"}    
 
-<p width="300" height="300"> <img align="right" width="400" height="400" src="constellations/Scutum.png"/> 
+![Scutum](constellations/Scutum.png){: width=400 height=400 style="float:right; padding:10px"} 
+ 
   <b>Dates</b>: April 25 - June 4  <br /> <br /> 
   <b>Description</b>: Scuta are known as the protectors. Despite a tough exterior, the loyalty and strength of a Scutum makes it well worth the effort to get to know one. Scuta are often warm and welcoming once you get past their external barriers. Given their stubbornness, Scuta are driven to scheme for their success, often coming up with surprising solutions to difficult problems. Scutum individuals have the most difficulty relating to Eridanus and Volans, though they get along well with Hercules and Lepus. <br /><br /> 
   <b>General Amphibian Characteristics</b>: Bumpy toads, rough skinned newts, and terrestrial caecilians.<br />
