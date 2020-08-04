@@ -23,13 +23,13 @@ permalink: /find-your-sign/
  - Mary Jackson, NASA mathematician and engineer 
 <br /><br /><br />
 
-  
+---
 
 # &nbsp; Eridanus ![ERidanus_sign](constellations/Eridanus_sign.png){: width="80px" height="80px" style="float:left; padding:10px; text-align:center"}  
 &nbsp; **Dates**: June 5 - July 20  
 
 ![Eridanus](constellations/Eridanus.png){: width="400px" height="400px" style="float:right; padding:10px"}
-<br/>**Description**: Known for their out-going and extroverted nature, Eridani are bright-eyed with a strong sense of adventure. They follow the beat of their own drum, which can be their greatest strength but also make it hard for some to relate to them. Eridani love to talk but can sometimes come off as a little overbearing. They usually hit it off with Volans, are inspired by Phoenix, and clash with Hercules and Scutum.  
+**Description**: Known for their out-going and extroverted nature, Eridani are bright-eyed with a strong sense of adventure. They follow the beat of their own drum, which can be their greatest strength but also make it hard for some to relate to them. Eridani love to talk but can sometimes come off as a little overbearing. They usually hit it off with Volans, are inspired by Phoenix, and clash with Hercules and Scutum.  
 
 **General Amphibian Characteristics**: Highly aquatic frogs, salamanders, and caecilians.<br />
 
