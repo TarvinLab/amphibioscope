@@ -76,7 +76,7 @@ permalink: /find-your-sign/
 
 ---
 <br/>
-# &nbsp; Hercules ![Hercules_sign](constellations/Hercules_sign.png){: width="80px" height="80px" style="float:left; padding:10px; text-align:center"}  
+# &nbsp; Hercules ![Hercules_sign](constellations/Hercules_sign.png){: width="80px" height="80px" style="float:left; padding:5px; text-align:center"}  
 
 ![Hercules](constellations/Hercules.png){: width="350px" height="350px" style="float:right; padding:10px"}
 &nbsp; **Dates**: September 5 - October 20
@@ -95,4 +95,97 @@ permalink: /find-your-sign/
 [Mae Jemison](https://en.wikipedia.org/wiki/Mae_Jemison): first Black women in space  
 [*Conraua goliath*](https://amphibiaweb.org/cgi/amphib_query?where-genus=Conraua&where-species=goliath): the largest frog in the world, also known as the goliath bullfrog and the giant slippery frog  
 [Tomoko Ohta](https://en.wikipedia.org/wiki/Tomoko_Ohta): Japanese population geneticist  
+<br /><br /><br />
+
+---
+<br/>
+# &nbsp; Phoenix ![Phoenix_sign](constellations/Phoenix_sign.png){: width="80px" height="80px" style="float:left; padding:10px; text-align:center"}  
+
+![Phoenix](constellations/Phoenix.png){: width="350px" height="350px" style="float:right; padding:10px"}
+&nbsp; **Dates**: October 21 - December 5 
+
+**Description**: Phoenix are born ready to follow their dreams. Although they are perceived as mature, Phoenix can be a bit anxious and impatient; growing up quickly has made it difficult for them to unwind. Nevertheless, their ambition drives them to keep learning and growing. Phoenix happily get along with those who don’t get in their way, like Eridanus or Scutum (when these stubborn individuals are on a separate path), though the wanderings of Circinus can be irritating.    
+
+**General Amphibian Characteristics**: Frogs and salamanders that are direct developers, meaning that they don’t have tadpole or larval stages and look like tiny adults when they hatch.<br />
+
+**Amphibian Spiritual Guides**: [Craugastoridae](https://amphibiaweb.org/lists/Craugastoridae.shtml), [Strabomantidae](https://amphibiaweb.org/lists/Strabomantidae.shtml), [Eleutherodactylidae](https://amphibiaweb.org/lists/Eleutherodactylidae.shtml), [Ceuthomantidae](https://amphibiaweb.org/lists/Ceuthomantidae.shtml), [Plethodontidae](https://amphibiaweb.org/lists/Plethodontidae.shtml), [Ceratobatrachidae](https://amphibiaweb.org/lists/Ceratobatrachidae.shtml)  
+
+**Celebrities**  
+[*Aneides lugubris*](https://amphibiaweb.org/cgi/amphib_query?where-genus=Aneides&where-species=lugubris): climbing salamander with a tendency to bite people who pick them up   
+[Bill Nye](https://en.wikipedia.org/wiki/Bill_Nye): "the science guy"  
+[*Eleutherodactylus iberia*](https://amphibiaweb.org/cgi/amphib_query?where-genus=Eleutherodactylus&where-species=iberia): the smallest frog in the Northern Hemisphere  
+[Chadwick Boseman](https://en.wikipedia.org/wiki/Chadwick_Boseman): African-American actor    
+[*Cornufer guentheri*](https://amphibiaweb.org/cgi/amphib_query?where-genus=Cornufer&where-species=guentheri): leaf frog that blends in with the forest floor  
+[Janaki Ammal](https://en.wikipedia.org/wiki/Janaki_Ammal): Indian botanist
+<br /><br /><br />
+
+---
+<br/>
+# &nbsp; Lepus ![Lepus_sign](constellations/Lepus_sign.png){: width="80px" height="80px" style="float:left; padding:10px; text-align:center"}  
+
+![Lepus](constellations/Lepus.png){: width="350px" height="350px" style="float:right; padding:10px"}
+&nbsp; **Dates**: December 6 - January 20 
+
+**Description**: Lepus are “grounded,” and they operate beneath the surface of the mainstream. They are innovative, finding unconventional ways to achieve their goals. Lepus are generally quiet but can be loud when speaking their mind. They do not like the limelight and judge others on their character rather than their appearance. Lepus do not mind getting dirty but shy away from confrontation. They like having Hercules around to help them fight their battles, and they find their opposite Volans, whom they get along with some of the time, fascinating.    
+
+**General Amphibian Characteristics**: Caecilians and globose frogs that spend most of their time underground.<br />
+
+**Amphibian Spiritual Guides**: [Microhylidae](https://amphibiaweb.org/lists/Microhylidae.shtml), [Scaphiopodidae](https://amphibiaweb.org/lists/Scaphiopodidae.shtml), [Pelodytidae](https://amphibiaweb.org/lists/Pelodytidae.shtml), [Pelobatidae](https://amphibiaweb.org/lists/Pelobatidae.shtml), [Rhinophrynidae](https://amphibiaweb.org/lists/Rhinophrynidae.shtml), [Nasikabatrachidae](https://amphibiaweb.org/lists/Nasikabatrachidae.shtml),
+[Brevicipiditae](https://amphibiaweb.org/lists/Brevicipiditae.shtml), [Hemisotidae](https://amphibiaweb.org/lists/Hemisotidae.shtml), [Ichthyophiidae](https://amphibiaweb.org/lists/Ichthyophiidae.shtml),
+[Rhinatrematidae](https://amphibiaweb.org/lists/Rhinatrematidae.shtml), [Scolecomorphidae](https://amphibiaweb.org/lists/Scolecomorphidae.shtml), [Chikilidae](https://amphibiaweb.org/lists/Chikilidae.shtml),
+[Herpelidae](https://amphibiaweb.org/lists/Herpelidae.shtml)    
+
+**Celebrities**  
+[*Scaphiopus couchii*](https://amphibiaweb.org/cgi/amphib_query?where-genus=Scaphiopus&where-species=couchii): toads that burrow with the spades on their feet   
+[Alfred Russel Wallace](https://en.wikipedia.org/wiki/Alfred_Russel_Wallace): father of biogeography  
+[*Boulengerula taitana*](https://amphibiaweb.org/cgi/amphib_query?where-genus=Boulengerula&where-species=taitana): caecilian that lives underground, mother’s grow lipid-rich skin for their young to eat  
+[Dame Judi Dench](https://en.wikipedia.org/wiki/Judi_Dench): English actress    
+[*Rhinophrynus dorsalis*](https://amphibiaweb.org/cgi/amphib_query?where-genus=Rhinophrynus&where-species=dorsalis): the Mexican burrowing toad has a snout that is suited for burrowing and seeking ants and termites underground  
+[Annie Alexander](https://en.wikipedia.org/wiki/Annie_Montague_Alexander): founder of the Museum of Vertebrate Zoology at the University of California Berkeley  
+[*Breviceps macrops*](https://amphibiaweb.org/cgi/amphib_query?where-genus=Breviceps&where-species=macrops): the desert rain frog has a famous squeaky-toy-like call  
+[Alice Eastwood](https://en.wikipedia.org/wiki/Annie_Montague_Alexander): Canadian-American botanist; 17 species are named for her
+<br /><br /><br />
+
+---
+<br/>
+# &nbsp; Circinus ![Circinus_sign](constellations/Circinus_sign.png){: width="80px" height="80px" style="float:left; padding:10px; text-align:center"}  
+
+![Circinus](constellations/Circinus.png){: width="350px" height="350px" style="float:right; padding:10px"}
+&nbsp; **Dates**: January 21 - March 7
+
+**Description**: Circinus are wanders that simultaneously seek their place in the world and are satisfied with not knowing what that might be. Sometimes they will go with the flow, and other times they will make quick decisions; in general, Circinus are difficult to predict! Creative, inquisitive, and fun, Circinus tend to get along well with Eridanus, enjoy deep conversations with Phoenix, and make great partners of Lepus. Circinus do not take well to the more competitive spirits like Hercules and Scutum.    
+
+**General Amphibian Characteristics**: A diverse group of frogs and salamanders that have no unifying feature outside of their variability!<br />
+
+**Amphibian Spiritual Guides**: [Myobatrachidae](https://amphibiaweb.org/lists/Myobatrachidae.shtml), [Hynobiidae](https://amphibiaweb.org/lists/Hynobiidae.shtml), [Ptychadenidae](https://amphibiaweb.org/lists/Ptychadenidae.shtml), [Leptodactylidae](https://amphibiaweb.org/lists/Leptodactylidae.shtml), [Dicroglossidae](https://amphibiaweb.org/lists/Dicroglossidae.shtml)  
+
+**Celebrities**  
+[Lupita Nyong'o](https://en.wikipedia.org/wiki/Lupita_Nyong%27o): Kenyan-Mexian actress and author  
+[*Rheobatrachus silus*](https://amphibiaweb.org/cgi/amphib_query?where-genus=Rheobatrachus&where-species=silus): the gastric-brooding frog holds young in the stomach and gives birth through the mouth   
+[Steve Irwin](https://en.wikipedia.org/wiki/Steve_Irwin): the crocodile hunter  
+[*Myobatrachus gouldii*](https://amphibiaweb.org/cgi/amphib_query?where-genus=Myobatrachus&where-species=gouldii): the turtle frog has short, muscular limbs for digging in the sand  
+[Charles Darwin](https://en.wikipedia.org/wiki/Judi_Dench): English naturalist whose book On the Origin of Species describe the phenomenon of evolution    
+[*Leptodactylus fallax*](https://amphibiaweb.org/cgi/amphib_query?where-genus=Leptodactylus&where-species=fallax): the mountain chicken is a large frog known to taste like the poultry for which it is named  
+[Lynn Margulis](https://en.wikipedia.org/wiki/Lynn_Margulis): American evolutionary theorist who proposed that symbiosis led to the origin of cell organelles  
+[Jennifer Doudna](https://en.wikipedia.org/wiki/Jennifer_Doudna): a leader in developing CRISPR technologies  
+<br /><br /><br />
+
+---
+<br/>
+# &nbsp; Coma Berenices ![ComaBerenices_sign](constellations/ComaBerenices_sign.png){: width="80px" height="80px" style="float:left; padding:10px; text-align:center"}  
+
+![ComaBerenices](constellations/ComaBerenices.png){: width="350px" height="350px" style="float:right; padding:10px"}
+&nbsp; **Dates**: March 8 - April 24
+
+**Description**: Coma Berenices know what they want and will do whatever it takes to get it. They will take drastic action for people they love, even if it is destructive or toxic to themselves or to others. Coma Berenices are loyal and attentive to their loved ones, yet they can be oblivious to the concerns of individuals outside their inner circles. They speak up for what they believe in but do not always know how to do it tactfully. Coma Berenices are happy to guide individuals like Circinus or boost the ambitions of Phoenix, but they clash with flighty Volans and non-conforming Eridani.    
+
+**General Amphibian Characteristics**: Frogs that live among the fallen leaves on the forest floor. Some are very loud squeakers!<br />
+
+**Amphibian Spiritual Guides**: [Hemiphractidae](https://amphibiaweb.org/lists/Hemiphractidae.shtml), [Arthroleptidae](https://amphibiaweb.org/lists/Arthroleptidae.shtml), [Phrynobatrachidae](https://amphibiaweb.org/lists/Phrynobatrachidae.shtml), [Ranixalidae](https://amphibiaweb.org/lists/Ranixalidae.shtml), [Mantellidae](https://amphibiaweb.org/lists/Mantellidae.shtml)  
+
+**Celebrities**  
+[*Mantella aurantiaca*](https://amphibiaweb.org/cgi/amphib_query?where-genus=Mantella&where-species=aurantiaca): a golden frog with aposematic coloration to signal the toxins it wields   
+[*Trichobatrachus robustus*](https://amphibiaweb.org/cgi/amphib_query?where-genus=Trichobatrachus&where-species=robustus): the male hairy frog has thin skin protuberances on their legs that give them their common name      
+[*Gastrotheca cornuta*](https://amphibiaweb.org/cgi/amphib_query?where-genus=Gastrotheca&where-species=cornuta): female horned marsupial frogs carry eggs on their backs  
+
 
