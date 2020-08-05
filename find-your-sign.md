@@ -101,8 +101,8 @@ permalink: /find-your-sign/
 <br/>
 # &nbsp; Phoenix ![Phoenix_sign](constellations/Phoenix_sign.png){: width="80px" height="80px" style="float:left; padding:10px; text-align:center"}  
 
-![Phoenix](constellations/Phoenix.png){: width="350px" height="350px" style="float:right; padding:10px"}
 &nbsp; **Dates**: October 21 - December 5 
+![Phoenix](constellations/Phoenix.png){: width="350px" height="350px" style="float:right; padding:10px"}
 
 **Description**: Phoenix are born ready to follow their dreams. Although they are perceived as mature, Phoenix can be a bit anxious and impatient; growing up quickly has made it difficult for them to unwind. Nevertheless, their ambition drives them to keep learning and growing. Phoenix happily get along with those who don’t get in their way, like Eridanus or Scutum (when these stubborn individuals are on a separate path), though the wanderings of Circinus can be irritating.    
 
@@ -123,8 +123,8 @@ permalink: /find-your-sign/
 <br/>
 # &nbsp; Lepus ![Lepus_sign](constellations/Lepus_sign.png){: width="80px" height="80px" style="float:left; padding:10px; text-align:center"}  
 
-![Lepus](constellations/Lepus.png){: width="350px" height="350px" style="float:right; padding:10px"}
 &nbsp; **Dates**: December 6 - January 20 
+![Lepus](constellations/Lepus.png){: width="350px" height="350px" style="float:right; padding:10px"}
 
 **Description**: Lepus are “grounded,” and they operate beneath the surface of the mainstream. They are innovative, finding unconventional ways to achieve their goals. Lepus are generally quiet but can be loud when speaking their mind. They do not like the limelight and judge others on their character rather than their appearance. Lepus do not mind getting dirty but shy away from confrontation. They like having Hercules around to help them fight their battles, and they find their opposite Volans, whom they get along with some of the time, fascinating.    
 
