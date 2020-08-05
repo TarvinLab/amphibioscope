@@ -51,7 +51,7 @@ permalink: /find-your-sign/
 
 ---
 <br/>
-# &nbsp; Volans ![Volans_sign_](constellations/Volans_sign.png){: width="80px" height="80px" style="float:left; padding:10px; text-align:center"}  
+# &nbsp; Volans ![Volans_sign](constellations/Volans_sign.png){: width="80px" height="80px" style="float:left; padding:10px; text-align:center"}  
 
 ![Volans](constellations/Volans.png){: width="350px" height="350px" style="float:right; padding:10px"}
 &nbsp; **Dates**: July 21 - September 4
@@ -68,7 +68,31 @@ permalink: /find-your-sign/
 [Marvalee Wake](https://en.wikipedia.org/wiki/Marvalee_Wake): caecilian biologist and influential herpetologist   
 [*Rhacophorus malabaricus*](https://amphibiaweb.org/cgi/amphib_query?where-genus=Rhacophorus&where-species=malabaricus): this flying frog can leap from tree to tree with its webbed hands and feet  
 [Taika Waititi](https://en.wikipedia.org/wiki/Taika_Waititi): New Zealand film director and actor  
-[*Boana rosenbergi:*](https://amphibiaweb.org/cgi/amphib_query?where-genus=Boana&where-species=rosenbergi): the gladiator tree frog, males fight with sharp spikes on their hands  
+[*Boana rosenbergi*](https://amphibiaweb.org/cgi/amphib_query?where-genus=Boana&where-species=rosenbergi): the gladiator tree frog, males fight with sharp spikes on their hands  
 [Henrietta Lacks](https://en.wikipedia.org/wiki/Henrietta_Lacks): African-American woman whose cells became the first immortal cell line, HeLa    
 [Katherine Johnson](https://en.wikipedia.org/wiki/Katherine_Johnson): NASA research mathematician  
 [Lydia Villa-Komaroff](https://en.wikipedia.org/wiki/Lydia_Villa-Komaroff): co-founder of Society for the Advancement of Chicanos/Hispanics and Native Americans in Science (SACNAS)
+<br /><br /><br />
+
+---
+<br/>
+# &nbsp; Hercules ![Hercules_sign](constellations/Hercules_sign.png){: width="80px" height="80px" style="float:left; padding:10px; text-align:center"}  
+
+![Hercules](constellations/Hercules.png){: width="350px" height="350px" style="float:right; padding:10px"}
+&nbsp; **Dates**: September 5 - October 20
+
+**Description**: Hercules are powerful, deliberate, and overwhelmingly competent. They are used to their own successes, and thus can be sore losers and unpleasant to those surrounding them. However, their great sense of humor and competitive spirit make Hercules both fun and entertaining when relaxed. Hercules easily bond with other competitive spirits like Scutum. They should be careful not to be too overbearing when in relationships with Circinus and Eriadanus. Volans, Phoenix, and Scutum -- on the other hand -- find their strength of will invigorating.  
+
+**General Amphibian Characteristics**: Giant salamanders, buff frogs, and brightly colored small frogs that pack a toxic punch.<br />
+
+**Amphibian Spiritual Guides**: [Cryptobranchidae](https://amphibiaweb.org/lists/Cryptobranchidae.shtml), [Conrauidae](https://amphibiaweb.org/lists/Conrauidae.shtml), [Pyxicephalidae](https://amphibiaweb.org/lists/Pyxicephalidae.shtml), [Ceratophryidae](https://amphibiaweb.org/lists/Ceratophryidae.shtml), [Dicamptodontidae](https://amphibiaweb.org/lists/Dicamptodontidae.shtml), [Ambystomatidae](https://amphibiaweb.org/lists/Ambystomatidae.shtml),
+[Calyptocephalellidae](https://amphibiaweb.org/lists/Calyptocephalellidae.shtml), [Dendrobatidae](https://amphibiaweb.org/lists/Dendrobatidae.shtml), [Odontophrynidae](https://amphibiaweb.org/lists/Odontophrynidae.shtml)
+
+**Celebrities**  
+[*Cryptobranchus alleganiensis*](https://amphibiaweb.org/cgi/amphib_query?where-genus=Cryptobranchus&where-species=alleganiensis): large, aquatic salamander, also known as the hellbender salamander 
+[Neil deGrasse Tyson](https://en.wikipedia.org/wiki/Neil_deGrasse_Tyson): American astrophysicist  
+[*Dendrobates auratus*](https://amphibiaweb.org/cgi/amphib_query?where-genus=Dendrobates&where-species=auratus): striking green-and-black poison dart frog, its strength is its toxicity  
+[Mae Jemison](https://en.wikipedia.org/wiki/Mae_Jemison): first Black women in space  
+[*Conraua goliath*](https://amphibiaweb.org/cgi/amphib_query?where-genus=Conraua&where-species=goliath): the largest frog in the world, also known as the goliath bullfrog and the giant slippery frog  
+[Tomoko Ohta](https://en.wikipedia.org/wiki/Tomoko_Ohta): Japanese population geneticist  
+
