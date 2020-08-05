@@ -101,7 +101,7 @@ permalink: /find-your-sign/
 
 **Hercules Celebrities**  
 [Neil deGrasse Tyson](https://en.wikipedia.org/wiki/Neil_deGrasse_Tyson): American astrophysicist  
-[Mae Jemison](https://en.wikipedia.org/wiki/Mae_Jemison): first Black women in space 
+[Mae Jemison](https://en.wikipedia.org/wiki/Mae_Jemison): first Black women in space  
 [Tomoko Ohta](https://en.wikipedia.org/wiki/Tomoko_Ohta): Japanese population geneticist  
 <br /><br /><br />
 
@@ -152,7 +152,7 @@ permalink: /find-your-sign/
 [*Breviceps macrops*](https://amphibiaweb.org/cgi/amphib_query?where-genus=Breviceps&where-species=macrops): the desert rain frog has a famous squeaky-toy-like call  
 
 **Lepus Celebrities**  
-[Alfred Russel Wallace](https://en.wikipedia.org/wiki/Alfred_Russel_Wallace): father of biogeography 
+[Alfred Russel Wallace](https://en.wikipedia.org/wiki/Alfred_Russel_Wallace): father of biogeography  
 [Dame Judi Dench](https://en.wikipedia.org/wiki/Judi_Dench): English actress    
 [Annie Alexander](https://en.wikipedia.org/wiki/Annie_Montague_Alexander): founder of the Museum of Vertebrate Zoology at the University of California Berkeley  
 [Alice Eastwood](https://en.wikipedia.org/wiki/Annie_Montague_Alexander): Canadian-American botanist; 17 species are named for her
@@ -178,7 +178,7 @@ permalink: /find-your-sign/
 
 **Circinus Celebrities**  
 [Lupita Nyong'o](https://en.wikipedia.org/wiki/Lupita_Nyong%27o): Kenyan-Mexian actress and author  
-[Steve Irwin](https://en.wikipedia.org/wiki/Steve_Irwin): the "crocodile hunter"
+[Steve Irwin](https://en.wikipedia.org/wiki/Steve_Irwin): the "crocodile hunter"  
 [Charles Darwin](https://en.wikipedia.org/wiki/Judi_Dench): English naturalist whose book On the Origin of Species describes the phenomenon of evolution  
 [Lynn Margulis](https://en.wikipedia.org/wiki/Lynn_Margulis): American evolutionary theorist who proposed that symbiosis led to the origin of cell organelles  
 [Jennifer Doudna](https://en.wikipedia.org/wiki/Jennifer_Doudna): a leader in developing CRISPR technologies  
