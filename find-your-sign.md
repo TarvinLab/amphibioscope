@@ -21,7 +21,7 @@ permalink: /find-your-sign/
 [*Taricha torosa*](https://amphibiaweb.org/cgi/amphib_query?where-genus=Taricha&where-species=torosa): toxic salamander that shows off bright orange belly in unken reflex  
 [Rachel Carson](https://en.wikipedia.org/wiki/Rachel_Carson): author of Silent Spring, which advanced environmentalism  
 [*Caecilia thompsoni*](https://amphibiaweb.org/cgi/amphib_query?where-genus=Caecilia&where-species=thompsoni), the largest caecilian  
-[Mary Jackson](https://en.wikipedia.org/wiki/Mary_Jackson_(engineer): NASA mathematician and engineer  
+[Mary Jackson](https://en.wikipedia.org/wiki/Mary_Jackson_(engineer\)): NASA mathematician and engineer  
 <br /><br /><br />
 
 ---
