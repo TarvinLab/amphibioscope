@@ -21,6 +21,7 @@ permalink: /find-your-sign/
 [*Caecilia thompsoni*](https://amphibiaweb.org/cgi/amphib_query?where-genus=Caecilia&where-species=thompsoni), the largest caecilian  
 
 **Scutum Celebrities**
+
 [David Attenborough](https://en.wikipedia.org/wiki/David_Attenborough): a British film-maker and natural historian   
 [Rachel Carson](https://en.wikipedia.org/wiki/Rachel_Carson): author of Silent Spring, which advanced environmentalism  
 [Mary Jackson](https://en.wikipedia.org/wiki/Mary_Jackson_(engineer\)): NASA mathematician and engineer  
@@ -47,6 +48,7 @@ permalink: /find-your-sign/
 [*Xenopus laevis*](https://amphibiaweb.org/cgi/amphib_query?where-genus=Xenopus&where-species=laevis): aquatic clawed frog that was introduced to the U.S. as a pregnancy test  
 
 **Eridanus Celebrities**
+
 [David Wake](https://en.wikipedia.org/wiki/David_B._Wake): salamander biologist and founder of AmphibiaWeb  
 [John William Daly](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4493916/): biochemist who helped make poison frogs famous  
 [Helen Rodríguez Trías](https://en.wikipedia.org/wiki/Helen_Rodr%C3%ADguez_Tr%C3%ADas): doctor, educator, and women's rights activist  
@@ -72,6 +74,7 @@ permalink: /find-your-sign/
 [*Boana rosenbergi*](https://amphibiaweb.org/cgi/amphib_query?where-genus=Boana&where-species=rosenbergi): the gladiator tree frog, males fight with sharp spikes on their hands  
 
 **Volans Celebrities**
+
 [Rosalind Franklin](https://en.wikipedia.org/wiki/Rosalind_Franklin): chemist who helped solve the structure of DNA  
 [Marvalee Wake](https://en.wikipedia.org/wiki/Marvalee_Wake): caecilian biologist and influential herpetologist   
 [Taika Waititi](https://en.wikipedia.org/wiki/Taika_Waititi): New Zealand film director and actor  
@@ -100,6 +103,7 @@ permalink: /find-your-sign/
 [*Conraua goliath*](https://amphibiaweb.org/cgi/amphib_query?where-genus=Conraua&where-species=goliath): the largest frog in the world, also known as the goliath bullfrog and the giant slippery frog  
 
 **Hercules Celebrities**
+
 [Neil deGrasse Tyson](https://en.wikipedia.org/wiki/Neil_deGrasse_Tyson): American astrophysicist  
 [Mae Jemison](https://en.wikipedia.org/wiki/Mae_Jemison): first Black women in space 
 [Tomoko Ohta](https://en.wikipedia.org/wiki/Tomoko_Ohta): Japanese population geneticist  
@@ -124,6 +128,7 @@ permalink: /find-your-sign/
 [*Cornufer guentheri*](https://amphibiaweb.org/cgi/amphib_query?where-genus=Cornufer&where-species=guentheri): leaf frog that blends in with the forest floor  
 
 **Pheonix Celebrities**
+
 [Bill Nye](https://en.wikipedia.org/wiki/Bill_Nye): "the science guy"  
 [Chadwick Boseman](https://en.wikipedia.org/wiki/Chadwick_Boseman): African-American actor  
 [Janaki Ammal](https://en.wikipedia.org/wiki/Janaki_Ammal): Indian botanist
@@ -152,6 +157,7 @@ permalink: /find-your-sign/
 [*Breviceps macrops*](https://amphibiaweb.org/cgi/amphib_query?where-genus=Breviceps&where-species=macrops): the desert rain frog has a famous squeaky-toy-like call  
 
 **Lepus Celebrities**
+
 [Alfred Russel Wallace](https://en.wikipedia.org/wiki/Alfred_Russel_Wallace): father of biogeography 
 [Dame Judi Dench](https://en.wikipedia.org/wiki/Judi_Dench): English actress    
 [Annie Alexander](https://en.wikipedia.org/wiki/Annie_Montague_Alexander): founder of the Museum of Vertebrate Zoology at the University of California Berkeley  
@@ -177,6 +183,7 @@ permalink: /find-your-sign/
 [*Leptodactylus fallax*](https://amphibiaweb.org/cgi/amphib_query?where-genus=Leptodactylus&where-species=fallax): the mountain chicken is a large frog known to taste like the poultry for which it is named  
 
 **Circinus Celebrities**
+
 [Lupita Nyong'o](https://en.wikipedia.org/wiki/Lupita_Nyong%27o): Kenyan-Mexian actress and author  
 [Steve Irwin](https://en.wikipedia.org/wiki/Steve_Irwin): the "crocodile hunter"
 [Charles Darwin](https://en.wikipedia.org/wiki/Judi_Dench): English naturalist whose book On the Origin of Species describes the phenomenon of evolution  
