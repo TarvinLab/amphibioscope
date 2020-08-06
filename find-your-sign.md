@@ -6,7 +6,7 @@ permalink: /find-your-sign/
 # &nbsp; Scutum ![Scutum_sign](constellations/Scutum_sign.png){: width="80px" height="80px" style="float:left; padding:10px; text-align:center"}  
 
 ![Scutum](constellations/Scutum.png){: width="350px" height="350px" style="float:right; padding:10px"}
-&nbsp; **Dates**: April 25 - June 4
+&nbsp; **Dates**: April 22 - June 1
 
 **Description**: Scuta are known as the protectors. Despite a tough exterior, the loyalty and strength of a Scutum makes it well worth the effort to get to know one. Scuta are often warm and welcoming once you get past their external barriers. Given their stubbornness, Scuta are driven to scheme for their success, often coming up with surprising solutions to difficult problems. Scutum individuals have the most difficulty relating to Eridanus and Volans, though they get along well with Hercules and Lepus. 
   
@@ -31,7 +31,7 @@ permalink: /find-your-sign/
 # &nbsp; Eridanus ![Eridanus_sign](constellations/Eridanus_sign.png){: width="80px" height="80px" style="float:left; padding:10px; text-align:center"}  
 
 ![Eridanus](constellations/Eridanus.png){: width="350px" height="350px" style="float:right; padding:10px"}
-&nbsp; **Dates**: June 5 - July 20  
+&nbsp; **Dates**: June 2 - July 17 
 
 **Description**: Known for their out-going and extroverted nature, Eridani are bright-eyed with a strong sense of adventure. They follow the beat of their own drum, which can be their greatest strength but also make it hard for some to relate to them. Eridani love to talk but can sometimes come off as a little overbearing. They usually hit it off with Volans, are inspired by Phoenix, and clash with Hercules and Scutum.  
 
@@ -58,7 +58,7 @@ permalink: /find-your-sign/
 # &nbsp; Volans ![Volans_sign](constellations/Volans_sign.png){: width="80px" height="80px" style="float:left; padding:10px; text-align:center"}  
 
 ![Volans](constellations/Volans.png){: width="350px" height="350px" style="float:right; padding:10px"}
-&nbsp; **Dates**: July 21 - September 4
+&nbsp; **Dates**: July 18 - September 1
 
 **Description**: Some may say that Volans are full of themselves, but a Volans would simply state that they follow their own convictions. Volans can often get where others cannot, although their self-confidence can sometimes backfire with rapid -- and potentially destructive -- falls. Volans hang tight with Eridani extroverts and clash with competitive Hercules. They are strongly attracted to their opposite, Lepus, with mixed success.  
 
@@ -84,7 +84,7 @@ permalink: /find-your-sign/
 <br/>
 # &nbsp; Hercules ![Hercules_sign](constellations/Hercules_sign.png){: width="80px" height="80px" style="float:left; padding:10px; text-align:center"}  
 
-&nbsp; **Dates**: September 5 - October 20
+&nbsp; **Dates**: September 2 - October 17
 ![Hercules](constellations/Hercules.png){: width="350px" height="350px" style="float:right; padding:10px"}
 
 **Description**: Hercules are powerful, deliberate, and overwhelmingly competent. They are used to their own successes, and thus can be sore losers and unpleasant to those surrounding them. However, their great sense of humor and competitive spirit make Hercules both fun and entertaining when relaxed. Hercules easily bond with other competitive spirits like Scutum. They should be careful not to be too overbearing when in relationships with Circinus and Eriadanus. Volans, Phoenix, and Scutum -- on the other hand -- find their strength of will invigorating.  
@@ -109,7 +109,7 @@ permalink: /find-your-sign/
 <br/>
 # &nbsp; Phoenix ![Phoenix_sign](constellations/Phoenix_sign.png){: width="80px" height="80px" style="float:left; padding:10px; text-align:center"}  
 
-&nbsp; **Dates**: October 21 - December 5 
+&nbsp; **Dates**: October 18 - December 2  
 ![Phoenix](constellations/Phoenix.png){: width="350px" height="350px" style="float:right; padding:10px"}
 
 **Description**: Phoenix are born ready to follow their dreams. Although they are perceived as mature, Phoenix can be a bit anxious and impatient; growing up quickly has made it difficult for them to unwind. Nevertheless, their ambition drives them to keep learning and growing. Phoenix happily get along with those who don’t get in their way, like Eridanus or Scutum (when these stubborn individuals are on a separate path), though the wanderings of Circinus can be irritating.    
@@ -133,7 +133,7 @@ permalink: /find-your-sign/
 <br/>
 # &nbsp; Lepus ![Lepus_sign](constellations/Lepus_sign.png){: width="80px" height="80px" style="float:left; padding:10px; text-align:center"}  
 
-&nbsp; **Dates**: December 6 - January 20 
+&nbsp; **Dates**: December 3 - January 17 
 ![Lepus](constellations/Lepus.png){: width="350px" height="350px" style="float:right; padding:10px"}
 
 **Description**: Lepus are “grounded,” and they operate beneath the surface of the mainstream. They are innovative, finding unconventional ways to achieve their goals. Lepus are generally quiet but can be loud when speaking their mind. They do not like the limelight and judge others on their character rather than their appearance. Lepus do not mind getting dirty but shy away from confrontation. They like having Hercules around to help them fight their battles, and they find their opposite Volans, whom they get along with some of the time, fascinating.    
@@ -163,7 +163,7 @@ permalink: /find-your-sign/
 # &nbsp; Circinus ![Circinus_sign](constellations/Circinus_sign.png){: width="80px" height="80px" style="float:left; padding:10px; text-align:center"}  
 
 ![Circinus](constellations/Circinus.png){: width="350px" height="350px" style="float:right; padding:10px"}
-&nbsp; **Dates**: January 21 - March 7
+&nbsp; **Dates**: January 18 - March 4
 
 **Description**: Circinus are wanders that simultaneously seek their place in the world and are satisfied with not knowing what that might be. Sometimes they will go with the flow, and other times they will make quick decisions; in general, Circinus are difficult to predict! Creative, inquisitive, and fun, Circinus tend to get along well with Eridanus, enjoy deep conversations with Phoenix, and make great partners of Lepus. Circinus do not take well to the more competitive spirits like Hercules and Scutum.    
 
@@ -189,7 +189,7 @@ permalink: /find-your-sign/
 # &nbsp; Coma Berenices ![ComaBerenices_sign](constellations/ComaBerenices_sign.png){: width="80px" height="80px" style="float:left; padding:10px; text-align:center"}  
 
 ![ComaBerenices](constellations/ComaBerenices.png){: width="350px" height="350px" style="float:right; padding:10px"}
-&nbsp; **Dates**: March 8 - April 24
+&nbsp; **Dates**: March 5 - April 21
 
 **Description**: Coma Berenices know what they want and will do whatever it takes to get it. They will take drastic action for people they love, even if it is destructive or toxic to themselves or to others. Coma Berenices are loyal and attentive to their loved ones, yet they can be oblivious to the concerns of individuals outside their inner circles. They speak up for what they believe in but do not always know how to do it tactfully. Coma Berenices are happy to guide individuals like Circinus or boost the ambitions of Phoenix, but they clash with flighty Volans and non-conforming Eridani.    
 
