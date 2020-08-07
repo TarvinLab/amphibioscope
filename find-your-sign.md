@@ -18,19 +18,18 @@ permalink: /find-your-sign/
 [*Bufo bufo*](https://amphibiaweb.org/cgi/amphib_query?where-genus=Bufo&where-species=bufo): a common toad with bulky poison glands  
 [*Megophrys nasuta*](https://amphibiaweb.org/cgi/amphib_query?where-genus=Megophrys&where-species=nasuta): a large-bodied frog that mimics dead leaves  
 [*Taricha torosa*](https://amphibiaweb.org/cgi/amphib_query?where-genus=Taricha&where-species=torosa): toxic salamander that shows off bright orange belly in unken reflex  
-[*Caecilia thompsoni*](https://amphibiaweb.org/cgi/amphib_query?where-genus=Caecilia&where-species=thompsoni), the largest caecilian  
+[*Caecilia thompsoni*](https://amphibiaweb.org/cgi/amphib_query?where-genus=Caecilia&where-species=thompsoni): the largest caecilian  
 
 **Scutum Celebrities**  
 [David Attenborough](https://en.wikipedia.org/wiki/David_Attenborough): a British film-maker and natural historian   
 [Rachel Carson](https://en.wikipedia.org/wiki/Rachel_Carson): author of Silent Spring, which advanced environmentalism  
-[Mary Jackson](https://en.wikipedia.org/wiki/Mary_Jackson_(engineer\)): NASA mathematician and engineer  
 <br /><br /><br />
 
 ---
 <br/>
 # &nbsp; Eridanus ![Eridanus_sign](constellations/Eridanus_sign.png){: width="80px" height="80px" style="float:left; padding:10px; text-align:center"}  
 
-![Eridanus](constellations/Eridanus.png){: width="350px" height="350px" style="float:right; padding:10px"}
+[![Eridanus](constellations/Eridanus.png){: width="350px" height="350px" style="float:right; padding:10px"}](https://en.wikipedia.org/wiki/Eridanus_(constellation))
 &nbsp; **Dates**: June 2 - July 17 
 
 **Description**: Known for their out-going and extroverted nature, Eridani are bright-eyed with a strong sense of adventure. They follow the beat of their own drum, which can be their greatest strength but also make it hard for some to relate to them. Eridani love to talk but can sometimes come off as a little overbearing. They usually hit it off with Volans, are inspired by Phoenix, and clash with Hercules and Scutum.  
@@ -57,7 +56,7 @@ permalink: /find-your-sign/
 <br/>
 # &nbsp; Volans ![Volans_sign](constellations/Volans_sign.png){: width="80px" height="80px" style="float:left; padding:10px; text-align:center"}  
 
-![Volans](constellations/Volans.png){: width="350px" height="350px" style="float:right; padding:10px"}
+[![Volans](constellations/Volans.png){: width="350px" height="350px" style="float:right; padding:10px"}](https://en.wikipedia.org/wiki/Volans)
 &nbsp; **Dates**: July 18 - September 1
 
 **Description**: Some may say that Volans are full of themselves, but a Volans would simply state that they follow their own convictions. Volans can often get where others cannot, although their self-confidence can sometimes backfire with rapid -- and potentially destructive -- falls. Volans hang tight with Eridani extroverts and clash with competitive Hercules. They are strongly attracted to their opposite, Lepus, with mixed success.  
@@ -85,7 +84,7 @@ permalink: /find-your-sign/
 # &nbsp; Hercules ![Hercules_sign](constellations/Hercules_sign.png){: width="80px" height="80px" style="float:left; padding:10px; text-align:center"}  
 
 &nbsp; **Dates**: September 2 - October 17
-![Hercules](constellations/Hercules.png){: width="350px" height="350px" style="float:right; padding:10px"}
+[![Hercules](constellations/Hercules.png){: width="350px" height="350px" style="float:right; padding:10px"}](https://en.wikipedia.org/wiki/Hercules_(constellation))
 
 **Description**: Hercules are powerful, deliberate, and overwhelmingly competent. They are used to their own successes, and thus can be sore losers and unpleasant to those surrounding them. However, their great sense of humor and competitive spirit make Hercules both fun and entertaining when relaxed. Hercules easily bond with other competitive spirits like Scutum. They should be careful not to be too overbearing when in relationships with Circinus and Eriadanus. Volans, Phoenix, and Scutum -- on the other hand -- find their strength of will invigorating.  
 
@@ -101,7 +100,7 @@ permalink: /find-your-sign/
 
 **Hercules Celebrities**  
 [Neil deGrasse Tyson](https://en.wikipedia.org/wiki/Neil_deGrasse_Tyson): American astrophysicist  
-[Mae Jemison](https://en.wikipedia.org/wiki/Mae_Jemison): first Black women in space  
+[Mae Jemison](https://en.wikipedia.org/wiki/Mae_Jemison): first Black woman in space  
 [Tomoko Ohta](https://en.wikipedia.org/wiki/Tomoko_Ohta): Japanese population geneticist  
 <br /><br /><br />
 
@@ -110,7 +109,7 @@ permalink: /find-your-sign/
 # &nbsp; Phoenix ![Phoenix_sign](constellations/Phoenix_sign.png){: width="80px" height="80px" style="float:left; padding:10px; text-align:center"}  
 
 &nbsp; **Dates**: October 18 - December 2  
-![Phoenix](constellations/Phoenix.png){: width="350px" height="350px" style="float:right; padding:10px"}
+[![Phoenix](constellations/Phoenix.png){: width="350px" height="350px" style="float:right; padding:10px"}](https://en.wikipedia.org/wiki/Phoenix_(constellation))
 
 **Description**: Phoenix are born ready to follow their dreams. Although they are perceived as mature, Phoenix can be a bit anxious and impatient; growing up quickly has made it difficult for them to unwind. Nevertheless, their ambition drives them to keep learning and growing. Phoenix happily get along with those who don’t get in their way, like Eridanus or Scutum (when these stubborn individuals are on a separate path), though the wanderings of Circinus can be irritating.    
 
@@ -134,7 +133,7 @@ permalink: /find-your-sign/
 # &nbsp; Lepus ![Lepus_sign](constellations/Lepus_sign.png){: width="80px" height="80px" style="float:left; padding:10px; text-align:center"}  
 
 &nbsp; **Dates**: December 3 - January 17 
-![Lepus](constellations/Lepus.png){: width="350px" height="350px" style="float:right; padding:10px"}
+[![Lepus](constellations/Lepus.png){: width="350px" height="350px" style="float:right; padding:10px"}](https://en.wikipedia.org/wiki/Lepus_(constellation))
 
 **Description**: Lepus are “grounded,” and they operate beneath the surface of the mainstream. They are innovative, finding unconventional ways to achieve their goals. Lepus are generally quiet but can be loud when speaking their mind. They do not like the limelight and judge others on their character rather than their appearance. Lepus do not mind getting dirty but shy away from confrontation. They like having Hercules around to help them fight their battles, and they find their opposite Volans, whom they get along with some of the time, fascinating.    
 
@@ -153,16 +152,15 @@ permalink: /find-your-sign/
 
 **Lepus Celebrities**  
 [Alfred Russel Wallace](https://en.wikipedia.org/wiki/Alfred_Russel_Wallace): father of biogeography  
-[Dame Judi Dench](https://en.wikipedia.org/wiki/Judi_Dench): English actress    
+[Judi Dench](https://en.wikipedia.org/wiki/Judi_Dench): English actress    
 [Annie Alexander](https://en.wikipedia.org/wiki/Annie_Montague_Alexander): founder of the Museum of Vertebrate Zoology at the University of California Berkeley  
-[Alice Eastwood](https://en.wikipedia.org/wiki/Annie_Montague_Alexander): Canadian-American botanist; 17 species are named for her
 <br /><br /><br />
 
 ---
 <br/>
 # &nbsp; Circinus ![Circinus_sign](constellations/Circinus_sign.png){: width="80px" height="80px" style="float:left; padding:10px; text-align:center"}  
 
-![Circinus](constellations/Circinus.png){: width="350px" height="350px" style="float:right; padding:10px"}
+[![Circinus](constellations/Circinus.png){: width="350px" height="350px" style="float:right; padding:10px"}](https://en.wikipedia.org/wiki/Circinus)
 &nbsp; **Dates**: January 18 - March 4
 
 **Description**: Circinus are wanders that simultaneously seek their place in the world and are satisfied with not knowing what that might be. Sometimes they will go with the flow, and other times they will make quick decisions; in general, Circinus are difficult to predict! Creative, inquisitive, and fun, Circinus tend to get along well with Eridanus, enjoy deep conversations with Phoenix, and make great partners of Lepus. Circinus do not take well to the more competitive spirits like Hercules and Scutum.    
@@ -179,16 +177,16 @@ permalink: /find-your-sign/
 **Circinus Celebrities**  
 [Lupita Nyong'o](https://en.wikipedia.org/wiki/Lupita_Nyong%27o): Kenyan-Mexian actress and author  
 [Steve Irwin](https://en.wikipedia.org/wiki/Steve_Irwin): the "crocodile hunter"  
-[Charles Darwin](https://en.wikipedia.org/wiki/Judi_Dench): English naturalist whose book On the Origin of Species describes the phenomenon of evolution  
-[Lynn Margulis](https://en.wikipedia.org/wiki/Lynn_Margulis): American evolutionary theorist who proposed that symbiosis led to the origin of cell organelles  
-[Jennifer Doudna](https://en.wikipedia.org/wiki/Jennifer_Doudna): a leader in developing CRISPR technologies  
+[Charles Darwin](https://en.wikipedia.org/wiki/Judi_Dench): English naturalist whose book On the Origin of Species describes the phenomenon of evolution   
+[Jennifer Doudna](https://en.wikipedia.org/wiki/Jennifer_Doudna): American biochemist famous for developing CRISPR technologies   
+[Alice Eastwood](https://en.wikipedia.org/wiki/Annie_Montague_Alexander): Canadian-American botanist; 17 species are named for her
 <br /><br /><br />
 
 ---
 <br/>
 # &nbsp; Coma Berenices ![ComaBerenices_sign](constellations/ComaBerenices_sign.png){: width="80px" height="80px" style="float:left; padding:10px; text-align:center"}  
 
-![ComaBerenices](constellations/ComaBerenices.png){: width="350px" height="350px" style="float:right; padding:10px"}
+[![ComaBerenices](constellations/ComaBerenices.png){: width="350px" height="350px" style="float:right; padding:10px"}](https://en.wikipedia.org/wiki/Coma_Berenices)
 &nbsp; **Dates**: March 5 - April 21
 
 **Description**: Coma Berenices know what they want and will do whatever it takes to get it. They will take drastic action for people they love, even if it is destructive or toxic to themselves or to others. Coma Berenices are loyal and attentive to their loved ones, yet they can be oblivious to the concerns of individuals outside their inner circles. They speak up for what they believe in but do not always know how to do it tactfully. Coma Berenices are happy to guide individuals like Circinus or boost the ambitions of Phoenix, but they clash with flighty Volans and non-conforming Eridani.    
@@ -201,5 +199,9 @@ permalink: /find-your-sign/
 [*Mantella aurantiaca*](https://amphibiaweb.org/cgi/amphib_query?where-genus=Mantella&where-species=aurantiaca): a golden frog with aposematic coloration to signal the toxins it wields   
 [*Trichobatrachus robustus*](https://amphibiaweb.org/cgi/amphib_query?where-genus=Trichobatrachus&where-species=robustus): the male hairy frog has thin skin protuberances on their legs that give them their common name      
 [*Gastrotheca cornuta*](https://amphibiaweb.org/cgi/amphib_query?where-genus=Gastrotheca&where-species=cornuta): female horned marsupial frogs carry eggs on their backs  
+
+**Coma Berenices Celebrities**
+[Mary Jackson](https://en.wikipedia.org/wiki/Mary_Jackson_(engineer)): NASA mathematician and engineer  
+[Lynn Margulis](https://en.wikipedia.org/wiki/Lynn_Margulis): American evolutionary theorist who proposed that symbiosis led to the origin of cell organelles 
 
 
