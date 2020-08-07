@@ -29,7 +29,12 @@
         {% endif %}
       </div>
     </header>
-
+      <div class="wrapper">
+        {{ content }}
+        {% if page.twitter-timeline %}
+          {% include modules/twitter-timeline/twitter-timeline.html %}
+        {% endif %}
+      </div>
     <div id="content-wrapper">
       <div class="inner clearfix">
         <section id="main-content">
