@@ -1,8 +1,8 @@
-pages_list_title: ACME Documentation
+pages_list_title: Navigation
 pages:
 
 - title: Home
-  href: "/"
+  href: "/amphibioscope/"
 
 - title: Find Your Sign
-  href: "/find-your-sign/"
+  href: "/amphibioscope/find-your-sign/"
