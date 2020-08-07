@@ -1,0 +1,8 @@
+pages_list_title: ACME Documentation
+pages:
+
+- title: Home
+  href: "/"
+
+- title: Find Your Sign
+  href: "/find-your-sign/"
