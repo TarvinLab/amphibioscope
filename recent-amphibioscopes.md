@@ -7,6 +7,5 @@ twitter-timeline:
   tweet_limit: 3
   inject_js: true
 title: Recent Amphibioscopes
-permalink: /recent-amphibioscopes/
 ---
 
