@@ -200,7 +200,7 @@ permalink: /find-your-sign/
 [*Trichobatrachus robustus*](https://amphibiaweb.org/cgi/amphib_query?where-genus=Trichobatrachus&where-species=robustus): the male hairy frog has thin skin protuberances on their legs that give them their common name      
 [*Gastrotheca cornuta*](https://amphibiaweb.org/cgi/amphib_query?where-genus=Gastrotheca&where-species=cornuta): female horned marsupial frogs carry eggs on their backs  
 
-**Coma Berenices Celebrities**
+**Coma Berenices Celebrities**  
 [Mary Jackson](https://en.wikipedia.org/wiki/Mary_Jackson_(engineer)): NASA mathematician and engineer  
 [Lynn Margulis](https://en.wikipedia.org/wiki/Lynn_Margulis): American evolutionary theorist who proposed that symbiosis led to the origin of cell organelles 
 
