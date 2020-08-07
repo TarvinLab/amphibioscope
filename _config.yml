@@ -29,6 +29,7 @@ kramdown:
   parse_block_html: true
 plugins:
   - jekyll-feed
+  - jekyll-gist
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
