@@ -6,10 +6,10 @@
 
 
 # Welcome to Amphibioscope, your one-stop-shop for amphibian horoscopes!
-<br/><br/>
+<br/>
 
 ## What's your sign? Find out [here](https://tarvinlab.github.io/amphibioscope/find-your-sign) 
-<br/><br/>
+<br/>
 
 
 ## About Amphibioscope  
