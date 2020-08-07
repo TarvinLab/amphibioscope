@@ -6,3 +6,6 @@ pages:
 
 - title: Find Your Sign
   href: "/amphibioscope/find-your-sign/"
+  
+- title: Recent Amphibioscopes
+  href: "/amphibioscope/twitter/"
