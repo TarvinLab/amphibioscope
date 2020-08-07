@@ -33,13 +33,9 @@
       <div class="inner clearfix">
         <section id="main-content">
           {{ content }}
-                </div>
-            <div class="wrapper">
-        {{ content }}
-        {% if page.twitter-timeline %}
+          {% if page.twitter-timeline %}
           {% include modules/twitter-timeline/twitter-timeline.html %}
         {% endif %}
-      </div>
         </section>
 
         <aside id="sidebar">
