@@ -1,8 +1,8 @@
 ---
 twitter-timeline:
   name: frogsicles
-  width: 700
-  height: 800
+  width: 600
+  height: 600
   chrome: nofooter noborders transparent
   tweet_limit: 8
   inject_js: true
