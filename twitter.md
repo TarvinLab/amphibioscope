@@ -6,7 +6,5 @@ twitter-timeline:
   chrome: nofooter noborders transparent
   tweet_limit: 3
   inject_js: true
-permalink: /recent-amphibioscopes/
-title: Recent Amphibioscopes
 ---
 
