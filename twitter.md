@@ -1,9 +1,9 @@
 ---
 twitter-timeline:
-  name: frogsicles
-  width: 800
+  name: amphibioscope
+  width: 700
   height: 800
-  chrome: nofooter noscrollbar noborders transparent
+  chrome: nofooter noborders transparent
   tweet_limit: 3
   inject_js: true
 ---
