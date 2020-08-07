@@ -5,7 +5,7 @@
 ---
 
 
-## Welcome to Amphibioscope, your one-stop-shop for amphibian horoscopes!
+# Welcome to Amphibioscope, your one-stop-shop for amphibian horoscopes!
 
 ## What's your sign? Find out [here](https://tarvinlab.github.io/amphibioscope/find-your-sign) 
 
