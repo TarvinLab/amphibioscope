@@ -30,10 +30,12 @@ kramdown:
 plugins:
   - jekyll-feed
   - jekyll-gist
+  - jekyll-twitter-plugin
   
 header_pages:
   - index.md
   - find-your-sign.md
+  
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
