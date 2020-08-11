@@ -158,7 +158,7 @@ permalink: /find-your-sign/
 [*Breviceps macrops*](https://amphibiaweb.org/cgi/amphib_query?where-genus=Breviceps&where-species=macrops): the desert rain frog has a famous squeaky-toy-like call  
 
 **Lepus Celebrities**  
-[Alfred Russel Wallace](https://en.wikipedia.org/wiki/Alfred_Russel_Wallace): father of biogeography and the theory of evolution by natural selection (alongside Charles Darwin). 
+[Alfred Russel Wallace](https://en.wikipedia.org/wiki/Alfred_Russel_Wallace): father of biogeography and the theory of evolution by natural selection (alongside Charles Darwin).   
 [Judi Dench](https://en.wikipedia.org/wiki/Judi_Dench): English actress    
 [Annie Alexander](https://en.wikipedia.org/wiki/Annie_Montague_Alexander): founder of the Museum of Vertebrate Zoology at the University of California Berkeley  
 [Misael Acosta Solis](https://en.wikipedia.org/wiki/Misael_Acosta_Sol%C3%ADs): Ecuadorian naturalist and botanist  
