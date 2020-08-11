@@ -7,7 +7,7 @@ permalink: /find-your-sign/
 [![Volans](constellations/Volans.png){: width="350px" height="350px" style="float:right; padding:10px"}](https://en.wikipedia.org/wiki/Volans)
 &nbsp; **Dates**: April 22 - June 1
 
-**Description**: Some may say that Volans are full of themselves, but a Volans would simply state that they follow their own convictions. Volans can often get where others cannot, although their self-confidence can sometimes backfire with rapid -- and potentially destructive -- falls. Volans hang tight with Eridani extroverts and clash with competitive Hercules. They are strongly attracted to their opposite, Lepus, with mixed success.  
+**Description**: Volans are brave, and always striving for greater things. Some may say that Volans are full of themselves, but a Volans would simply state that they are guided by their convictions. Volans often offer justice and protection when others cannot.  Their self-confidence can sometimes backfire with those who disagree with their opinions. Volans hang tight with Eridani extroverts and clash with competitive Hercules. They are strongly attracted to their opposite, Lepus, with mixed success.  
 
 **General Amphibian Characteristics**: Frogs that love spending their time in trees and bushes.<br />
 
@@ -15,14 +15,14 @@ permalink: /find-your-sign/
 
 **Amphibian Archetypes**  
 [*Agalychnis callidryas*](https://amphibiaweb.org/cgi/amphib_query?where-genus=Agalychnis&where-species=callidryas): the famous red-eyed tree frog  
-[*Rhacophorus malabaricus*](https://amphibiaweb.org/cgi/amphib_query?where-genus=Rhacophorus&where-species=malabaricus): this flying frog can leap from tree to tree with its webbed hands and feet  
+[*Rhacophorus nigropalmatus*](https://amphibiaweb.org/cgi/amphib_query?where-scientific_name=Rhacophorus+nigropalmatus): this flying frog can leap from tree to tree with its webbed hands and feet  
 [*Boana rosenbergi*](https://amphibiaweb.org/cgi/amphib_query?where-genus=Boana&where-species=rosenbergi): the gladiator tree frog, males fight with sharp spikes on their hands  
 
 **Volans Celebrities**  
 [David Attenborough](https://en.wikipedia.org/wiki/David_Attenborough): a British film-maker and natural historian  
 [Rachel Carson](https://en.wikipedia.org/wiki/Rachel_Carson): author of Silent Spring, which advanced environmentalism  
-[Ian McKellan](https://en.wikipedia.org/wiki/Ian_McKellen): English actor and Gandalf
-[Doris Mable Cochran](https://en.wikipedia.org/wiki/Doris_Mable_Cochran): American Herpetologist and custodian of American Natural Collection at the Smithsonian
+[Ian McKellan](https://en.wikipedia.org/wiki/Ian_McKellen): English actor and Gandalf  
+[Doris Mable Cochran](https://en.wikipedia.org/wiki/Doris_Mable_Cochran): American Herpetologist and custodian of American Natural Collection at the Smithsonian  
 <br /><br /><br />
 
 ---
@@ -32,7 +32,7 @@ permalink: /find-your-sign/
 [![Eridanus](constellations/Eridanus.png){: width="350px" height="350px" style="float:right; padding:10px"}](https://en.wikipedia.org/wiki/Eridanus_(constellation))
 &nbsp; **Dates**: June 2 - July 17 
 
-**Description**: Known for their out-going and extroverted nature, Eridani are bright-eyed with a strong sense of adventure. They follow the beat of their own drum, which can be their greatest strength but also make it hard for some to relate to them. Eridani love to talk but can sometimes come off as a little overbearing. They usually hit it off with Volans, are inspired by Phoenix, and clash with Hercules and Scutum.  
+**Description**: Known for their out-going and extroverted nature, Eridani are bright-eyed with a strong sense of adventure. They follow the beat of their own drum, which can be their greatest strength but also make it hard for others to relate to them. Eridani love to talk and collaborate with other creative spirits. They usually hit it off with Volans, are inspired by Phoenix, appreciate the support of Coma Berenices, and clash with Hercules and Scutum.  
 
 **General Amphibian Characteristics**: Highly aquatic frogs, salamanders, and caecilians.<br />
 
@@ -50,6 +50,7 @@ permalink: /find-your-sign/
 [John William Daly](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4493916/): biochemist who helped make poison frogs famous  
 [Helen Rodríguez Trías](https://en.wikipedia.org/wiki/Helen_Rodr%C3%ADguez_Tr%C3%ADas): doctor, educator, and women's rights activist  
 [Meryl Streep](https://en.wikipedia.org/wiki/Meryl_Streep): American actress  
+[James L. Patton](https://en.wikipedia.org/wiki/James_L._Patton): American evolutionary biologist and mammologist  
 <br /><br /><br />
 
 ---
@@ -87,7 +88,7 @@ permalink: /find-your-sign/
 &nbsp; **Dates**: September 2 - October 17
 [![Hercules](constellations/Hercules.png){: width="350px" height="350px" style="float:right; padding:10px"}](https://en.wikipedia.org/wiki/Hercules_(constellation))
 
-**Description**: Hercules are powerful, deliberate, and overwhelmingly competent. They are used to their own successes, and thus can be sore losers and unpleasant to those surrounding them. However, their great sense of humor and competitive spirit make Hercules both fun and entertaining when relaxed. Hercules easily bond with other competitive spirits like Scutum. They should be careful not to be too overbearing when in relationships with Circinus and Eriadanus. Volans, Phoenix, and Scutum -- on the other hand -- find their strength of will invigorating.  
+**Description**: Hercules are powerful, deliberate, and competent. They put a lot of effort into achieving their personal and collective goals, and are thus often admired by those surrounding them. Hercules love to fight for just causes and they are always on the side of the downtrodden.  Their great sense of humor and competitive spirit make Hercules fun and entertaining when relaxed. Hercules easily bond with other competitive spirits like Scutum. They should be careful not to be too overbearing when in relationships with Circinus and Eriadanus. Volans, Phoenix, and Scutum -- on the other hand -- find their strength of will invigorating.  
 
 **General Amphibian Characteristics**: Giant salamanders, buff frogs, and brightly colored small frogs that pack a toxic punch.<br />
 
@@ -103,6 +104,8 @@ permalink: /find-your-sign/
 [Neil deGrasse Tyson](https://en.wikipedia.org/wiki/Neil_deGrasse_Tyson): American astrophysicist  
 [Mae Jemison](https://en.wikipedia.org/wiki/Mae_Jemison): first Black woman in space  
 [Tomoko Ohta](https://en.wikipedia.org/wiki/Tomoko_Ohta): Japanese population geneticist  
+[Alexander Von Humboldt](https://en.wikipedia.org/wiki/Alexander_von_Humboldt): Prussian polymath, geographer, naturalist, and explorer  
+[Francisco Jose de Caldas](https://en.wikipedia.org/wiki/Francisco_Jos%C3%A9_de_Caldas): Colombian scientist, naturalist, and biogeographer  
 <br /><br /><br />
 
 ---
@@ -112,7 +115,7 @@ permalink: /find-your-sign/
 &nbsp; **Dates**: October 18 - December 2  
 [![Phoenix](constellations/Phoenix.png){: width="350px" height="350px" style="float:right; padding:10px"}](https://en.wikipedia.org/wiki/Phoenix_(constellation))
 
-**Description**: Phoenix are born ready to follow their dreams. Although they are perceived as mature, Phoenix can be a bit anxious and impatient; growing up quickly has made it difficult for them to unwind. Nevertheless, their ambition drives them to keep learning and growing. Phoenix happily get along with those who don’t get in their way, like Eridanus or Scutum (when these stubborn individuals are on a separate path), though the wanderings of Circinus can be irritating.    
+**Description**: Phoenix are born ready to follow their dreams. They are perceived as mature and serious, but Phoenix can be tender and vulnerable when feeling comfortable. They had to grow up quickly, which is why it is sometimes difficult for them to unwind. Nevertheless, their curiosity drives them to keep learning and they are willing to change. Phoenix happily get along with those who don’t get in their way, like Eridanus or Scutum (when these tenacious individuals are on a separate path).  
 
 **General Amphibian Characteristics**: Frogs and salamanders that are direct developers, meaning that they don’t have tadpole or larval stages and look like tiny adults when they hatch.<br />
 
@@ -126,7 +129,10 @@ permalink: /find-your-sign/
 **Pheonix Celebrities**  
 [Bill Nye](https://en.wikipedia.org/wiki/Bill_Nye): "the science guy"  
 [Chadwick Boseman](https://en.wikipedia.org/wiki/Chadwick_Boseman): African-American actor  
-[Janaki Ammal](https://en.wikipedia.org/wiki/Janaki_Ammal): Indian botanist
+[Janaki Ammal](https://en.wikipedia.org/wiki/Janaki_Ammal): Indian botanist  
+[Lise Meitner](https://en.wikipedia.org/wiki/Lise_Meitner): Austrian-Swedish physicist for whom the element meitnerium is named.  
+[Rafael Pombo](https://en.wikipedia.org/wiki/Rafael_Pombo) 19st century colombian poet, children book literature writer, mathematician and engineer.  
+[Marie Curie](https://en.wikipedia.org/wiki/Marie_Curie): Polish and naturalized French physicts and chemist  
 <br /><br /><br />
 
 ---
@@ -136,7 +142,7 @@ permalink: /find-your-sign/
 &nbsp; **Dates**: December 3 - January 17 
 [![Lepus](constellations/Lepus.png){: width="350px" height="350px" style="float:right; padding:10px"}](https://en.wikipedia.org/wiki/Lepus_(constellation))
 
-**Description**: Lepus are “grounded,” and they operate beneath the surface of the mainstream. They are innovative, finding unconventional ways to achieve their goals. Lepus are generally quiet but can be loud when speaking their mind. They do not like the limelight and judge others on their character rather than their appearance. Lepus do not mind getting dirty but shy away from confrontation. They like having Hercules around to help them fight their battles, and they find their opposite Volans, whom they get along with some of the time, fascinating.    
+**Description**: Lepus are “grounded,” and they operate beneath the surface of the mainstream. They are innovative, finding unconventional ways to achieve their goals. Lepus are generally quiet but can be loud when speaking their mind. They do not like the limelight and judge others on their character rather than their appearance. Lepus do not mind getting dirty but shy away from confrontation. Lepus like spending quiet time with other people, and thus get along well with Coma Berenices. They like having Hercules around to help them fight their battles, and they find their opposite Volans, whom they get along with some of the time, fascinating.    
 
 **General Amphibian Characteristics**: Caecilians and globose frogs that spend most of their time underground.<br />
 
@@ -152,9 +158,10 @@ permalink: /find-your-sign/
 [*Breviceps macrops*](https://amphibiaweb.org/cgi/amphib_query?where-genus=Breviceps&where-species=macrops): the desert rain frog has a famous squeaky-toy-like call  
 
 **Lepus Celebrities**  
-[Alfred Russel Wallace](https://en.wikipedia.org/wiki/Alfred_Russel_Wallace): father of biogeography  
+[Alfred Russel Wallace](https://en.wikipedia.org/wiki/Alfred_Russel_Wallace): father of biogeography and the theory of evolution by natural selection (alongside Charles Darwin). 
 [Judi Dench](https://en.wikipedia.org/wiki/Judi_Dench): English actress    
 [Annie Alexander](https://en.wikipedia.org/wiki/Annie_Montague_Alexander): founder of the Museum of Vertebrate Zoology at the University of California Berkeley  
+[Misael Acosta Solis](https://en.wikipedia.org/wiki/Misael_Acosta_Sol%C3%ADs): Ecuadorian naturalist and botanist  
 <br /><br /><br />
 
 ---
@@ -164,7 +171,7 @@ permalink: /find-your-sign/
 [![Circinus](constellations/Circinus.png){: width="350px" height="350px" style="float:right; padding:10px"}](https://en.wikipedia.org/wiki/Circinus)
 &nbsp; **Dates**: January 18 - March 4
 
-**Description**: Circinus are wanders that simultaneously seek their place in the world and are satisfied with not knowing what that might be. Sometimes they will go with the flow, and other times they will make quick decisions; in general, Circinus are difficult to predict! Creative, inquisitive, and fun, Circinus tend to get along well with Eridanus, enjoy deep conversations with Phoenix, and make great partners of Lepus. Circinus do not take well to the more competitive spirits like Hercules and Scutum.    
+**Description**: Circinus are wanderers who simultaneously seek their place in the world and are satisfied with not knowing  where that might be. They do not agree with conventional ideas of success and like to explore and enjoy life in different manners. Sometimes they will go with the flow, and other times they will make quick decisions; in general, Circinus are difficult to predict! Creative, inquisitive, and fun, Circinus tends to get along well with Eridanus, enjoy deep conversations with Phoenix, and make great partners of Lepus. Circinus do not take well to the more competitive spirits like Hercules and Scutum.    
 
 **General Amphibian Characteristics**: A diverse group of frogs and salamanders that have no unifying feature outside of their variability!<br />
 
@@ -176,11 +183,11 @@ permalink: /find-your-sign/
 [*Leptodactylus fallax*](https://amphibiaweb.org/cgi/amphib_query?where-genus=Leptodactylus&where-species=fallax): the mountain chicken is a large frog known to taste like the poultry for which it is named  
 
 **Circinus Celebrities**  
-[Lupita Nyong'o](https://en.wikipedia.org/wiki/Lupita_Nyong%27o): Kenyan-Mexian actress and author  
+[Lupita Nyong'o](https://en.wikipedia.org/wiki/Lupita_Nyong%27o): Kenyan-Mexican actress and author  
 [Steve Irwin](https://en.wikipedia.org/wiki/Steve_Irwin): the "crocodile hunter"  
-[Charles Darwin](https://en.wikipedia.org/wiki/Judi_Dench): English naturalist whose book On the Origin of Species describes the phenomenon of evolution   
+[Charles Darwin](https://en.wikipedia.org/wiki/Judi_Dench): English naturalist whose book On the Origin of Species describes the theory of evolution by natural selection.  
 [Jennifer Doudna](https://en.wikipedia.org/wiki/Jennifer_Doudna): American biochemist famous for developing CRISPR technologies   
-[Alice Eastwood](https://en.wikipedia.org/wiki/Annie_Montague_Alexander): Canadian-American botanist; 17 species are named for her
+[Alice Eastwood](https://en.wikipedia.org/wiki/Alice_Eastwood): Canadian-American botanist; 17 species are named for her  
 <br /><br /><br />
 
 ---
@@ -190,7 +197,7 @@ permalink: /find-your-sign/
 [![ComaBerenices](constellations/ComaBerenices.png){: width="350px" height="350px" style="float:right; padding:10px"}](https://en.wikipedia.org/wiki/Coma_Berenices)
 &nbsp; **Dates**: March 5 - April 21
 
-**Description**: Coma Berenices know what they want and will do whatever it takes to get it. They will take drastic action for people they love, even if it is destructive or toxic to themselves or to others. Coma Berenices are loyal and attentive to their loved ones, yet they can be oblivious to the concerns of individuals outside their inner circles. They speak up for what they believe in but do not always know how to do it tactfully. Coma Berenices are happy to guide individuals like Circinus or boost the ambitions of Phoenix, but they clash with flighty Volans and non-conforming Eridani.    
+**Description**: Coma Berenices truly understand the interconnectedness of life, and they care deeply for the people they are connected to. They will take drastic action for people they love. Coma Berenices are loyal and attentive to their loved ones, yet they can be oblivious to the concerns of individuals outside their inner circles. They speak up for what they believe in but do not always know how to do it tactfully. Coma Berenices are happy to guide individuals like Circinus or boost the ambitions of Phoenix, but they clash with flighty Volans and non-conforming Eridani.    
 
 **General Amphibian Characteristics**: Frogs that live among the fallen leaves on the forest floor. Some are very loud squeakers!<br />
 
@@ -203,6 +210,8 @@ permalink: /find-your-sign/
 
 **Coma Berenices Celebrities**  
 [Mary Jackson](https://en.wikipedia.org/wiki/Mary_Jackson_(engineer)): NASA mathematician and engineer  
-[Lynn Margulis](https://en.wikipedia.org/wiki/Lynn_Margulis): American evolutionary theorist who proposed that symbiosis led to the origin of cell organelles 
-
+[Lynn Margulis](https://en.wikipedia.org/wiki/Lynn_Margulis): American evolutionary theorist who proposed that symbiosis led to the origin of cell organelles  
+[Robert Downey Jr.](https://en.wikipedia.org/wiki/Robert_Downey_Jr.): American actor best known for his role as Iron Man in Marvel films  
+[Albert Einstein](https://en.wikipedia.org/wiki/Albert_Einstein): German theoretical physicist  
+[Johann Sebastian Bach](https://en.wikipedia.org/wiki/Johann_Sebastian_Bach): German composer and musician  
 
