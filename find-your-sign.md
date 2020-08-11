@@ -2,27 +2,27 @@
 title: Find Your Sign
 permalink: /find-your-sign/
 ---
+# &nbsp; Volans ![Volans_sign](constellations/Volans_sign.png){: width="80px" height="80px" style="float:left; padding:10px; text-align:center"}  
 
-# &nbsp; Scutum ![Scutum_sign](constellations/Scutum_sign.png){: width="80px" height="80px" style="float:left; padding:10px; text-align:center"}  
-
-[![Scutum](constellations/Scutum.png){: width="350px" height="350px" style="float:right; padding:10px"}](https://en.wikipedia.org/wiki/Scutum_(constellation))
+[![Volans](constellations/Volans.png){: width="350px" height="350px" style="float:right; padding:10px"}](https://en.wikipedia.org/wiki/Volans)
 &nbsp; **Dates**: April 22 - June 1
 
-**Description**: Scuta are known as the protectors. Despite a tough exterior, the loyalty and strength of a Scutum makes it well worth the effort to get to know one. Scuta are often warm and welcoming once you get past their external barriers. Given their stubbornness, Scuta are driven to scheme for their success, often coming up with surprising solutions to difficult problems. Scutum individuals have the most difficulty relating to Eridanus and Volans, though they get along well with Hercules and Lepus. 
-  
-**General Amphibian Characteristics**: Bumpy toads, rough skinned newts, and terrestrial caecilians.<br />
+**Description**: Some may say that Volans are full of themselves, but a Volans would simply state that they follow their own convictions. Volans can often get where others cannot, although their self-confidence can sometimes backfire with rapid -- and potentially destructive -- falls. Volans hang tight with Eridani extroverts and clash with competitive Hercules. They are strongly attracted to their opposite, Lepus, with mixed success.  
 
-**Amphibian Spiritual Guides**: [Bufonidae](https://amphibiaweb.org/lists/Bufonidae.shtml), [Megophryidae](https://amphibiaweb.org/lists/Megophryidae.shtml), [Brachycephalidae](https://amphibiaweb.org/lists/Brachycephalidae.shtml), [Alytidae](https://amphibiaweb.org/lists/Alytidae.shtml), [Salamandridae](https://amphibiaweb.org/lists/Salamandridae.shtml), [Caeciliidae](https://amphibiaweb.org/lists/Caeciliidae.shtml)
+**General Amphibian Characteristics**: Frogs that love spending their time in trees and bushes.<br />
+
+**Amphibian Spiritual Guides**: [Hylidae](https://amphibiaweb.org/lists/Hylidae.shtml), [Rhacophoridae](https://amphibiaweb.org/lists/Rhacophoridae.shtml), [Centrolenidae](https://amphibiaweb.org/lists/Centrolenidae.shtml), [Sooglossidae](https://amphibiaweb.org/lists/Sooglossidae.shtml), [Hyperoliidae](https://amphibiaweb.org/lists/Hyperoliidae.shtml), [Allophrynidae](https://amphibiaweb.org/lists/Allophrynidae.shtml)
 
 **Amphibian Archetypes**  
-[*Bufo bufo*](https://amphibiaweb.org/cgi/amphib_query?where-genus=Bufo&where-species=bufo): a common toad with bulky poison glands  
-[*Megophrys nasuta*](https://amphibiaweb.org/cgi/amphib_query?where-genus=Megophrys&where-species=nasuta): a large-bodied frog that mimics dead leaves  
-[*Taricha torosa*](https://amphibiaweb.org/cgi/amphib_query?where-genus=Taricha&where-species=torosa): toxic salamander that shows off bright orange belly in unken reflex  
-[*Caecilia thompsoni*](https://amphibiaweb.org/cgi/amphib_query?where-genus=Caecilia&where-species=thompsoni): the largest caecilian  
+[*Agalychnis callidryas*](https://amphibiaweb.org/cgi/amphib_query?where-genus=Agalychnis&where-species=callidryas): the famous red-eyed tree frog  
+[*Rhacophorus malabaricus*](https://amphibiaweb.org/cgi/amphib_query?where-genus=Rhacophorus&where-species=malabaricus): this flying frog can leap from tree to tree with its webbed hands and feet  
+[*Boana rosenbergi*](https://amphibiaweb.org/cgi/amphib_query?where-genus=Boana&where-species=rosenbergi): the gladiator tree frog, males fight with sharp spikes on their hands  
 
-**Scutum Celebrities**  
-[David Attenborough](https://en.wikipedia.org/wiki/David_Attenborough): a British film-maker and natural historian   
+**Volans Celebrities**  
+[David Attenborough](https://en.wikipedia.org/wiki/David_Attenborough): a British film-maker and natural historian  
 [Rachel Carson](https://en.wikipedia.org/wiki/Rachel_Carson): author of Silent Spring, which advanced environmentalism  
+[Ian McKellan](https://en.wikipedia.org/wiki/Ian_McKellen): English actor and Gandalf
+[Doris Mable Cochran](https://en.wikipedia.org/wiki/Doris_Mable_Cochran): American Herpetologist and custodian of American Natural Collection at the Smithsonian
 <br /><br /><br />
 
 ---
@@ -54,23 +54,24 @@ permalink: /find-your-sign/
 
 ---
 <br/>
-# &nbsp; Volans ![Volans_sign](constellations/Volans_sign.png){: width="80px" height="80px" style="float:left; padding:10px; text-align:center"}  
+# &nbsp; Scutum ![Scutum_sign](constellations/Scutum_sign.png){: width="80px" height="80px" style="float:left; padding:10px; text-align:center"}  
 
-[![Volans](constellations/Volans.png){: width="350px" height="350px" style="float:right; padding:10px"}](https://en.wikipedia.org/wiki/Volans)
-&nbsp; **Dates**: July 18 - September 1
+[![Scutum](constellations/Scutum.png){: width="350px" height="350px" style="float:right; padding:10px"}](https://en.wikipedia.org/wiki/Scutum_(constellation))
+&nbsp; **Dates**: July 18 - September 1 
 
-**Description**: Some may say that Volans are full of themselves, but a Volans would simply state that they follow their own convictions. Volans can often get where others cannot, although their self-confidence can sometimes backfire with rapid -- and potentially destructive -- falls. Volans hang tight with Eridani extroverts and clash with competitive Hercules. They are strongly attracted to their opposite, Lepus, with mixed success.  
+**Description**: Scuta are known as the protectors. They are loyal and strong; it is well worth the effort to get to know one. Scuta are often warm and welcoming once you get past their external barriers. Given their tenacity, Scuta are driven to scheme for their success, often coming up with surprising solutions to difficult problems. Scutum individuals have the most difficulty relating to Eridanus and Volans, though they get along well with Hercules and Lepus. 
+  
+**General Amphibian Characteristics**: Bumpy toads, rough skinned newts, and terrestrial caecilians.<br />
 
-**General Amphibian Characteristics**: Frogs that love spending their time in trees and bushes.<br />
-
-**Amphibian Spiritual Guides**: [Hylidae](https://amphibiaweb.org/lists/Hylidae.shtml), [Rhacophoridae](https://amphibiaweb.org/lists/Rhacophoridae.shtml), [Centrolenidae](https://amphibiaweb.org/lists/Centrolenidae.shtml), [Sooglossidae](https://amphibiaweb.org/lists/Sooglossidae.shtml), [Hyperoliidae](https://amphibiaweb.org/lists/Hyperoliidae.shtml), [Allophrynidae](https://amphibiaweb.org/lists/Allophrynidae.shtml)
+**Amphibian Spiritual Guides**: [Bufonidae](https://amphibiaweb.org/lists/Bufonidae.shtml), [Megophryidae](https://amphibiaweb.org/lists/Megophryidae.shtml), [Brachycephalidae](https://amphibiaweb.org/lists/Brachycephalidae.shtml), [Alytidae](https://amphibiaweb.org/lists/Alytidae.shtml), [Salamandridae](https://amphibiaweb.org/lists/Salamandridae.shtml), [Caeciliidae](https://amphibiaweb.org/lists/Caeciliidae.shtml)
 
 **Amphibian Archetypes**  
-[*Agalychnis callidryas*](https://amphibiaweb.org/cgi/amphib_query?where-genus=Agalychnis&where-species=callidryas): the famous red-eyed tree frog  
-[*Rhacophorus malabaricus*](https://amphibiaweb.org/cgi/amphib_query?where-genus=Rhacophorus&where-species=malabaricus): this flying frog can leap from tree to tree with its webbed hands and feet  
-[*Boana rosenbergi*](https://amphibiaweb.org/cgi/amphib_query?where-genus=Boana&where-species=rosenbergi): the gladiator tree frog, males fight with sharp spikes on their hands  
+[*Bufo bufo*](https://amphibiaweb.org/cgi/amphib_query?where-genus=Bufo&where-species=bufo): a common toad with bulky poison glands  
+[*Megophrys nasuta*](https://amphibiaweb.org/cgi/amphib_query?where-genus=Megophrys&where-species=nasuta): a large-bodied frog that mimics dead leaves  
+[*Taricha torosa*](https://amphibiaweb.org/cgi/amphib_query?where-genus=Taricha&where-species=torosa): toxic salamander that shows off bright orange belly in unken reflex  
+[*Caecilia thompsoni*](https://amphibiaweb.org/cgi/amphib_query?where-genus=Caecilia&where-species=thompsoni): the largest caecilian  
 
-**Volans Celebrities**  
+**Scutum Celebrities**  
 [Rosalind Franklin](https://en.wikipedia.org/wiki/Rosalind_Franklin): chemist who helped solve the structure of DNA  
 [Marvalee Wake](https://en.wikipedia.org/wiki/Marvalee_Wake): caecilian biologist and influential herpetologist   
 [Taika Waititi](https://en.wikipedia.org/wiki/Taika_Waititi): New Zealand film director and actor  
