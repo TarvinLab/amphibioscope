@@ -7,7 +7,7 @@ permalink: /find-your-sign/
 [![Volans](constellations/Volans.png){: width="350px" height="350px" style="float:right; padding:10px"}](https://en.wikipedia.org/wiki/Volans)
 &nbsp; **Dates**: April 22 - June 1
 
-**Description**: Volans are brave, and always striving for greater things. Some may say that Volans are full of themselves, but a Volans would simply state that they are guided by their convictions. Volans often offer justice and protection when others cannot.  Their self-confidence can sometimes backfire with those who disagree with their opinions. Volans hang tight with Eridani extroverts and clash with competitive Hercules. They are strongly attracted to their opposite, Lepus, with mixed success.  
+**Description**: Volans are brave, and always striving for greater things. Volans often offer justice and protection when others cannot. Some may say that Volans are overconfident, but a Volans would simply state that they are guided by their convictions. However, their self-confidence can sometimes backfire with those who disagree with their opinions. Volans hang tight with Eridanus extroverts and clash with competitive Hercules. They are strongly attracted to their opposite, Lepus, with mixed success.  
 
 **General Amphibian Characteristics**: Frogs that love spending their time in trees and bushes.<br />
 
@@ -16,7 +16,7 @@ permalink: /find-your-sign/
 **Amphibian Archetypes**  
 [*Agalychnis callidryas*](https://amphibiaweb.org/cgi/amphib_query?where-genus=Agalychnis&where-species=callidryas): the famous red-eyed tree frog  
 [*Rhacophorus nigropalmatus*](https://amphibiaweb.org/cgi/amphib_query?where-scientific_name=Rhacophorus+nigropalmatus): this flying frog can leap from tree to tree with its webbed hands and feet  
-[*Boana rosenbergi*](https://amphibiaweb.org/cgi/amphib_query?where-genus=Boana&where-species=rosenbergi): the gladiator tree frog, males fight with sharp spikes on their hands  
+[*Boana rosenbergi*](https://amphibiaweb.org/cgi/amphib_query?where-genus=Boana&where-species=rosenbergi): the gladiator tree frog, whose males fight with sharp spikes on their hands  
 
 **Volans Celebrities**  
 [David Attenborough](https://en.wikipedia.org/wiki/David_Attenborough): a British film-maker and natural historian  
@@ -32,7 +32,7 @@ permalink: /find-your-sign/
 [![Eridanus](constellations/Eridanus.png){: width="350px" height="350px" style="float:right; padding:10px"}](https://en.wikipedia.org/wiki/Eridanus_(constellation))
 &nbsp; **Dates**: June 2 - July 17 
 
-**Description**: Known for their out-going and extroverted nature, Eridani are bright-eyed with a strong sense of adventure. They follow the beat of their own drum, which can be their greatest strength but also make it hard for others to relate to them. Eridani love to talk and collaborate with other creative spirits. They usually hit it off with Volans, are inspired by Phoenix, appreciate the support of Coma Berenices, and clash with Hercules and Scutum.  
+**Description**: Known for their out-going and extroverted nature, Eridani are bright-eyed with a strong sense of adventure. They follow the beat of their own drum, which can be their greatest strength but also make it hard for others to relate. Eridanus loves to talk and collaborate with other creative spirits. They usually hit it off with Volans, are inspired by Phoenix, appreciate the support of Coma Berenices, and clash with Hercules and Scutum.  
 
 **General Amphibian Characteristics**: Highly aquatic frogs, salamanders, and caecilians.<br />
 
@@ -60,7 +60,7 @@ permalink: /find-your-sign/
 [![Scutum](constellations/Scutum.png){: width="350px" height="350px" style="float:right; padding:10px"}](https://en.wikipedia.org/wiki/Scutum_(constellation))
 &nbsp; **Dates**: July 18 - September 1 
 
-**Description**: Scuta are known as the protectors. They are loyal and strong; it is well worth the effort to get to know one. Scuta are often warm and welcoming once you get past their external barriers. Given their tenacity, Scuta are driven to scheme for their success, often coming up with surprising solutions to difficult problems. Scutum individuals have the most difficulty relating to Eridanus and Volans, though they get along well with Hercules and Lepus. 
+**Description**: Scuta are known as the protectors. They are loyal and strong; it is well worth the effort to get to know one. Scuta are often warm and welcoming once you get past their external barriers. Given their tenacity, Scuta are driven to scheme for success, often coming up with surprising solutions to difficult problems. Scutum individuals have the most difficulty relating to Eridanus and Volans, though they get along well with Hercules and Lepus. 
   
 **General Amphibian Characteristics**: Bumpy toads, rough skinned newts, and terrestrial caecilians.<br />
 
@@ -73,7 +73,7 @@ permalink: /find-your-sign/
 [*Caecilia thompsoni*](https://amphibiaweb.org/cgi/amphib_query?where-genus=Caecilia&where-species=thompsoni): the largest caecilian  
 
 **Scutum Celebrities**  
-[Rosalind Franklin](https://en.wikipedia.org/wiki/Rosalind_Franklin): chemist who helped solve the structure of DNA  
+[Rosalind Franklin](https://en.wikipedia.org/wiki/Rosalind_Franklin): chemist whose work solved the structure of DNA  
 [Marvalee Wake](https://en.wikipedia.org/wiki/Marvalee_Wake): caecilian biologist and influential herpetologist   
 [Taika Waititi](https://en.wikipedia.org/wiki/Taika_Waititi): New Zealand film director and actor  
 [Henrietta Lacks](https://en.wikipedia.org/wiki/Henrietta_Lacks): African-American woman whose cells became the first immortal cell line, HeLa    
@@ -88,7 +88,7 @@ permalink: /find-your-sign/
 &nbsp; **Dates**: September 2 - October 17
 [![Hercules](constellations/Hercules.png){: width="350px" height="350px" style="float:right; padding:10px"}](https://en.wikipedia.org/wiki/Hercules_(constellation))
 
-**Description**: Hercules are powerful, deliberate, and competent. They put a lot of effort into achieving their personal and collective goals, and are thus often admired by those surrounding them. Hercules love to fight for just causes and they are always on the side of the downtrodden.  Their great sense of humor and competitive spirit make Hercules fun and entertaining when relaxed. Hercules easily bond with other competitive spirits like Scutum. They should be careful not to be too overbearing when in relationships with Circinus and Eriadanus. Volans, Phoenix, and Scutum -- on the other hand -- find their strength of will invigorating.  
+**Description**: Hercules are powerful, deliberate, and competent. They put a lot of effort into achieving their personal and collective goals, and are thus often admired by those surrounding them. Hercules love to fight for just causes and they are always on the side of the downtrodden. A great sense of humor and competitive spirit make Hercules fun and entertaining when relaxed. Hercules easily bond with other competitive spirits like Scutum. They should be careful not to be too overbearing when in relationships with Circinus and Eriadanus. Volans, Phoenix, and Scutum -- on the other hand -- find the strength of will in Hercules invigorating.  
 
 **General Amphibian Characteristics**: Giant salamanders, buff frogs, and brightly colored small frogs that pack a toxic punch.<br />
 
@@ -115,7 +115,7 @@ permalink: /find-your-sign/
 &nbsp; **Dates**: October 18 - December 2  
 [![Phoenix](constellations/Phoenix.png){: width="350px" height="350px" style="float:right; padding:10px"}](https://en.wikipedia.org/wiki/Phoenix_(constellation))
 
-**Description**: Phoenix are born ready to follow their dreams. They are perceived as mature and serious, but Phoenix can be tender and vulnerable when feeling comfortable. They had to grow up quickly, which is why it is sometimes difficult for them to unwind. Nevertheless, their curiosity drives them to keep learning and they are willing to change. Phoenix happily get along with those who don’t get in their way, like Eridanus or Scutum (when these tenacious individuals are on a separate path).  
+**Description**: Phoenix are born ready to follow their dreams. They are often perceived as mature and serious, but Phoenix can be tender and vulnerable when feeling comfortable. They had to grow up quickly, which is why it is sometimes difficult for them to unwind. Nevertheless, their curiosity drives them to keep learning and they are willing to change. Phoenix happily get along with those who don’t get in their way, like Eridanus or Scutum (when these tenacious individuals are on a separate path).  
 
 **General Amphibian Characteristics**: Frogs and salamanders that are direct developers, meaning that they don’t have tadpole or larval stages and look like tiny adults when they hatch.<br />
 
@@ -129,10 +129,10 @@ permalink: /find-your-sign/
 **Pheonix Celebrities**  
 [Bill Nye](https://en.wikipedia.org/wiki/Bill_Nye): "the science guy"  
 [Chadwick Boseman](https://en.wikipedia.org/wiki/Chadwick_Boseman): African-American actor  
-[Janaki Ammal](https://en.wikipedia.org/wiki/Janaki_Ammal): Indian botanist  
-[Lise Meitner](https://en.wikipedia.org/wiki/Lise_Meitner): Austrian-Swedish physicist for whom the element meitnerium is named.  
-[Rafael Pombo](https://en.wikipedia.org/wiki/Rafael_Pombo) 19st century colombian poet, children book literature writer, mathematician and engineer.  
-[Marie Curie](https://en.wikipedia.org/wiki/Marie_Curie): Polish and naturalized French physicts and chemist  
+[Janaki Ammal](https://en.wikipedia.org/wiki/Janaki_Ammal): the first Indian woman to get a PhD in botany in the US  
+[Lise Meitner](https://en.wikipedia.org/wiki/Lise_Meitner): Austrian-Swedish physicist for whom the element meitnerium is named  
+[Rafael Pombo](https://en.wikipedia.org/wiki/Rafael_Pombo) 19st century colombian poet, children book literature writer, mathematician and engineer  
+[Marie Curie](https://en.wikipedia.org/wiki/Marie_Curie): Polish and naturalized French physicist and chemist  
 <br /><br /><br />
 
 ---
@@ -142,7 +142,7 @@ permalink: /find-your-sign/
 &nbsp; **Dates**: December 3 - January 17 
 [![Lepus](constellations/Lepus.png){: width="350px" height="350px" style="float:right; padding:10px"}](https://en.wikipedia.org/wiki/Lepus_(constellation))
 
-**Description**: Lepus are “grounded,” and they operate beneath the surface of the mainstream. They are innovative, finding unconventional ways to achieve their goals. Lepus are generally quiet but can be loud when speaking their mind. They do not like the limelight and judge others on their character rather than their appearance. Lepus do not mind getting dirty but shy away from confrontation. Lepus like spending quiet time with other people, and thus get along well with Coma Berenices. They like having Hercules around to help them fight their battles, and they find their opposite Volans, whom they get along with some of the time, fascinating.    
+**Description**: Lepus are “grounded” and operate beneath the surface of the mainstream. They are innovative, finding unconventional ways to achieve their goals. Lepus are generally quiet but can be loud when speaking their mind. They do not like the limelight and prefer to judge others on their character rather than their appearance. Lepus do not mind getting dirty but shy away from confrontation. Lepus like spending quiet time with other people, and thus get along well with Coma Berenices. They like having Hercules around to help them fight their battles, and they find their opposite Volans, whom they get along with some of the time, fascinating.    
 
 **General Amphibian Characteristics**: Caecilians and globose frogs that spend most of their time underground.<br />
 
@@ -158,7 +158,7 @@ permalink: /find-your-sign/
 [*Breviceps macrops*](https://amphibiaweb.org/cgi/amphib_query?where-genus=Breviceps&where-species=macrops): the desert rain frog has a famous squeaky-toy-like call  
 
 **Lepus Celebrities**  
-[Alfred Russel Wallace](https://en.wikipedia.org/wiki/Alfred_Russel_Wallace): father of biogeography and the theory of evolution by natural selection (alongside Charles Darwin).   
+[Alfred Russel Wallace](https://en.wikipedia.org/wiki/Alfred_Russel_Wallace): father of biogeography and the theory of evolution by natural selection (alongside Charles Darwin)   
 [Judi Dench](https://en.wikipedia.org/wiki/Judi_Dench): English actress    
 [Annie Alexander](https://en.wikipedia.org/wiki/Annie_Montague_Alexander): founder of the Museum of Vertebrate Zoology at the University of California Berkeley  
 [Misael Acosta Solis](https://en.wikipedia.org/wiki/Misael_Acosta_Sol%C3%ADs): Ecuadorian naturalist and botanist  
@@ -187,7 +187,7 @@ permalink: /find-your-sign/
 [Steve Irwin](https://en.wikipedia.org/wiki/Steve_Irwin): the "crocodile hunter"  
 [Charles Darwin](https://en.wikipedia.org/wiki/Judi_Dench): English naturalist whose book On the Origin of Species describes the theory of evolution by natural selection.  
 [Jennifer Doudna](https://en.wikipedia.org/wiki/Jennifer_Doudna): American biochemist famous for developing CRISPR technologies   
-[Alice Eastwood](https://en.wikipedia.org/wiki/Alice_Eastwood): Canadian-American botanist; 17 species are named for her  
+[Alice Eastwood](https://en.wikipedia.org/wiki/Alice_Eastwood): Canadian-American botanist for whom 17 species are named   
 <br /><br /><br />
 
 ---
@@ -197,7 +197,7 @@ permalink: /find-your-sign/
 [![ComaBerenices](constellations/ComaBerenices.png){: width="350px" height="350px" style="float:right; padding:10px"}](https://en.wikipedia.org/wiki/Coma_Berenices)
 &nbsp; **Dates**: March 5 - April 21
 
-**Description**: Coma Berenices truly understand the interconnectedness of life, and they care deeply for the people they are connected to. They will take drastic action for people they love. Coma Berenices are loyal and attentive to their loved ones, yet they can be oblivious to the concerns of individuals outside their inner circles. They speak up for what they believe in but do not always know how to do it tactfully. Coma Berenices are happy to guide individuals like Circinus or boost the ambitions of Phoenix, but they clash with flighty Volans and non-conforming Eridani.    
+**Description**: Coma Berenices truly understand the interconnectedness of life, and they care deeply for the people they are connected to. They will take drastic action for people they love. Coma Berenices are loyal and attentive to their loved ones, yet they can be oblivious to the concerns of individuals outside their inner circles. They speak up for what they believe in but do not always know how to do it tactfully. Coma Berenices are happy to guide individuals like Circinus or boost the ambitions of Phoenix, but they clash with flighty Volans and non-conforming Eridanus.    
 
 **General Amphibian Characteristics**: Frogs that live among the fallen leaves on the forest floor. Some are very loud squeakers!<br />
 
