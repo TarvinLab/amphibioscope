@@ -23,8 +23,7 @@ permalink: /find-your-sign/
 [Rachel Carson](https://en.wikipedia.org/wiki/Rachel_Carson): author of Silent Spring, which advanced environmentalism  
 [Ian McKellan](https://en.wikipedia.org/wiki/Ian_McKellen): English actor and Gandalf  
 [Doris Mable Cochran](https://en.wikipedia.org/wiki/Doris_Mable_Cochran): American Herpetologist and custodian of American Natural Collection at the Smithsonian  
-
-![Volans](constellations/volans_drawing.png){: height="60%" width="60%"}
+![Volans](constellations/volans_drawing.png)
 <br /><br /><br />
 
 ---
