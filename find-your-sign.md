@@ -2,7 +2,7 @@
 title: Find Your Sign
 permalink: /find-your-sign/
 ---
-# &nbsp; Volans ![Volans_sign](constellations/Volans_sign.png){: width="80px" height="80px" style="float:left; padding:10px; text-align:center"}  ![Volans](constellations/volans_drawing.png){: height="50%" width="50%" style="float:right; padding:10px"}
+# &nbsp; Volans ![Volans_sign](constellations/Volans_sign.png){: width="80px" height="80px" style="float:left; padding:10px; text-align:center"}  ![Volans](constellations/volans_drawing.png){: height="60%" width="60%" style="float:right; padding:10px"}
 &nbsp; **Dates**: April 22 - June 1    
 
 [![Volans](constellations/Volans.png){: width="350px" height="350px" style="float:right; padding:10px"}](https://en.wikipedia.org/wiki/Volans)  
