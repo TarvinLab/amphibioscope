@@ -5,7 +5,7 @@ permalink: /find-your-sign/
 # &nbsp; Volans ![Volans_sign](constellations/Volans_sign.png){: width="80px" height="80px" style="float:left; padding:10px; text-align:center"}  
 &nbsp; **Dates**: April 22 - June 1  
 
-![Volans](constellations/volans_drawing.png){: height="50%" width="50%" style="float:left"}[![Volans](constellations/Volans.png){: width="350px" height="350px" style="float:right; padding:10px"}](https://en.wikipedia.org/wiki/Volans)
+![Volans](constellations/volans_drawing.png){: height="50%" width="50%" style="float:left; padding:10px"}[![Volans](constellations/Volans.png){: width="350px" height="350px" style="float:right; padding:10px"}](https://en.wikipedia.org/wiki/Volans)  
 
 **Description**: Volans are brave, and always striving for greater things. Volans often offer justice and protection when others cannot. Some may say that Volans are overconfident, but a Volans would simply state that they are guided by their convictions. However, their self-confidence can sometimes backfire with those who disagree with their opinions. Volans hang tight with Eridanus extroverts and clash with competitive Hercules. They are strongly attracted to their opposite, Lepus, with mixed success.  
 
