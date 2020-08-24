@@ -20,8 +20,10 @@ permalink: /find-your-sign/
 
 **Volans Celebrities**  
 [David Attenborough](https://en.wikipedia.org/wiki/David_Attenborough): a British film-maker and natural historian  
-[Rachel Carson](https://en.wikipedia.org/wiki/Rachel_Carson): author of Silent Spring, which advanced environmentalism  
-[Doris Mable Cochran](https://en.wikipedia.org/wiki/Doris_Mable_Cochran): American Herpetologist and custodian of American Natural Collection at the Smithsonian  
+[Rachel Carson](https://en.wikipedia.org/wiki/Rachel_Carson): author of *Silent Spring*, which advanced environmentalism  
+[Doris Mable Cochran](https://en.wikipedia.org/wiki/Doris_Mable_Cochran): American herpetologist and custodian of American Natural Collection at the Smithsonian  
+[Gloria Galeano Garcés](https://es.wikipedia.org/wiki/Gloria_Galeano_Garc%C3%A9s): Colombian botanist and agronomist. Her work was principally on neotropical palms   
+[Xiuhtezcatl Martinez](https://en.wikipedia.org/wiki/Xiuhtezcatl_Martinez): Environmental activist and hip hop artist   
 ![Volans](constellations/volans_drawing.png)
 <br /><br /><br />
 
@@ -49,7 +51,7 @@ permalink: /find-your-sign/
 [David Wake](https://en.wikipedia.org/wiki/David_B._Wake): salamander biologist and founder of AmphibiaWeb  
 [John William Daly](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4493916/): biochemist who helped make poison frogs famous  
 [Helen Rodríguez Trías](https://en.wikipedia.org/wiki/Helen_Rodr%C3%ADguez_Tr%C3%ADas): doctor, educator, and women's rights activist  
-[Brian May](https://en.wikipedia.org/wiki/Brian_May): Astrophysicist and lead guitarist of the rock band, Queen  
+[Susan La Flesche Picotte](https://en.wikipedia.org/wiki/Susan_La_Flesche_Picotte): social reformer and first Indigenous person in the U.S. to earn a medical degree   
 [James L. Patton](https://en.wikipedia.org/wiki/James_L._Patton): American evolutionary biologist and mammologist  
 <br /><br /><br />
 
@@ -76,7 +78,7 @@ permalink: /find-your-sign/
 [Rosalind Franklin](https://en.wikipedia.org/wiki/Rosalind_Franklin): chemist whose work solved the structure of DNA  
 [Marvalee Wake](https://en.wikipedia.org/wiki/Marvalee_Wake): caecilian biologist and influential herpetologist   
 [Henrietta Lacks](https://en.wikipedia.org/wiki/Henrietta_Lacks): African-American woman whose cells became the first immortal cell line, HeLa    
-[Katherine Johnson](https://en.wikipedia.org/wiki/Katherine_Johnson): NASA research mathematician  
+[Mary G. Ross](https://en.wikipedia.org/wiki/Mary_G._Ross): Cherokee engineer and first known Indigenous female engineer in the U.S   
 [Lydia Villa-Komaroff](https://en.wikipedia.org/wiki/Lydia_Villa-Komaroff): co-founder of Society for the Advancement of Chicanos/Hispanics and Native Americans in Science (SACNAS)
 <br /><br /><br />
 
@@ -126,7 +128,7 @@ permalink: /find-your-sign/
 [*Cornufer guentheri*](https://amphibiaweb.org/cgi/amphib_query?where-genus=Cornufer&where-species=guentheri): leaf frog that blends in with the forest floor  
 
 **Pheonix Celebrities**  
-[Bill Nye](https://en.wikipedia.org/wiki/Bill_Nye): "the science guy"  
+[Ursula K. Le Guin](https://es.wikipedia.org/wiki/Ursula_K._Le_Guin) Science fiction writer and feminist activist   
 [Janaki Ammal](https://en.wikipedia.org/wiki/Janaki_Ammal): the first Indian woman to get a PhD in botany in the US  
 [Lise Meitner](https://en.wikipedia.org/wiki/Lise_Meitner): Austrian-Swedish physicist for whom the element meitnerium is named  
 [Rafael Pombo](https://en.wikipedia.org/wiki/Rafael_Pombo) 19st century Colombian poet, childrens literature writer, mathematician and engineer  
@@ -182,7 +184,7 @@ permalink: /find-your-sign/
 [*Leptodactylus fallax*](https://amphibiaweb.org/cgi/amphib_query?where-genus=Leptodactylus&where-species=fallax): the mountain chicken is a large frog known to taste like the poultry for which it is named  
 
 **Circinus Celebrities**  
-[Steve Irwin](https://en.wikipedia.org/wiki/Steve_Irwin): the "crocodile hunter"  
+[Berta Cáceres](https://en.wikipedia.org/wiki/Berta_C%C3%A1ceres): Environmental activist and indigenous leader.
 [Charles Darwin](https://en.wikipedia.org/wiki/Judi_Dench): English naturalist whose book On the Origin of Species describes the theory of evolution by natural selection.  
 [Jennifer Doudna](https://en.wikipedia.org/wiki/Jennifer_Doudna): American biochemist famous for developing CRISPR technologies   
 [Alice Eastwood](https://en.wikipedia.org/wiki/Alice_Eastwood): Canadian-American botanist for whom 17 species are named   
@@ -213,5 +215,8 @@ permalink: /find-your-sign/
 [Robert Downey Jr.](https://en.wikipedia.org/wiki/Robert_Downey_Jr.): American actor best known for his role as Iron Man in Marvel films  
 [Albert Einstein](https://en.wikipedia.org/wiki/Albert_Einstein): German theoretical physicist  
 [Linus C. Pauling](https://en.wikipedia.org/wiki/Linus_Pauling): American chemist and biochemist. He was awarded a Nobel Peace Prize and also a Nobel Prize in Chemistry   
+<br /><br /><br />
 
+---
+**Disclaimer:** The information included in the celebrity biography is publicly available information (birthday, profession and name). This horoscope sign’s description is not based on the personalities or personal history of the “celebrities” named. If you have been named in this section and you feel uncomfortable about being included, please reach out to Rebecca Tarvin at rdtarvin [at] gmail . com to be removed from the list. This project is a non-commercial activity for entertainment and science outreach purposes.
 
