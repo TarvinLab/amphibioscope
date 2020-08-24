@@ -184,7 +184,7 @@ permalink: /find-your-sign/
 [*Leptodactylus fallax*](https://amphibiaweb.org/cgi/amphib_query?where-genus=Leptodactylus&where-species=fallax): the mountain chicken is a large frog known to taste like the poultry for which it is named  
 
 **Circinus Celebrities**  
-[Berta Cáceres](https://en.wikipedia.org/wiki/Berta_C%C3%A1ceres): Environmental activist and indigenous leader.
+[Berta Cáceres](https://en.wikipedia.org/wiki/Berta_C%C3%A1ceres): Environmental activist and indigenous leader.   
 [Charles Darwin](https://en.wikipedia.org/wiki/Judi_Dench): English naturalist whose book On the Origin of Species describes the theory of evolution by natural selection.  
 [Jennifer Doudna](https://en.wikipedia.org/wiki/Jennifer_Doudna): American biochemist famous for developing CRISPR technologies   
 [Alice Eastwood](https://en.wikipedia.org/wiki/Alice_Eastwood): Canadian-American botanist for whom 17 species are named   
