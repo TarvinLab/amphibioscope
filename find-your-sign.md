@@ -21,7 +21,6 @@ permalink: /find-your-sign/
 **Volans Celebrities**  
 [David Attenborough](https://en.wikipedia.org/wiki/David_Attenborough): a British film-maker and natural historian  
 [Rachel Carson](https://en.wikipedia.org/wiki/Rachel_Carson): author of Silent Spring, which advanced environmentalism  
-[Ian McKellan](https://en.wikipedia.org/wiki/Ian_McKellen): English actor and Gandalf  
 [Doris Mable Cochran](https://en.wikipedia.org/wiki/Doris_Mable_Cochran): American Herpetologist and custodian of American Natural Collection at the Smithsonian  
 ![Volans](constellations/volans_drawing.png)
 <br /><br /><br />
@@ -50,7 +49,7 @@ permalink: /find-your-sign/
 [David Wake](https://en.wikipedia.org/wiki/David_B._Wake): salamander biologist and founder of AmphibiaWeb  
 [John William Daly](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4493916/): biochemist who helped make poison frogs famous  
 [Helen Rodríguez Trías](https://en.wikipedia.org/wiki/Helen_Rodr%C3%ADguez_Tr%C3%ADas): doctor, educator, and women's rights activist  
-[Meryl Streep](https://en.wikipedia.org/wiki/Meryl_Streep): American actress  
+[Brian May](https://en.wikipedia.org/wiki/Brian_May): Astrophysicist and lead guitarist of the rock band, Queen  
 [James L. Patton](https://en.wikipedia.org/wiki/James_L._Patton): American evolutionary biologist and mammologist  
 <br /><br /><br />
 
@@ -76,7 +75,6 @@ permalink: /find-your-sign/
 **Scutum Celebrities**  
 [Rosalind Franklin](https://en.wikipedia.org/wiki/Rosalind_Franklin): chemist whose work solved the structure of DNA  
 [Marvalee Wake](https://en.wikipedia.org/wiki/Marvalee_Wake): caecilian biologist and influential herpetologist   
-[Taika Waititi](https://en.wikipedia.org/wiki/Taika_Waititi): New Zealand film director and actor  
 [Henrietta Lacks](https://en.wikipedia.org/wiki/Henrietta_Lacks): African-American woman whose cells became the first immortal cell line, HeLa    
 [Katherine Johnson](https://en.wikipedia.org/wiki/Katherine_Johnson): NASA research mathematician  
 [Lydia Villa-Komaroff](https://en.wikipedia.org/wiki/Lydia_Villa-Komaroff): co-founder of Society for the Advancement of Chicanos/Hispanics and Native Americans in Science (SACNAS)
@@ -129,10 +127,9 @@ permalink: /find-your-sign/
 
 **Pheonix Celebrities**  
 [Bill Nye](https://en.wikipedia.org/wiki/Bill_Nye): "the science guy"  
-[Chadwick Boseman](https://en.wikipedia.org/wiki/Chadwick_Boseman): African-American actor  
 [Janaki Ammal](https://en.wikipedia.org/wiki/Janaki_Ammal): the first Indian woman to get a PhD in botany in the US  
 [Lise Meitner](https://en.wikipedia.org/wiki/Lise_Meitner): Austrian-Swedish physicist for whom the element meitnerium is named  
-[Rafael Pombo](https://en.wikipedia.org/wiki/Rafael_Pombo) 19st century colombian poet, children book literature writer, mathematician and engineer  
+[Rafael Pombo](https://en.wikipedia.org/wiki/Rafael_Pombo) 19st century Colombian poet, childrens literature writer, mathematician and engineer  
 [Marie Curie](https://en.wikipedia.org/wiki/Marie_Curie): Polish and naturalized French physicist and chemist  
 <br /><br /><br />
 
@@ -160,9 +157,10 @@ permalink: /find-your-sign/
 
 **Lepus Celebrities**  
 [Alfred Russel Wallace](https://en.wikipedia.org/wiki/Alfred_Russel_Wallace): father of biogeography and the theory of evolution by natural selection (alongside Charles Darwin)   
-[Judi Dench](https://en.wikipedia.org/wiki/Judi_Dench): English actress    
 [Annie Alexander](https://en.wikipedia.org/wiki/Annie_Montague_Alexander): founder of the Museum of Vertebrate Zoology at the University of California Berkeley  
 [Misael Acosta Solis](https://en.wikipedia.org/wiki/Misael_Acosta_Sol%C3%ADs): Ecuadorian naturalist and botanist  
+[Annie Jump Cannon](https://en.wikipedia.org/wiki/Annie_Jump_Cannon): American astronomer whose work contributed to the creation of the contemporary Stellar Classification  
+[Isaac Newton](https://en.wikipedia.org/wiki/Isaac_Newton): English mathematician, physicist, astronomer recognised as one of the most influential scientists of all time   
 <br /><br /><br />
 
 ---
@@ -184,11 +182,11 @@ permalink: /find-your-sign/
 [*Leptodactylus fallax*](https://amphibiaweb.org/cgi/amphib_query?where-genus=Leptodactylus&where-species=fallax): the mountain chicken is a large frog known to taste like the poultry for which it is named  
 
 **Circinus Celebrities**  
-[Lupita Nyong'o](https://en.wikipedia.org/wiki/Lupita_Nyong%27o): Kenyan-Mexican actress and author  
 [Steve Irwin](https://en.wikipedia.org/wiki/Steve_Irwin): the "crocodile hunter"  
 [Charles Darwin](https://en.wikipedia.org/wiki/Judi_Dench): English naturalist whose book On the Origin of Species describes the theory of evolution by natural selection.  
 [Jennifer Doudna](https://en.wikipedia.org/wiki/Jennifer_Doudna): American biochemist famous for developing CRISPR technologies   
 [Alice Eastwood](https://en.wikipedia.org/wiki/Alice_Eastwood): Canadian-American botanist for whom 17 species are named   
+[Linda B. Buck](https://en.wikipedia.org/wiki/Linda_B._Buck): American biologist and Nobel Prize for her work on olfactory receptors   
 <br /><br /><br />
 
 ---
@@ -214,5 +212,6 @@ permalink: /find-your-sign/
 [Lynn Margulis](https://en.wikipedia.org/wiki/Lynn_Margulis): American evolutionary theorist who proposed that symbiosis led to the origin of cell organelles  
 [Robert Downey Jr.](https://en.wikipedia.org/wiki/Robert_Downey_Jr.): American actor best known for his role as Iron Man in Marvel films  
 [Albert Einstein](https://en.wikipedia.org/wiki/Albert_Einstein): German theoretical physicist  
-[Johann Sebastian Bach](https://en.wikipedia.org/wiki/Johann_Sebastian_Bach): German composer and musician  
+[Linus C. Pauling](https://en.wikipedia.org/wiki/Linus_Pauling): American chemist and biochemist. He was awarded a Nobel Peace Prize and also a Nobel Prize in Chemistry   
+
 
