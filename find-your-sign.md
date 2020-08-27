@@ -65,7 +65,7 @@ March 5 - April 21: [Coma Berenices](#comaberenices)
 [Helen Rodríguez Trías](https://en.wikipedia.org/wiki/Helen_Rodr%C3%ADguez_Tr%C3%ADas): doctor, educator, and women's rights activist  
 [Susan La Flesche Picotte](https://en.wikipedia.org/wiki/Susan_La_Flesche_Picotte): social reformer and first Indigenous person in the U.S. to earn a medical degree   
 [James L. Patton](https://en.wikipedia.org/wiki/James_L._Patton): American evolutionary biologist and mammologist  
-![Eridanus](constellations/eridanus_drawing.png){: height="300px" margin-left: auto; margin-right: auto}
+![Eridanus](constellations/eridanus_drawing.png){: height="300px" margin-left="auto" margin-right="auto"}
 <br /><br /><br />
 
 ---
@@ -93,7 +93,7 @@ March 5 - April 21: [Coma Berenices](#comaberenices)
 [Henrietta Lacks](https://en.wikipedia.org/wiki/Henrietta_Lacks): African-American woman whose cells became the first immortal cell line, HeLa    
 [Mary G. Ross](https://en.wikipedia.org/wiki/Mary_G._Ross): Cherokee engineer and first known Indigenous female engineer in the U.S   
 [Lydia Villa-Komaroff](https://en.wikipedia.org/wiki/Lydia_Villa-Komaroff): co-founder of Society for the Advancement of Chicanos/Hispanics and Native Americans in Science (SACNAS)
-![Scutum](constellations/scutum_drawing.png){: height="300px" style="centerme"}
+![Scutum](constellations/scutum_drawing.png){: height="300px" margin-left="auto" margin-right="auto"}
 <br /><br /><br />
 
 ---
