@@ -44,10 +44,10 @@ permalink: /find-your-sign/
 
 ---
 <br/>
+# Eridanus
 <p align="center"> 
 <img height="300px" src="https://tarvinlab.github.io/amphibioscope/constellations/eridanus_drawing.png">
 </p>
-# Eridanus
 ![Eridanus_sign](constellations/Eridanus_sign.png){: width="80px" height="80px" style="float:left; padding:10px; text-align:center"}  
 
 [![Eridanus](constellations/Eridanus.png){: width="350px" height="350px" style="float:right; padding:10px"}](https://en.wikipedia.org/wiki/Eridanus_(constellation))
