@@ -116,8 +116,8 @@ permalink: /find-your-sign/
 # Hercules
 ![Hercules_sign](constellations/Hercules_sign.png){: width="80px" height="80px" style="float:left; padding:10px; text-align:center"}  
 
-[![Hercules](constellations/Hercules.png){: width="350px" height="350px" style="float:right; padding:10px"}](https://en.wikipedia.org/wiki/Hercules_(constellation))
 **Dates**: September 2 - October 17
+[![Hercules](constellations/Hercules.png){: width="350px" height="350px" style="float:right; padding:10px"}](https://en.wikipedia.org/wiki/Hercules_(constellation))
 
 **Description**: Hercules are powerful, deliberate, and competent. They put a lot of effort into achieving their personal and collective goals, and are thus often admired by those surrounding them. Hercules love to fight for just causes and they are always on the side of the downtrodden. A great sense of humor and competitive spirit make Hercules fun and entertaining when relaxed. Hercules easily bond with other competitive spirits like Scutum. They should be careful not to be too overbearing when in relationships with Circinus and Eriadanus. Volans, Phoenix, and Scutum -- on the other hand -- find the strength of will in Hercules invigorating.  
 
