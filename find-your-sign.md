@@ -3,7 +3,7 @@ title: Find Your Sign
 permalink: /find-your-sign/
 ---
 
-April 22 - June 1: [Volans](#-volans--)  
+April 22 - June 1: [Volans](#-volans)  
 June 2 - July 17: [Eridanus](#-eridanus)  
 July 18 - September 1: [Scutum](#scutum)  
 September 2 - October 17: [Hercules](#hercules)  
@@ -14,7 +14,7 @@ March 5 - April 21: [Coma Berenices](#comaberenices)
 
 ---
 
-# Volans  
+# Volans
 ![Volans_sign](constellations/Volans_sign.png){: width="80px" height="80px" style="float:right"}
 
 [![Volans](constellations/Volans.png){: width="350px" height="350px" style="float:right; padding:10px"}](https://en.wikipedia.org/wiki/Volans) 
