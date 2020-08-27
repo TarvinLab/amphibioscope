@@ -15,10 +15,10 @@ March 5 - April 21: [Coma Berenices](#comaberenices)
 ---
 
 # Volans  
-**Dates**: April 22 - June 1  
-![Volans_sign](constellations/Volans_sign.png){: width="80px" height="80px" style="padding:10px; text-align:center"}
+![Volans_sign](constellations/Volans_sign.png){: width="80px" height="80px" style="float:right"}
 
-[![Volans](constellations/Volans.png){: width="350px" height="350px" style="float:right; padding:10px"}](https://en.wikipedia.org/wiki/Volans)   
+[![Volans](constellations/Volans.png){: width="350px" height="350px" style="float:right; padding:10px"}](https://en.wikipedia.org/wiki/Volans) 
+**Dates**: April 22 - June 1    
 
 **Description**: Volans are brave, and always striving for greater things. Volans often offer justice and protection when others cannot. Some may say that Volans are overconfident, but a Volans would simply state that they are guided by their convictions. However, their self-confidence can sometimes backfire with those who disagree with their opinions. Volans hang tight with Eridanus extroverts and clash with competitive Hercules. They are strongly attracted to their opposite, Lepus, with mixed success.  
 
@@ -46,7 +46,7 @@ March 5 - April 21: [Coma Berenices](#comaberenices)
 ![Eridanus_sign](constellations/Eridanus_sign.png){: width="80px" height="80px" style="float:left; padding:10px; text-align:center"}  
 
 [![Eridanus](constellations/Eridanus.png){: width="350px" height="350px" style="float:right; padding:10px"}](https://en.wikipedia.org/wiki/Eridanus_(constellation))
-&nbsp; **Dates**: June 2 - July 17 
+**Dates**: June 2 - July 17 
 
 **Description**: Known for their out-going and extroverted nature, Eridani are bright-eyed with a strong sense of adventure. They follow the beat of their own drum, which can be their greatest strength but also make it hard for others to relate. Eridanus loves to talk and collaborate with other creative spirits. They usually hit it off with Volans, are inspired by Phoenix, appreciate the support of Coma Berenices, and clash with Hercules and Scutum.  
 
