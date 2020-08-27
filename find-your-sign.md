@@ -36,12 +36,12 @@ March 5 - April 21: [Coma Berenices](#comaberenices)
 [Doris Mable Cochran](https://en.wikipedia.org/wiki/Doris_Mable_Cochran): American herpetologist and custodian of American Natural Collection at the Smithsonian  
 [Gloria Galeano Garcés](https://es.wikipedia.org/wiki/Gloria_Galeano_Garc%C3%A9s): Colombian botanist and agronomist. Her work was principally on neotropical palms   
 [Xiuhtezcatl Martinez](https://en.wikipedia.org/wiki/Xiuhtezcatl_Martinez): Environmental activist and hip hop artist   
-![Volans](constellations/volans_drawing.png){: height="300px" style="centerme"}
+![Volans](constellations/volans_drawing.png){: height="300px" margin-left: auto; margin-right: auto}
 <br /><br /><br />
 
 ---
 <br/>
-# &nbsp; Eridanus ![Eridanus_sign](constellations/Eridanus_sign.png){: width="80px" height="80px" style="float:left; padding:10px; text-align:center"}{#eridanus}  
+# &nbsp; Eridanus ![Eridanus_sign](constellations/Eridanus_sign.png){: width="80px" height="80px" style="float:left; padding:10px; text-align:center"}  
 
 [![Eridanus](constellations/Eridanus.png){: width="350px" height="350px" style="float:right; padding:10px"}](https://en.wikipedia.org/wiki/Eridanus_(constellation))
 &nbsp; **Dates**: June 2 - July 17 
@@ -65,7 +65,7 @@ March 5 - April 21: [Coma Berenices](#comaberenices)
 [Helen Rodríguez Trías](https://en.wikipedia.org/wiki/Helen_Rodr%C3%ADguez_Tr%C3%ADas): doctor, educator, and women's rights activist  
 [Susan La Flesche Picotte](https://en.wikipedia.org/wiki/Susan_La_Flesche_Picotte): social reformer and first Indigenous person in the U.S. to earn a medical degree   
 [James L. Patton](https://en.wikipedia.org/wiki/James_L._Patton): American evolutionary biologist and mammologist  
-![Eridanus](constellations/eridanus_drawing.png){: height="300px" style="centerme"}
+![Eridanus](constellations/eridanus_drawing.png){: height="300px" margin-left: auto; margin-right: auto}
 <br /><br /><br />
 
 ---
