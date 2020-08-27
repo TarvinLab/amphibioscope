@@ -2,15 +2,17 @@
 title: Find Your Sign
 permalink: /find-your-sign/
 ---
-[April 22 - June 1: Volans](#--nbsp-volans)  
-[June 2 - July 17: Eridanus](#eridanus)  
-[July 18 - September 1: Scutum](#scutum)  
-[September 2 - October 17: Hercules](#hercules)  
-[October 18 - December 2: Phoenix](#phoenix)  
-[December 3 - January 17: Lepus](#lepus)  
-[January 18 - March 4: Circinus](#circinus)  
-[March 5 - April 21: Coma Berenices](#comaberenices)  
 
+April 22 - June 1: [Volans](#--nbsp-volans)  
+June 2 - July 17: [Eridanus](#eridanus)  
+July 18 - September 1: [Scutum](#scutum)  
+September 2 - October 17: [Hercules](#hercules)  
+October 18 - December 2: [Phoenix](#phoenix)  
+December 3 - January 17: [Lepus](#lepus)  
+January 18 - March 4: [Circinus](#circinus)  
+March 5 - April 21: [Coma Berenices](#comaberenices)  
+
+---
 
 # &nbsp; Volans ![Volans_sign](constellations/Volans_sign.png){: width="80px" height="80px" style="float:left; padding:10px; text-align:center"}
 
