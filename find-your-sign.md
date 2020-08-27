@@ -34,7 +34,7 @@ permalink: /find-your-sign/
 [Doris Mable Cochran](https://en.wikipedia.org/wiki/Doris_Mable_Cochran): American herpetologist and custodian of American Natural Collection at the Smithsonian  
 [Gloria Galeano Garcés](https://es.wikipedia.org/wiki/Gloria_Galeano_Garc%C3%A9s): Colombian botanist and agronomist. Her work was principally on neotropical palms   
 [Xiuhtezcatl Martinez](https://en.wikipedia.org/wiki/Xiuhtezcatl_Martinez): Environmental activist and hip hop artist   
-![Volans](constellations/volans_drawing.png)
+![Volans](constellations/volans_drawing.png){: height="350px"}
 <br /><br /><br />
 
 ---
@@ -63,7 +63,7 @@ permalink: /find-your-sign/
 [Helen Rodríguez Trías](https://en.wikipedia.org/wiki/Helen_Rodr%C3%ADguez_Tr%C3%ADas): doctor, educator, and women's rights activist  
 [Susan La Flesche Picotte](https://en.wikipedia.org/wiki/Susan_La_Flesche_Picotte): social reformer and first Indigenous person in the U.S. to earn a medical degree   
 [James L. Patton](https://en.wikipedia.org/wiki/James_L._Patton): American evolutionary biologist and mammologist  
-![Eridanus](constellations/eridanus_drawing.png)
+![Eridanus](constellations/eridanus_drawing.png){: height="350px"}
 <br /><br /><br />
 
 ---
