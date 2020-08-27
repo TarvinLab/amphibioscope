@@ -14,11 +14,11 @@ permalink: /find-your-sign/
 
 ---
 <br />
-[![Volans](constellations/Volans.png){: width="350px" height="350px" style="float:right; padding:10px"}](https://en.wikipedia.org/wiki/Volans) 
+
 # Volans
 ![Volans_sign](constellations/Volans_sign.png){: width="80px" height="80px" style="float:left; padding:10px; text-align:center"}
 
-
+[![Volans](constellations/Volans.png){: width="350px" height="350px" style="float:right; padding:10px"}](https://en.wikipedia.org/wiki/Volans) 
 **Dates**: April 22 - June 1    
 
 **Description**: Volans are brave, and always striving for greater things. Volans often offer justice and protection when others cannot. Some may say that Volans are overconfident, but a Volans would simply state that they are guided by their convictions. However, their self-confidence can sometimes backfire with those who disagree with their opinions. Volans hang tight with Eridanus extroverts and clash with competitive Hercules. They are strongly attracted to their opposite, Lepus, with mixed success.  
@@ -68,7 +68,7 @@ permalink: /find-your-sign/
 [Helen Rodríguez Trías](https://en.wikipedia.org/wiki/Helen_Rodr%C3%ADguez_Tr%C3%ADas): doctor, educator, and women's rights activist  
 [Susan La Flesche Picotte](https://en.wikipedia.org/wiki/Susan_La_Flesche_Picotte): social reformer and first Indigenous person in the U.S. to earn a medical degree   
 [James L. Patton](https://en.wikipedia.org/wiki/James_L._Patton): American evolutionary biologist and mammologist  
-![Eridanus](constellations/eridanus_drawing.png){: height="300px" margin-left="auto" margin-right="auto"}
+![Eridanus](constellations/eridanus_drawing.png){: height="300px" halign="middle"}
 <br /><br /><br />
 
 ---
