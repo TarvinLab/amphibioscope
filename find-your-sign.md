@@ -71,7 +71,7 @@ permalink: /find-your-sign/
 ![Eridanus](constellations/eridanus_drawing.png){: height="300px" .align-center}
 <br />
 <p align="center"> 
-<img src="https://tarvinlab.github.io/amphibioscope/constellations/eridanus_drawing.png">
+<img height="300px" src="https://tarvinlab.github.io/amphibioscope/constellations/eridanus_drawing.png">
 </p>
 <br /><br /><br />
 
