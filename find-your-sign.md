@@ -14,7 +14,7 @@ March 5 - April 21: [Coma Berenices](#comaberenices)
 
 ---
 
-# Volans
+# Volans  
 **Dates**: April 22 - June 1
 ![Volans_sign](constellations/Volans_sign.png){: width="80px" height="80px" style="padding:10px; text-align:center"}
 
@@ -42,7 +42,8 @@ March 5 - April 21: [Coma Berenices](#comaberenices)
 
 ---
 <br/>
-# Eridanus ![Eridanus_sign](constellations/Eridanus_sign.png){: width="80px" height="80px" style="float:left; padding:10px; text-align:center"}  
+# Eridanus
+![Eridanus_sign](constellations/Eridanus_sign.png){: width="80px" height="80px" style="float:left; padding:10px; text-align:center"}  
 
 [![Eridanus](constellations/Eridanus.png){: width="350px" height="350px" style="float:right; padding:10px"}](https://en.wikipedia.org/wiki/Eridanus_(constellation))
 &nbsp; **Dates**: June 2 - July 17 
