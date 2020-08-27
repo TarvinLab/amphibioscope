@@ -34,7 +34,7 @@ permalink: /find-your-sign/
 [Doris Mable Cochran](https://en.wikipedia.org/wiki/Doris_Mable_Cochran): American herpetologist and custodian of American Natural Collection at the Smithsonian  
 [Gloria Galeano Garcés](https://es.wikipedia.org/wiki/Gloria_Galeano_Garc%C3%A9s): Colombian botanist and agronomist. Her work was principally on neotropical palms   
 [Xiuhtezcatl Martinez](https://en.wikipedia.org/wiki/Xiuhtezcatl_Martinez): Environmental activist and hip hop artist   
-![Volans](constellations/volans_drawing.png){: height="300px" style="float:center"}
+![Volans](constellations/volans_drawing.png){: height="300px" align="center"}
 <br /><br /><br />
 
 ---
@@ -63,7 +63,7 @@ permalink: /find-your-sign/
 [Helen Rodríguez Trías](https://en.wikipedia.org/wiki/Helen_Rodr%C3%ADguez_Tr%C3%ADas): doctor, educator, and women's rights activist  
 [Susan La Flesche Picotte](https://en.wikipedia.org/wiki/Susan_La_Flesche_Picotte): social reformer and first Indigenous person in the U.S. to earn a medical degree   
 [James L. Patton](https://en.wikipedia.org/wiki/James_L._Patton): American evolutionary biologist and mammologist  
-![Eridanus](constellations/eridanus_drawing.png){: height="300px" style="float:center"}
+![Eridanus](constellations/eridanus_drawing.png){: height="300px" align="center"}
 <br /><br /><br />
 
 ---
@@ -91,7 +91,7 @@ permalink: /find-your-sign/
 [Henrietta Lacks](https://en.wikipedia.org/wiki/Henrietta_Lacks): African-American woman whose cells became the first immortal cell line, HeLa    
 [Mary G. Ross](https://en.wikipedia.org/wiki/Mary_G._Ross): Cherokee engineer and first known Indigenous female engineer in the U.S   
 [Lydia Villa-Komaroff](https://en.wikipedia.org/wiki/Lydia_Villa-Komaroff): co-founder of Society for the Advancement of Chicanos/Hispanics and Native Americans in Science (SACNAS)
-![Scutum](constellations/scutum_drawing.png){: height="300px" style="float:center"}
+![Scutum](constellations/scutum_drawing.png){: height="300px" align="center"}
 <br /><br /><br />
 
 ---
@@ -119,7 +119,7 @@ permalink: /find-your-sign/
 [Tomoko Ohta](https://en.wikipedia.org/wiki/Tomoko_Ohta): Japanese population geneticist  
 [Alexander Von Humboldt](https://en.wikipedia.org/wiki/Alexander_von_Humboldt): Prussian polymath, geographer, naturalist, and explorer  
 [Francisco Jose de Caldas](https://en.wikipedia.org/wiki/Francisco_Jos%C3%A9_de_Caldas): Colombian scientist, naturalist, and biogeographer  
-![Hercules](constellations/hercules_drawing.png){: height="300px" style="float:center"}
+![Hercules](constellations/hercules_drawing.png){: height="300px" align="center"}
 <br /><br /><br />
 
 ---
@@ -146,7 +146,7 @@ permalink: /find-your-sign/
 [Lise Meitner](https://en.wikipedia.org/wiki/Lise_Meitner): Austrian-Swedish physicist for whom the element meitnerium is named  
 [Rafael Pombo](https://en.wikipedia.org/wiki/Rafael_Pombo) 19st century Colombian poet, childrens literature writer, mathematician and engineer  
 [Marie Curie](https://en.wikipedia.org/wiki/Marie_Curie): Polish and naturalized French physicist and chemist  
-![Phoenix](constellations/phoenix_drawing.png){: height="300px" style="float:center"}
+![Phoenix](constellations/phoenix_drawing.png){: height="300px" align="center"}
 <br /><br /><br />
 
 ---
@@ -177,7 +177,7 @@ permalink: /find-your-sign/
 [Misael Acosta Solis](https://en.wikipedia.org/wiki/Misael_Acosta_Sol%C3%ADs): Ecuadorian naturalist and botanist  
 [Annie Jump Cannon](https://en.wikipedia.org/wiki/Annie_Jump_Cannon): American astronomer whose work contributed to the creation of the contemporary Stellar Classification  
 [Isaac Newton](https://en.wikipedia.org/wiki/Isaac_Newton): English mathematician, physicist, astronomer recognised as one of the most influential scientists of all time   
-![Lepus](constellations/lepus_drawing.png){: height="300px" style="float:center"}
+![Lepus](constellations/lepus_drawing.png){: height="300px" align="center"}
 <br /><br /><br />
 
 ---
@@ -204,7 +204,7 @@ permalink: /find-your-sign/
 [Jennifer Doudna](https://en.wikipedia.org/wiki/Jennifer_Doudna): American biochemist famous for developing CRISPR technologies   
 [Alice Eastwood](https://en.wikipedia.org/wiki/Alice_Eastwood): Canadian-American botanist for whom 17 species are named   
 [Linda B. Buck](https://en.wikipedia.org/wiki/Linda_B._Buck): American biologist and Nobel Prize for her work on olfactory receptors   
-![Circinus](constellations/circinus_drawing.png){: height="300px" style="float:center"}
+![Circinus](constellations/circinus_drawing.png){: height="300px" align="center"}
 <br /><br /><br />
 
 ---
@@ -231,7 +231,7 @@ permalink: /find-your-sign/
 [Robert Downey Jr.](https://en.wikipedia.org/wiki/Robert_Downey_Jr.): American actor best known for his role as Iron Man in Marvel films  
 [Albert Einstein](https://en.wikipedia.org/wiki/Albert_Einstein): German theoretical physicist  
 [Linus C. Pauling](https://en.wikipedia.org/wiki/Linus_Pauling): American chemist and biochemist. He was awarded a Nobel Peace Prize and also a Nobel Prize in Chemistry   
-![ComaBerenices](constellations/comaberenices_drawing.png){: height="300px" style="float:center"}
+![ComaBerenices](constellations/comaberenices_drawing.png){: height="300px" align="center"}
 <br /><br /><br />
 
 ---
