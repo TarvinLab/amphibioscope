@@ -69,8 +69,9 @@ permalink: /find-your-sign/
 [Susan La Flesche Picotte](https://en.wikipedia.org/wiki/Susan_La_Flesche_Picotte): social reformer and first Indigenous person in the U.S. to earn a medical degree   
 [James L. Patton](https://en.wikipedia.org/wiki/James_L._Patton): American evolutionary biologist and mammologist  
 ![Eridanus](constellations/eridanus_drawing.png){: height="300px" .align-center}
+<br />
 <p align="center"> 
-<img src="constellations/eridanus_drawing.png">
+<img src="https://tarvinlab.github.io/amphibioscope/constellations/eridanus_drawing.png">
 </p>
 <br /><br /><br />
 
