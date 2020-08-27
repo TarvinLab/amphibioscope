@@ -2,7 +2,7 @@
 title: Find Your Sign
 permalink: /find-your-sign/
 ---
-
+# Amphibiological signs
 ### April 22 - June 1: [Volans](#volans)  
 ### June 2 - July 17: [Eridanus](#eridanus)  
 ### July 18 - September 1: [Scutum](#scutum)  
@@ -10,7 +10,7 @@ permalink: /find-your-sign/
 ### October 18 - December 2: [Phoenix](#phoenix)  
 ### December 3 - January 17: [Lepus](#lepus)  
 ### January 18 - March 4: [Circinus](#circinus)  
-### March 5 - April 21: [Coma Berenices](#comaberenices)  
+### March 5 - April 21: [Coma Berenices](#coma-berenices)  
 
 ---
 <br />
@@ -42,6 +42,7 @@ permalink: /find-your-sign/
 <p align="center"> 
 <img height="300px" src="https://tarvinlab.github.io/amphibioscope/constellations/volans_drawing.png">
 </p>
+[Top](#amphibiological-signs)
 <br /><br /><br />
 
 ---
@@ -75,6 +76,7 @@ permalink: /find-your-sign/
 <p align="center"> 
 <img height="300px" src="https://tarvinlab.github.io/amphibioscope/constellations/eridanus_drawing.png">
 </p>
+[Top](#amphibiological-signs)
 <br /><br /><br />
 
 ---
@@ -107,6 +109,7 @@ permalink: /find-your-sign/
 <p align="center"> 
 <img height="250px" src="https://tarvinlab.github.io/amphibioscope/constellations/scutum_drawing.png">
 </p>
+[Top](#amphibiological-signs)
 <br /><br /><br />
 
 ---
@@ -139,6 +142,7 @@ permalink: /find-your-sign/
 <p align="center"> 
 <img height="300px" src="https://tarvinlab.github.io/amphibioscope/constellations/hercules_drawing.png">
 </p>
+[Top](#amphibiological-signs)
 <br /><br />
 
 ---
@@ -170,6 +174,7 @@ permalink: /find-your-sign/
 <p align="center"> 
 <img height="300px" src="https://tarvinlab.github.io/amphibioscope/constellations/phoenix_drawing.png">
 </p>
+[Top](#amphibiological-signs)
 <br /><br /><br />
 
 ---
@@ -205,6 +210,7 @@ permalink: /find-your-sign/
 <p align="center"> 
 <img height="300px" src="https://tarvinlab.github.io/amphibioscope/constellations/lepus_drawing.png">
 </p>
+[Top](#amphibiological-signs)
 <br /><br /><br />
 
 ---
@@ -236,6 +242,7 @@ permalink: /find-your-sign/
 <p align="center"> 
 <img height="300px" src="https://tarvinlab.github.io/amphibioscope/constellations/circinus_drawing.png">
 </p>
+[Top](#amphibiological-signs)
 <br /><br /><br />
 
 ---
@@ -267,6 +274,7 @@ permalink: /find-your-sign/
 <p align="center"> 
 <img height="300px" src="https://tarvinlab.github.io/amphibioscope/constellations/comaberenices_drawing.png">
 </p>
+[Top](#amphibiological-signs)
 <br /><br /><br />
 
 ---
