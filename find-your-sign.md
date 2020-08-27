@@ -14,9 +14,7 @@ permalink: /find-your-sign/
 
 ---
 <br />
-<p align="center"> 
-<img height="300px" src="https://tarvinlab.github.io/amphibioscope/constellations/volans_drawing.png">
-</p>
+
 # Volans
 ![Volans_sign](constellations/Volans_sign.png){: width="80px" height="80px" style="float:left; padding:10px; text-align:center"}
 
@@ -40,14 +38,18 @@ permalink: /find-your-sign/
 [Doris Mable Cochran](https://en.wikipedia.org/wiki/Doris_Mable_Cochran): American herpetologist and custodian of American Natural Collection at the Smithsonian  
 [Gloria Galeano Garcés](https://es.wikipedia.org/wiki/Gloria_Galeano_Garc%C3%A9s): Colombian botanist and agronomist. Her work was principally on neotropical palms   
 [Xiuhtezcatl Martinez](https://en.wikipedia.org/wiki/Xiuhtezcatl_Martinez): Environmental activist and hip hop artist   
+<br />
+<p align="center"> 
+<img height="300px" src="https://tarvinlab.github.io/amphibioscope/constellations/volans_drawing.png">
+</p>
 <br /><br /><br />
 
 ---
 <br/>
 # Eridanus
-[![Eridanus_drawing](constellations/eridanus_drawing.png){: height="350px" style="float:left; padding:10px"}][![Eridanus](constellations/Eridanus.png){: width="350px" height="350px" style="float:right; padding:10px"}](https://en.wikipedia.org/wiki/Eridanus_(constellation))
-
 ![Eridanus_sign](constellations/Eridanus_sign.png){: width="80px" height="80px" style="float:left; padding:10px; text-align:center"}  
+
+[![Eridanus](constellations/Eridanus.png){: width="350px" height="350px" style="float:right; padding:10px"}](https://en.wikipedia.org/wiki/Eridanus_(constellation))
 **Dates**: June 2 - July 17 
 
 **Description**: Known for their out-going and extroverted nature, Eridani are bright-eyed with a strong sense of adventure. They follow the beat of their own drum, which can be their greatest strength but also make it hard for others to relate. Eridanus loves to talk and collaborate with other creative spirits. They usually hit it off with Volans, are inspired by Phoenix, appreciate the support of Coma Berenices, and clash with Hercules and Scutum.  
@@ -69,6 +71,10 @@ permalink: /find-your-sign/
 [Helen Rodríguez Trías](https://en.wikipedia.org/wiki/Helen_Rodr%C3%ADguez_Tr%C3%ADas): doctor, educator, and women's rights activist  
 [Susan La Flesche Picotte](https://en.wikipedia.org/wiki/Susan_La_Flesche_Picotte): social reformer and first Indigenous person in the U.S. to earn a medical degree   
 [James L. Patton](https://en.wikipedia.org/wiki/James_L._Patton): American evolutionary biologist and mammologist  
+<br />
+<p align="center"> 
+<img height="300px" src="https://tarvinlab.github.io/amphibioscope/constellations/eridanus_drawing.png">
+</p>
 <br /><br /><br />
 
 ---
