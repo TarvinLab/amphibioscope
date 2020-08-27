@@ -14,8 +14,8 @@ March 5 - April 21: [Coma Berenices](#comaberenices)
 
 ---
 
-# Volans  
-**Dates**: April 22 - June 1
+# Volans
+<br />**Dates**: April 22 - June 1
 ![Volans_sign](constellations/Volans_sign.png){: width="80px" height="80px" style="padding:10px; text-align:center"}
 
 [![Volans](constellations/Volans.png){: width="350px" height="350px" style="float:right; padding:10px"}](https://en.wikipedia.org/wiki/Volans)   
