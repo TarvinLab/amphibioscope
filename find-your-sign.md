@@ -182,8 +182,8 @@ permalink: /find-your-sign/
 # Lepus
 ![Lepus_sign](constellations/Lepus_sign.png){: width="80px" height="80px" style="float:left; padding:10px; text-align:center"}  
 
-[![Lepus](constellations/Lepus.png){: width="350px" height="350px" style="float:right; padding:10px"}](https://en.wikipedia.org/wiki/Lepus_(constellation))
 **Dates**: December 3 - January 17 
+[![Lepus](constellations/Lepus.png){: width="350px" height="350px" style="float:right; padding:10px"}](https://en.wikipedia.org/wiki/Lepus_(constellation))
 
 **Description**: Lepus are “grounded” and operate beneath the surface of the mainstream. They are innovative, finding unconventional ways to achieve their goals. Lepus are generally quiet but can be loud when speaking their mind. They do not like the limelight and prefer to judge others on their character rather than their appearance. Lepus do not mind getting dirty but shy away from confrontation. Lepus like spending quiet time with other people, and thus get along well with Coma Berenices. They like having Hercules around to help them fight their battles, and they find their opposite Volans, whom they get along with some of the time, fascinating.    
 
