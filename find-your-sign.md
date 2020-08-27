@@ -79,6 +79,9 @@ permalink: /find-your-sign/
 <p align="center"> 
 <img height="350px" src="https://tarvinlab.github.io/amphibioscope/constellations/eridanus_drawing.png">
 </p>
+*Typhlonectes natans*
+{: style="color:gray; text-align: center;"}
+
 [Top](#amphibiological-signs)
 <br /><br /><br />
 
@@ -112,6 +115,9 @@ permalink: /find-your-sign/
 <p align="center"> 
 <img height="250px" src="https://tarvinlab.github.io/amphibioscope/constellations/scutum_drawing.png">
 </p>
+*Taricha torosa*
+{: style="color:gray; text-align: center;"}
+
 [Top](#amphibiological-signs)
 <br /><br /><br />
 
@@ -145,6 +151,9 @@ permalink: /find-your-sign/
 <p align="center"> 
 <img height="300px" src="https://tarvinlab.github.io/amphibioscope/constellations/hercules_drawing.png">
 </p>
+*Dendrobates auratus*
+{: style="color:gray; text-align: center;"}
+
 [Top](#amphibiological-signs)
 <br /><br />
 
@@ -178,6 +187,9 @@ permalink: /find-your-sign/
 <p align="center"> 
 <img height="300px" src="https://tarvinlab.github.io/amphibioscope/constellations/phoenix_drawing.png">
 </p>
+*Aneides lugubris*
+{: style="color:gray; text-align: center;"}
+
 [Top](#amphibiological-signs)
 <br /><br /><br />
 
@@ -214,6 +226,9 @@ permalink: /find-your-sign/
 <p align="center"> 
 <img height="300px" src="https://tarvinlab.github.io/amphibioscope/constellations/lepus_drawing.png">
 </p>
+*Breviceps macrops*
+{: style="color:gray; text-align: center;"}
+
 [Top](#amphibiological-signs)
 <br /><br /><br />
 
@@ -246,6 +261,9 @@ permalink: /find-your-sign/
 <p align="center"> 
 <img height="300px" src="https://tarvinlab.github.io/amphibioscope/constellations/circinus_drawing.png">
 </p>
+*Leptodactylus fallax*
+{: style="color:gray; text-align: center;"}
+
 [Top](#amphibiological-signs)
 <br /><br /><br />
 
@@ -278,6 +296,9 @@ permalink: /find-your-sign/
 <p align="center"> 
 <img height="300px" src="https://tarvinlab.github.io/amphibioscope/constellations/comaberenices_drawing.png">
 </p>
+*Gastrotheca cornuta*
+{: style="color:gray; text-align: center;"}
+
 [Top](#amphibiological-signs)
 <br /><br /><br />
 
