@@ -3,14 +3,14 @@ title: Find Your Sign
 permalink: /find-your-sign/
 ---
 # Amphibiological signs
-### April 22 - June 1: [Volans](#volans)  
-### June 2 - July 17: [Eridanus](#eridanus)  
-### July 18 - September 1: [Scutum](#scutum)  
-### September 2 - October 17: [Hercules](#hercules)  
-### October 18 - December 2: [Phoenix](#phoenix)  
-### December 3 - January 17: [Lepus](#lepus)  
-### January 18 - March 4: [Circinus](#circinus)  
-### March 5 - April 21: [Coma Berenices](#coma-berenices)  
+## April 22 - June 1: [Volans](#volans)  
+## June 2 - July 17: [Eridanus](#eridanus)  
+## July 18 - September 1: [Scutum](#scutum)  
+## September 2 - October 17: [Hercules](#hercules)  
+## October 18 - December 2: [Phoenix](#phoenix)  
+## December 3 - January 17: [Lepus](#lepus)  
+## January 18 - March 4: [Circinus](#circinus)  
+## March 5 - April 21: [Coma Berenices](#coma-berenices)  
 
 ---
 <br />
@@ -72,9 +72,8 @@ permalink: /find-your-sign/
 [Helen Rodríguez Trías](https://en.wikipedia.org/wiki/Helen_Rodr%C3%ADguez_Tr%C3%ADas): doctor, educator, and women's rights activist  
 [Susan La Flesche Picotte](https://en.wikipedia.org/wiki/Susan_La_Flesche_Picotte): social reformer and first Indigenous person in the U.S. to earn a medical degree   
 [James L. Patton](https://en.wikipedia.org/wiki/James_L._Patton): American evolutionary biologist and mammologist  
-<br />
 <p align="center"> 
-<img height="300px" src="https://tarvinlab.github.io/amphibioscope/constellations/eridanus_drawing.png">
+<img height="350px" src="https://tarvinlab.github.io/amphibioscope/constellations/eridanus_drawing.png">
 </p>
 [Top](#amphibiological-signs)
 <br /><br /><br />
@@ -150,8 +149,9 @@ permalink: /find-your-sign/
 # Phoenix 
 ![Phoenix_sign](constellations/Phoenix_sign.png){: width="80px" height="80px" style="float:left; padding:10px; text-align:center"}  
 
-[![Phoenix](constellations/Phoenix.png){: width="350px" height="350px" style="float:right; padding:10px"}](https://en.wikipedia.org/wiki/Phoenix_(constellation))
 **Dates**: October 18 - December 2  
+[![Phoenix](constellations/Phoenix.png){: width="350px" height="350px" style="float:right; padding:10px"}](https://en.wikipedia.org/wiki/Phoenix_(constellation))
+
 
 **Description**: Phoenix are born ready to follow their dreams. They are often perceived as mature and serious, but Phoenix can be tender and vulnerable when feeling comfortable. They had to grow up quickly, which is why it is sometimes difficult for them to unwind. Nevertheless, their curiosity drives them to keep learning and they are willing to change. Phoenix happily get along with those who don’t get in their way, like Eridanus or Scutum (when these tenacious individuals are on a separate path).  
 
