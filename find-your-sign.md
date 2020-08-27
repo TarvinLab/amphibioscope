@@ -15,7 +15,7 @@ March 5 - April 21: [Coma Berenices](#comaberenices)
 ---
 
 # Volans
-![Volans_sign](constellations/Volans_sign.png){: width="80px" height="80px" style="float:center"}
+![Volans_sign](constellations/Volans_sign.png){: width="80px" height="80px" style="float:left; padding:10px; text-align:center"}
 
 [![Volans](constellations/Volans.png){: width="350px" height="350px" style="float:right; padding:10px"}](https://en.wikipedia.org/wiki/Volans) 
 **Dates**: April 22 - June 1    
@@ -72,10 +72,11 @@ March 5 - April 21: [Coma Berenices](#comaberenices)
 
 ---
 <br/>
-# &nbsp; Scutum ![Scutum_sign](constellations/Scutum_sign.png){: width="80px" height="80px" style="float:left; padding:10px; text-align:center"}  
+# Scutum 
+![Scutum_sign](constellations/Scutum_sign.png){: width="80px" height="80px" style="float:left; padding:10px; text-align:center"}  
 
 [![Scutum](constellations/Scutum.png){: width="350px" height="350px" style="float:right; padding:10px"}](https://en.wikipedia.org/wiki/Scutum_(constellation))
-&nbsp; **Dates**: July 18 - September 1 
+**Dates**: July 18 - September 1 
 
 **Description**: Scuta are known as the protectors. They are loyal and strong; it is well worth the effort to get to know one. Scuta are often warm and welcoming once you get past their external barriers. Given their tenacity, Scuta are driven to scheme for success, often coming up with surprising solutions to difficult problems. Scutum individuals have the most difficulty relating to Eridanus and Volans, though they get along well with Hercules and Lepus. 
   
@@ -100,9 +101,10 @@ March 5 - April 21: [Coma Berenices](#comaberenices)
 
 ---
 <br/>
-# &nbsp; Hercules ![Hercules_sign](constellations/Hercules_sign.png){: width="80px" height="80px" style="float:left; padding:10px; text-align:center"}  
+# Hercules 
+![Hercules_sign](constellations/Hercules_sign.png){: width="80px" height="80px" style="float:left; padding:10px; text-align:center"}  
 
-&nbsp; **Dates**: September 2 - October 17
+**Dates**: September 2 - October 17
 [![Hercules](constellations/Hercules.png){: width="350px" height="350px" style="float:right; padding:10px"}](https://en.wikipedia.org/wiki/Hercules_(constellation))
 
 **Description**: Hercules are powerful, deliberate, and competent. They put a lot of effort into achieving their personal and collective goals, and are thus often admired by those surrounding them. Hercules love to fight for just causes and they are always on the side of the downtrodden. A great sense of humor and competitive spirit make Hercules fun and entertaining when relaxed. Hercules easily bond with other competitive spirits like Scutum. They should be careful not to be too overbearing when in relationships with Circinus and Eriadanus. Volans, Phoenix, and Scutum -- on the other hand -- find the strength of will in Hercules invigorating.  
@@ -128,9 +130,9 @@ March 5 - April 21: [Coma Berenices](#comaberenices)
 
 ---
 <br/>
-# &nbsp; Phoenix ![Phoenix_sign](constellations/Phoenix_sign.png){: width="80px" height="80px" style="float:left; padding:10px; text-align:center"}  
+# Phoenix ![Phoenix_sign](constellations/Phoenix_sign.png){: width="80px" height="80px" style="float:left; padding:10px; text-align:center"}  
 
-&nbsp; **Dates**: October 18 - December 2  
+**Dates**: October 18 - December 2  
 [![Phoenix](constellations/Phoenix.png){: width="350px" height="350px" style="float:right; padding:10px"}](https://en.wikipedia.org/wiki/Phoenix_(constellation))
 
 **Description**: Phoenix are born ready to follow their dreams. They are often perceived as mature and serious, but Phoenix can be tender and vulnerable when feeling comfortable. They had to grow up quickly, which is why it is sometimes difficult for them to unwind. Nevertheless, their curiosity drives them to keep learning and they are willing to change. Phoenix happily get along with those who don’t get in their way, like Eridanus or Scutum (when these tenacious individuals are on a separate path).  
@@ -155,9 +157,10 @@ March 5 - April 21: [Coma Berenices](#comaberenices)
 
 ---
 <br/>
-# &nbsp; Lepus ![Lepus_sign](constellations/Lepus_sign.png){: width="80px" height="80px" style="float:left; padding:10px; text-align:center"}  
+# Lepus
+![Lepus_sign](constellations/Lepus_sign.png){: width="80px" height="80px" style="float:left; padding:10px; text-align:center"}  
 
-&nbsp; **Dates**: December 3 - January 17 
+**Dates**: December 3 - January 17 
 [![Lepus](constellations/Lepus.png){: width="350px" height="350px" style="float:right; padding:10px"}](https://en.wikipedia.org/wiki/Lepus_(constellation))
 
 **Description**: Lepus are “grounded” and operate beneath the surface of the mainstream. They are innovative, finding unconventional ways to achieve their goals. Lepus are generally quiet but can be loud when speaking their mind. They do not like the limelight and prefer to judge others on their character rather than their appearance. Lepus do not mind getting dirty but shy away from confrontation. Lepus like spending quiet time with other people, and thus get along well with Coma Berenices. They like having Hercules around to help them fight their battles, and they find their opposite Volans, whom they get along with some of the time, fascinating.    
@@ -186,10 +189,11 @@ March 5 - April 21: [Coma Berenices](#comaberenices)
 
 ---
 <br/>
-# &nbsp; Circinus ![Circinus_sign](constellations/Circinus_sign.png){: width="80px" height="80px" style="float:left; padding:10px; text-align:center"}  
+# Circinus
+![Circinus_sign](constellations/Circinus_sign.png){: width="80px" height="80px" style="float:left; padding:10px; text-align:center"}  
 
 [![Circinus](constellations/Circinus.png){: width="350px" height="350px" style="float:right; padding:10px"}](https://en.wikipedia.org/wiki/Circinus)
-&nbsp; **Dates**: January 18 - March 4
+**Dates**: January 18 - March 4
 
 **Description**: Circinus are wanderers who simultaneously seek their place in the world and are satisfied with not knowing  where that might be. They do not agree with conventional ideas of success and like to explore and enjoy life in different manners. Sometimes they will go with the flow, and other times they will make quick decisions; in general, Circinus are difficult to predict! Creative, inquisitive, and fun, Circinus tends to get along well with Eridanus, enjoy deep conversations with Phoenix, and make great partners of Lepus. Circinus do not take well to the more competitive spirits like Hercules and Scutum.    
 
@@ -213,10 +217,11 @@ March 5 - April 21: [Coma Berenices](#comaberenices)
 
 ---
 <br/>
-# &nbsp; Coma Berenices ![ComaBerenices_sign](constellations/ComaBerenices_sign.png){: width="80px" height="80px" style="float:left; padding:10px; text-align:center"}  
+# Coma Berenices
+![ComaBerenices_sign](constellations/ComaBerenices_sign.png){: width="80px" height="80px" style="float:left; padding:10px; text-align:center"}  
 
 [![ComaBerenices](constellations/ComaBerenices.png){: width="350px" height="350px" style="float:right; padding:10px"}](https://en.wikipedia.org/wiki/Coma_Berenices)
-&nbsp; **Dates**: March 5 - April 21
+**Dates**: March 5 - April 21
 
 **Description**: Coma Berenices truly understand the interconnectedness of life, and they care deeply for the people they are connected to. They will take drastic action for people they love. Coma Berenices are loyal and attentive to their loved ones, yet they can be oblivious to the concerns of individuals outside their inner circles. They speak up for what they believe in but do not always know how to do it tactfully. Coma Berenices are happy to guide individuals like Circinus or boost the ambitions of Phoenix, but they clash with flighty Volans and non-conforming Eridanus.    
 
