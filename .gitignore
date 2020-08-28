@@ -4,5 +4,4 @@
 .bundle/
 website_draft.docx
 generate_horoscope.py
-raw_art/
 Gemfile.lock
