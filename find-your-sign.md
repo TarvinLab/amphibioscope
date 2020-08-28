@@ -148,9 +148,11 @@ permalink: /find-your-sign/
 <p align="center"> 
 <img height="300px" src="https://tarvinlab.github.io/amphibioscope/constellations/hercules_drawing.png">
 </p>
-[Top](#amphibiological-signs)
+
 *Dendrobates auratus*
 {: style="color:gray; text-align: center;"}
+
+[Top](#amphibiological-signs)  
 
 ---
 <br/>
@@ -224,6 +226,7 @@ permalink: /find-your-sign/
 {: style="color:gray; text-align: center;"}
 
 [Top](#amphibiological-signs)  
+  
 ---
 <br/>
 # Circinus
