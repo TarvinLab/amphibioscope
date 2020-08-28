@@ -45,7 +45,6 @@ permalink: /find-your-sign/
 </p>
 *Rhacophorus nigropalmatus*
 {: style="color:gray; text-align: center;"}  
-
 [Top](#amphibiological-signs)
 
 ---
@@ -224,7 +223,6 @@ permalink: /find-your-sign/
 </p>
 *Breviceps macrops*
 {: style="color:gray; text-align: center;"}
-
 [Top](#amphibiological-signs)  
   
 ---
