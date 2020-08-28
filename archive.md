@@ -1,6 +1,6 @@
 ---
 title: Archived Amphibioscopes
-permalink: /archive
+permalink: /archive/
 ---
 
 <ul>
