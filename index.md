@@ -11,7 +11,6 @@
 ## What's your sign? Find out [here](https://tarvinlab.github.io/amphibioscope/find-your-sign) 
 <br/>
 
-
 ## About Amphibioscope  
 
 Amphibioscope is a daily horoscope bot that infuses AI-generated horoscopes with amphibian life-history data from [AmphibiaWeb](https://www.amphibiaweb.org) for science communication and entertainment purposes. **We note that the amphibian information and horoscopes included in amphibioscope are written by a computer program and meant to look real – but they are not**.
