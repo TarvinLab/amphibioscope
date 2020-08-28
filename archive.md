@@ -1,3 +1,8 @@
+---
+title: Archived Amphibioscopes
+permalink: /archive/
+---
+
 <ul>
   {% for date in site.archive %}
     <li>
