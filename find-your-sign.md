@@ -79,7 +79,6 @@ permalink: /find-your-sign/
 </p>
 *Typhlonectes natans*
 {: style="color:gray; text-align: center;"}
-
 [Top](#amphibiological-signs)  
 
 ---
@@ -114,7 +113,6 @@ permalink: /find-your-sign/
 </p>
 *Taricha torosa*
 {: style="color:gray; text-align: center;"}
-
 [Top](#amphibiological-signs)  
 
 ---
@@ -150,7 +148,6 @@ permalink: /find-your-sign/
 
 *Dendrobates auratus*
 {: style="color:gray; text-align: center;"}
-
 [Top](#amphibiological-signs)  
 
 ---
@@ -185,7 +182,6 @@ permalink: /find-your-sign/
 </p>
 *Aneides lugubris*
 {: style="color:gray; text-align: center;"}
-
 [Top](#amphibiological-signs)  
 
 ---
@@ -256,7 +252,6 @@ permalink: /find-your-sign/
 </p>
 *Leptodactylus fallax*
 {: style="color:gray; text-align: center;"}
-
 [Top](#amphibiological-signs)  
 
 ---
@@ -290,7 +285,6 @@ permalink: /find-your-sign/
 </p>
 *Gastrotheca cornuta*
 {: style="color:gray; text-align: center;"}
-
 [Top](#amphibiological-signs)  
 
 ---
