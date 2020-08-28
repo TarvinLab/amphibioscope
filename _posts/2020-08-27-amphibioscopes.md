@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Sunday August 30, 2020"
-date: 2020-08-27
+
 ---
 
 
