@@ -36,7 +36,7 @@ header_pages:
   - index.md
   - find-your-sign.md
 
-future: false
+future: True
   
 
 # Exclude from processing.
