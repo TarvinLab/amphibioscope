@@ -1,7 +1,7 @@
 <ul>
   {% for date in site.archive %}
     <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
+      <a href="{{ date.url }}">{{ date.title }}</a>
     </li>
   {% endfor %}
 </ul>
