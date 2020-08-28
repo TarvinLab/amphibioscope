@@ -19,7 +19,7 @@ layout: default
 <br />
 
 # Volans
-![Volans_sign](constellations/Volans_sign.png){: width="80px" height="80px" style="float:left; padding:10px; text-align:center"}
+![Volans_sign](constellations/Volans_sign.png){: width="80px" height="80px" style="float:left; padding:10px; text-align:center"}<br /><br />
 
 **Dates**: April 22 - June 1    
 
