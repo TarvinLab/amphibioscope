@@ -35,6 +35,8 @@ plugins:
 header_pages:
   - index.md
   - find-your-sign.md
+
+future: true
   
 
 # Exclude from processing.
