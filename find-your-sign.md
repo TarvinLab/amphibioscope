@@ -185,7 +185,7 @@ permalink: /find-your-sign/
 [Marie Curie](https://en.wikipedia.org/wiki/Marie_Curie): Polish and naturalized French physicist and chemist  
 <br />
 <p align="center"> 
-<img height="300px" src="https://tarvinlab.github.io/amphibioscope/constellations/phoenix_drawing.png">
+<img height="280px" src="https://tarvinlab.github.io/amphibioscope/constellations/phoenix_drawing.png">
 </p>
 *Aneides lugubris*
 {: style="color:gray; text-align: center;"}
