@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "Sunday August 30, 2020"
 date: 2020-08-27 08:00 -7:00
 
