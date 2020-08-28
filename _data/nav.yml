@@ -9,3 +9,6 @@ pages:
   
 - title: Recent Amphibioscopes
   href: "/amphibioscope/recent-amphibioscopes/"
+  
+- title: Archived Amphibioscopes
+  href: "/amphibioscope/archive/"
