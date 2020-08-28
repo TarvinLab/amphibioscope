@@ -46,8 +46,7 @@ permalink: /find-your-sign/
 *Rhacophorus nigropalmatus*
 {: style="color:gray; text-align: center;"}
 
-[Top](#amphibiological-signs)
-<br /><br /><br />
+[Top](#amphibiological-signs)  
 
 ---
 <br/>
@@ -82,8 +81,7 @@ permalink: /find-your-sign/
 *Typhlonectes natans*
 {: style="color:gray; text-align: center;"}
 
-[Top](#amphibiological-signs)
-<br /><br /><br />
+[Top](#amphibiological-signs)  
 
 ---
 <br/>
@@ -118,8 +116,7 @@ permalink: /find-your-sign/
 *Taricha torosa*
 {: style="color:gray; text-align: center;"}
 
-[Top](#amphibiological-signs)
-<br /><br /><br />
+[Top](#amphibiological-signs)  
 
 ---
 <br/>
@@ -151,11 +148,9 @@ permalink: /find-your-sign/
 <p align="center"> 
 <img height="300px" src="https://tarvinlab.github.io/amphibioscope/constellations/hercules_drawing.png">
 </p>
+[Top](#amphibiological-signs)
 *Dendrobates auratus*
 {: style="color:gray; text-align: center;"}
-
-[Top](#amphibiological-signs)
-<br /><br />
 
 ---
 <br/>
@@ -190,8 +185,7 @@ permalink: /find-your-sign/
 *Aneides lugubris*
 {: style="color:gray; text-align: center;"}
 
-[Top](#amphibiological-signs)
-<br /><br /><br />
+[Top](#amphibiological-signs)  
 
 ---
 <br/>
@@ -229,9 +223,7 @@ permalink: /find-your-sign/
 *Breviceps macrops*
 {: style="color:gray; text-align: center;"}
 
-[Top](#amphibiological-signs)
-<br /><br /><br />
-
+[Top](#amphibiological-signs)  
 ---
 <br/>
 # Circinus
@@ -264,8 +256,7 @@ permalink: /find-your-sign/
 *Leptodactylus fallax*
 {: style="color:gray; text-align: center;"}
 
-[Top](#amphibiological-signs)
-<br /><br /><br />
+[Top](#amphibiological-signs)  
 
 ---
 <br/>
@@ -299,8 +290,7 @@ permalink: /find-your-sign/
 *Gastrotheca cornuta*
 {: style="color:gray; text-align: center;"}
 
-[Top](#amphibiological-signs)
-<br /><br /><br />
+[Top](#amphibiological-signs)  
 
 ---
 **Disclaimer:** The information included in the celebrity biography is publicly available information (birthday, profession and name). This horoscope sign’s description is not based on the personalities or personal history of the “celebrities” named. If you have been named in this section and you feel uncomfortable about being included, please reach out to Rebecca Tarvin at rdtarvin [at] gmail . com to be removed from the list. This project is a non-commercial activity for entertainment and science outreach purposes.
