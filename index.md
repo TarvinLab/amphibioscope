@@ -9,7 +9,6 @@
 <br/>
 
 ## What's your sign? Find out [here](https://tarvinlab.github.io/amphibioscope/find-your-sign) 
-<br/>
 
 ## About Amphibioscope  
 
