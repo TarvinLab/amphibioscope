@@ -43,10 +43,8 @@ permalink: /find-your-sign/
 <p align="center"> 
 <img height="300px" src="https://tarvinlab.github.io/amphibioscope/constellations/volans_drawing.png">
 </p>
-*Rhacophorus nigropalmatus*
-{: style="color:gray; text-align: center;"}
-
 [Top](#amphibiological-signs)  
+*Rhacophorus nigropalmatus*{: style="color:gray; text-align: center;"}  
 
 ---
 <br/>
