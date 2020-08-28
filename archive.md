@@ -1,6 +1,7 @@
 ---
 title: Archived Amphibioscopes
 permalink: /archive/
+layout: default
 ---
 
 ![header](constellations/Header.png)

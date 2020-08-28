@@ -1,6 +1,7 @@
 ---
 title: Find Your Sign
 permalink: /find-your-sign/
+layout: default
 ---
 
 # Amphibiological signs
