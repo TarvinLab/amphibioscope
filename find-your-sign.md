@@ -6,7 +6,7 @@ layout: default
 
 # Amphibiological signs
 <br />
-![frog-man](frogman.png)
+![frog-man](constellations/frogman.png)
 {: width="300px" height="300px" style="float:right; padding:10px"}
 
 ## April 22 - June 1: [Volans](#volans)  
