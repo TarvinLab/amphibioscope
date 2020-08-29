@@ -6,7 +6,8 @@ layout: default
 
 # Amphibiological signs
 <br />
-![frog-man](Frog\ scope_RDT-01.png){: width="300px" height="300px" style="float:right; padding:10px"}
+![frog-man](frogman.png){: width="300px" height="300px" style="float:right; padding:10px"}
+
 ## April 22 - June 1: [Volans](#volans)  
 ## June 2 - July 17: [Eridanus](#eridanus)  
 ## July 18 - September 1: [Scutum](#scutum)  
