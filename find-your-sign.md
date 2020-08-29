@@ -6,8 +6,7 @@ layout: default
 
 # Amphibiological signs
 <br />
-![frog-man](constellations/frogman.png)
-{: width="100px" height="100px" style="float:right; padding:10px"}
+![frog-man](constellations/frogman.png){: width="100px" height="100px" style="float:right; padding:10px"}
 
 ## April 22 - June 1: [Volans](#volans)  
 ## June 2 - July 17: [Eridanus](#eridanus)  
