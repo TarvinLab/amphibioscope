@@ -6,7 +6,7 @@ twitter-timeline:
   chrome: nofooter noborders transparent
   tweet_limit: 16
   inject_js: true
-title: Recent Amphibioscopes
-permalink: /recent-amphibioscopes/
+title: Twitter Feed
+permalink: /twitter-feed/
 ---
 

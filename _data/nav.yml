@@ -7,8 +7,8 @@ pages:
 - title: Find Your Sign
   href: "/amphibioscope/find-your-sign/"
   
-- title: Recent Amphibioscopes
-  href: "/amphibioscope/recent-amphibioscopes/"
+- title: Twitter Feed
+  href: "/amphibioscope/twitter-feed/"
   
-- title: Archived Amphibioscopes
+- title: Daily Amphibioscope Archive
   href: "/amphibioscope/archive/"
