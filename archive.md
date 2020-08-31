@@ -1,5 +1,5 @@
 ---
-title: Daily Amphibioscope Archive
+title: Daily Archive
 permalink: /archive/
 layout: default
 ---
