@@ -1,14 +1,14 @@
 pages_list_title: Navigation
 pages:
 
-- title: Home
+- title: - Home
   href: "/amphibioscope/"
 
-- title: Find Your Sign
+- title: - Find Your Sign
   href: "/amphibioscope/find-your-sign/"
   
-- title: Twitter Feed
+- title: - Twitter Feed
   href: "/amphibioscope/twitter-feed/"
   
-- title: Daily Amphibioscope Archive
+- title: - Daily Amphibioscope Archive
   href: "/amphibioscope/archive/"
