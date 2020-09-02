@@ -145,7 +145,7 @@ layout: default
 [*Conraua goliath*](https://amphibiaweb.org/cgi/amphib_query?where-genus=Conraua&where-species=goliath): the largest frog in the world, also known as the goliath bullfrog and the giant slippery frog  
 
 **Hercules Celebrities**  
-[Neil deGrasse Tyson](https://en.wikipedia.org/wiki/Neil_deGrasse_Tyson): American astrophysicist  
+[Margaret S. Collins](https://en.wikipedia.org/wiki/Margaret_S._Collins): The "Termite Lady" and the first African American female professional entomologist  
 [Mae Jemison](https://en.wikipedia.org/wiki/Mae_Jemison): first Black woman in space  
 [Tomoko Ohta](https://en.wikipedia.org/wiki/Tomoko_Ohta): Japanese population geneticist  
 [Alexander Von Humboldt](https://en.wikipedia.org/wiki/Alexander_von_Humboldt): Prussian polymath, geographer, naturalist, and explorer  
