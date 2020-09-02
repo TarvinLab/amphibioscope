@@ -332,6 +332,7 @@ footer {
   margin-top: 40px;
   font-size: 13px;
   color: #aaa;
+  
   .newsletter-container {
         max-width: 400px;
         border-radius: 1em;
@@ -353,11 +354,11 @@ footer {
         font-size: 1.5em;
         margin: 0;
         color: #fff;
-        font-family: $lato;
+        font-family: 'Helvetica Neue', Helvetica, Arial, serif;
         text-transform: uppercase;
     }
     .newsletter-text {
-        font-family: $lato;
+        font-family: 'Helvetica Neue', Helvetica, Arial, serif;
         font-weight: 600;
         color: #ddd;
         text-align: center;
@@ -370,7 +371,7 @@ footer {
         align-self: center;
     }
     .newsletter-email {
-        font-family: $serif-primary;
+        font-family: 'Helvetica Neue', Helvetica, Arial, serif;
         text-align: center;
         font-size: .9em;
     }
